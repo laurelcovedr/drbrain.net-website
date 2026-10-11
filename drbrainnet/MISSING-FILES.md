@@ -6,4 +6,5 @@ All ten previously missing, authorized regulatory PDFs are uploaded and verified
 
 - `public/resources/registrations/vr-asd-brazil-icc.pdf`: intentionally excluded per user instruction; requires an approved sanitized replacement.
 
-The demonstration video is stored in checksum-verifiable backup parts; restore it using `scripts/restore-backup-assets.py`.
+The demonstration video is stored in checksum-verifiable backup parts; supported dev/build entrypoints restore and verify it automatically. Use `npm run restore:media` for an explicit restore.
+

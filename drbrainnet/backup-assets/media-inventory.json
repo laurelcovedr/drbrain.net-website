@@ -1,0 +1,370 @@
+[
+  {
+    "path": "public/fonts/OFL.txt",
+    "size": 4456
+  },
+  {
+    "path": "public/fonts/plex-sans-400.woff",
+    "size": 97696
+  },
+  {
+    "path": "public/fonts/plex-sans-500.woff",
+    "size": 107920
+  },
+  {
+    "path": "public/fonts/plex-sans-600.woff",
+    "size": 108024
+  },
+  {
+    "path": "public/fonts/plex-serif-400.woff",
+    "size": 67584
+  },
+  {
+    "path": "public/fonts/plex-serif-500.woff",
+    "size": 69368
+  },
+  {
+    "path": "public/media/autismshield-care-illustration.png",
+    "size": 2041931
+  },
+  {
+    "path": "public/media/autismshield-care-illustration.webp",
+    "size": 1358364
+  },
+  {
+    "path": "public/media/bp/clinic-vr-practice.png",
+    "size": 1775878
+  },
+  {
+    "path": "public/media/bp/clinic-vr-practice.webp",
+    "size": 315520
+  },
+  {
+    "path": "public/media/bp/ct-regional-analysis.png",
+    "size": 352862
+  },
+  {
+    "path": "public/media/bp/ct-regional-analysis.webp",
+    "size": 198040
+  },
+  {
+    "path": "public/media/bp/digital-brain-profile.png",
+    "size": 369214
+  },
+  {
+    "path": "public/media/bp/mri-pet-research.png",
+    "size": 675332
+  },
+  {
+    "path": "public/media/bp/mri-pet-research.webp",
+    "size": 417738
+  },
+  {
+    "path": "public/media/bp/perfusion-analysis.png",
+    "size": 185776
+  },
+  {
+    "path": "public/media/bp/perfusion-analysis.webp",
+    "size": 99324
+  },
+  {
+    "path": "public/media/bp/quickmind-device.png",
+    "size": 153585
+  },
+  {
+    "path": "public/media/bp/structural-mri.png",
+    "size": 335836
+  },
+  {
+    "path": "public/media/bp/structural-mri.webp",
+    "size": 188314
+  },
+  {
+    "path": "public/media/bp/thailand-clinic.jpeg",
+    "size": 238892
+  },
+  {
+    "path": "public/media/bp/thailand-field-team.jpg",
+    "size": 93714
+  },
+  {
+    "path": "public/media/bp/thailand-mobile-units.jpg",
+    "size": 104066
+  },
+  {
+    "path": "public/media/brain-health-report/page-01.webp",
+    "size": 94958
+  },
+  {
+    "path": "public/media/brain-health-report/page-02.webp",
+    "size": 2930
+  },
+  {
+    "path": "public/media/brain-health-report/page-03.webp",
+    "size": 109100
+  },
+  {
+    "path": "public/media/brain-health-report/page-04.webp",
+    "size": 37134
+  },
+  {
+    "path": "public/media/brain-health-report/page-05.webp",
+    "size": 73194
+  },
+  {
+    "path": "public/media/brain-health-report/page-06.webp",
+    "size": 59146
+  },
+  {
+    "path": "public/media/brain-health-report/page-07.webp",
+    "size": 102788
+  },
+  {
+    "path": "public/media/brain-health-report/page-08.webp",
+    "size": 30500
+  },
+  {
+    "path": "public/media/brain-health-report/page-09.webp",
+    "size": 80420
+  },
+  {
+    "path": "public/media/brain-health-report/page-10.webp",
+    "size": 71046
+  },
+  {
+    "path": "public/media/brain-health-report/page-11.webp",
+    "size": 113406
+  },
+  {
+    "path": "public/media/brain-health-report/page-12.webp",
+    "size": 20800
+  },
+  {
+    "path": "public/media/brain-health-report/page-13.webp",
+    "size": 102984
+  },
+  {
+    "path": "public/media/brain-health-report/page-14.webp",
+    "size": 7480
+  },
+  {
+    "path": "public/media/brain-health-report/page-15.webp",
+    "size": 93260
+  },
+  {
+    "path": "public/media/brain-health-report/page-16.webp",
+    "size": 61458
+  },
+  {
+    "path": "public/media/brain-health-report/page-17.webp",
+    "size": 114516
+  },
+  {
+    "path": "public/media/brain-health-report/page-18.webp",
+    "size": 20834
+  },
+  {
+    "path": "public/media/brain-health-report/thumbnail-01.webp",
+    "size": 38054
+  },
+  {
+    "path": "public/media/brain-health-report/thumbnail-05.webp",
+    "size": 30530
+  },
+  {
+    "path": "public/media/brain-health-report/thumbnail-07.webp",
+    "size": 41394
+  },
+  {
+    "path": "public/media/brain-science.webp",
+    "size": 53110
+  },
+  {
+    "path": "public/media/drbrain-mri-views.webp",
+    "size": 47170
+  },
+  {
+    "path": "public/media/drbrain-mri.webp",
+    "size": 71808
+  },
+  {
+    "path": "public/media/drbrain-neural-banner.webp",
+    "size": 148970
+  },
+  {
+    "path": "public/media/drbrain-platform.webp",
+    "size": 13444
+  },
+  {
+    "path": "public/media/field/hong-kong-clinic.png",
+    "size": 842398
+  },
+  {
+    "path": "public/media/field/hong-kong-clinic.webp",
+    "size": 410988
+  },
+  {
+    "path": "public/media/field/hong-kong-community.jpeg",
+    "size": 212566
+  },
+  {
+    "path": "public/media/field/india.png",
+    "size": 1427290
+  },
+  {
+    "path": "public/media/field/india.webp",
+    "size": 804228
+  },
+  {
+    "path": "public/media/field/indonesia-practice.png",
+    "size": 1079853
+  },
+  {
+    "path": "public/media/field/indonesia-practice.webp",
+    "size": 661308
+  },
+  {
+    "path": "public/media/field/indonesia-session.png",
+    "size": 2130115
+  },
+  {
+    "path": "public/media/field/indonesia-session.webp",
+    "size": 1409354
+  },
+  {
+    "path": "public/media/field/italy.png",
+    "size": 95585
+  },
+  {
+    "path": "public/media/field/kazakhstan.png",
+    "size": 1610572
+  },
+  {
+    "path": "public/media/field/kazakhstan.webp",
+    "size": 1028610
+  },
+  {
+    "path": "public/media/field/malaysia.png",
+    "size": 1321219
+  },
+  {
+    "path": "public/media/field/malaysia.webp",
+    "size": 856914
+  },
+  {
+    "path": "public/media/field/saudi-arabia.png",
+    "size": 1073874
+  },
+  {
+    "path": "public/media/field/saudi-arabia.webp",
+    "size": 641230
+  },
+  {
+    "path": "public/media/field/uzbekistan.png",
+    "size": 1010140
+  },
+  {
+    "path": "public/media/field/uzbekistan.webp",
+    "size": 604750
+  },
+  {
+    "path": "public/media/organizations/bumrungrad.svg",
+    "size": 10839
+  },
+  {
+    "path": "public/media/organizations/ge-healthcare.webp",
+    "size": 19436
+  },
+  {
+    "path": "public/media/organizations/huashan.png",
+    "size": 47106
+  },
+  {
+    "path": "public/media/organizations/pla-general.png",
+    "size": 66900
+  },
+  {
+    "path": "public/media/organizations/pumch.jpg",
+    "size": 10671
+  },
+  {
+    "path": "public/media/organizations/siemens-healthineers.svg",
+    "size": 5982
+  },
+  {
+    "path": "public/media/organizations/xuanwu.jpg",
+    "size": 87326
+  },
+  {
+    "path": "public/media/quickmind-care.webp",
+    "size": 77578
+  },
+  {
+    "path": "public/media/quickmind-clinician-dashboard.webp",
+    "size": 62500
+  },
+  {
+    "path": "public/media/quickmind-home.webp",
+    "size": 147200
+  },
+  {
+    "path": "public/media/quickmind-progress.webp",
+    "size": 46098
+  },
+  {
+    "path": "public/media/quickmind-report.webp",
+    "size": 48976
+  },
+  {
+    "path": "public/media/quickmind-screening.webp",
+    "size": 111024
+  },
+  {
+    "path": "public/media/quickmind-space-game.webp",
+    "size": 35580
+  },
+  {
+    "path": "public/media/quickmind-training-scene.webp",
+    "size": 54850
+  },
+  {
+    "path": "public/media/quickmind-vr-care.webp",
+    "size": 47588
+  },
+  {
+    "path": "public/media/realnow-aspects.webp",
+    "size": 74010
+  },
+  {
+    "path": "public/media/realnow-clinical.webp",
+    "size": 36858
+  },
+  {
+    "path": "public/media/realnow-ct.webp",
+    "size": 69988
+  },
+  {
+    "path": "public/media/realnow-perfusion.webp",
+    "size": 99660
+  },
+  {
+    "path": "public/media/realnow-vessels.webp",
+    "size": 111938
+  },
+  {
+    "path": "public/media/virtualbrain-scenes.webp",
+    "size": 31628
+  },
+  {
+    "path": "public/media/virtualbrain-training.webp",
+    "size": 38616
+  },
+  {
+    "path": "public/media/yiwei-logo.png",
+    "size": 6208
+  },
+  {
+    "path": "public/media/quickmind-demonstration.mp4",
+    "size": 18756580
+  }
+]
