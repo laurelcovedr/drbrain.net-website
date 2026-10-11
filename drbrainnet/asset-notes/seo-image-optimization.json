@@ -1,0 +1,100 @@
+[
+  {
+    "original": "/media/autismshield-care-illustration.png",
+    "optimized": "/media/autismshield-care-illustration.webp",
+    "original_bytes": 2041931,
+    "optimized_bytes": 1358364,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/bp/clinic-vr-practice.png",
+    "optimized": "/media/bp/clinic-vr-practice.webp",
+    "original_bytes": 1775878,
+    "optimized_bytes": 315520,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/bp/ct-regional-analysis.png",
+    "optimized": "/media/bp/ct-regional-analysis.webp",
+    "original_bytes": 352862,
+    "optimized_bytes": 198040,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/bp/mri-pet-research.png",
+    "optimized": "/media/bp/mri-pet-research.webp",
+    "original_bytes": 675332,
+    "optimized_bytes": 417738,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/bp/perfusion-analysis.png",
+    "optimized": "/media/bp/perfusion-analysis.webp",
+    "original_bytes": 185776,
+    "optimized_bytes": 99324,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/bp/structural-mri.png",
+    "optimized": "/media/bp/structural-mri.webp",
+    "original_bytes": 335836,
+    "optimized_bytes": 188314,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/field/hong-kong-clinic.png",
+    "optimized": "/media/field/hong-kong-clinic.webp",
+    "original_bytes": 842398,
+    "optimized_bytes": 410988,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/field/india.png",
+    "optimized": "/media/field/india.webp",
+    "original_bytes": 1427290,
+    "optimized_bytes": 804228,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/field/indonesia-practice.png",
+    "optimized": "/media/field/indonesia-practice.webp",
+    "original_bytes": 1079853,
+    "optimized_bytes": 661308,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/field/indonesia-session.png",
+    "optimized": "/media/field/indonesia-session.webp",
+    "original_bytes": 2130115,
+    "optimized_bytes": 1409354,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/field/kazakhstan.png",
+    "optimized": "/media/field/kazakhstan.webp",
+    "original_bytes": 1610572,
+    "optimized_bytes": 1028610,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/field/malaysia.png",
+    "optimized": "/media/field/malaysia.webp",
+    "original_bytes": 1321219,
+    "optimized_bytes": 856914,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/field/saudi-arabia.png",
+    "optimized": "/media/field/saudi-arabia.webp",
+    "original_bytes": 1073874,
+    "optimized_bytes": 641230,
+    "pixel_identical": true
+  },
+  {
+    "original": "/media/field/uzbekistan.png",
+    "optimized": "/media/field/uzbekistan.webp",
+    "original_bytes": 1010140,
+    "optimized_bytes": 604750,
+    "pixel_identical": true
+  }
+]

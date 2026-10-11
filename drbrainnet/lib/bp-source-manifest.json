@@ -1,0 +1,86 @@
+{
+  "source": "Yiwei_Singapore_Presentation_092026_V3(1).pptx",
+  "source_sha256": "90beba4f0b6bc71b42ceee8fbbd739cd0491ce3ec946975c666418c04d23639a",
+  "files": [
+    {
+      "file": "/media/bp/digital-brain-profile.png",
+      "source_image": "image1.png",
+      "slide": 1,
+      "width": 1720,
+      "height": 968,
+      "sha256": "d2e10015fe72d936540eba73a5fa44ccaeca8d899f8582a5cf6107ffcd95f7b7"
+    },
+    {
+      "file": "/media/bp/quickmind-device.png",
+      "source_image": "image15.png",
+      "slide": 7,
+      "width": 714,
+      "height": 680,
+      "sha256": "1e392e993066f42a0f98767dda0da7d336d9193991395402f829107120c054d2"
+    },
+    {
+      "file": "/media/bp/structural-mri.png",
+      "source_image": "image27.png",
+      "slide": 11,
+      "width": 867,
+      "height": 355,
+      "sha256": "8a21bb016bd4ebcd4e2afe95b71b2a86a3f7e43bc9361a2dc78702449458a680"
+    },
+    {
+      "file": "/media/bp/mri-pet-research.png",
+      "source_image": "image38.png",
+      "slide": 14,
+      "width": 1012,
+      "height": 1228,
+      "sha256": "a806bceeb562bf9219f0b93edefac0b327925daa4480e7238c1e71fc7648766c"
+    },
+    {
+      "file": "/media/bp/clinic-vr-practice.png",
+      "source_image": "image44.png",
+      "slide": 16,
+      "width": 888,
+      "height": 499,
+      "sha256": "08d207f3abc68c23e6b2613c05342e9de1557f9f1f5708753d2b07183a96c57b"
+    },
+    {
+      "file": "/media/bp/ct-regional-analysis.png",
+      "source_image": "image106.png",
+      "slide": 42,
+      "width": 990,
+      "height": 733,
+      "sha256": "8a6951a1371ed1373b3962a76873ee7b992541da014b6e53d01cc3e0b61f59a3"
+    },
+    {
+      "file": "/media/bp/perfusion-analysis.png",
+      "source_image": "image107.png",
+      "slide": 42,
+      "width": 821,
+      "height": 410,
+      "sha256": "8d3472e4d762a3386e9c1d179b62e4f72176311924cacb0743831848aac83444"
+    },
+    {
+      "file": "/media/bp/thailand-clinic.jpeg",
+      "source_image": "image89.jpeg",
+      "slide": 36,
+      "width": 784,
+      "height": 1049,
+      "sha256": "7de78709d56929000760a10f931b45bcc96298b2ef1d2dc686e2b16add95787e"
+    },
+    {
+      "file": "/media/bp/thailand-mobile-units.jpg",
+      "source_image": "image96.jpg",
+      "slide": 36,
+      "width": 678,
+      "height": 452,
+      "sha256": "e7b947d3d10b58fd643d008c0956afb5cc3ba7a0b6a835ae561d652d06de01cc"
+    },
+    {
+      "file": "/media/bp/thailand-field-team.jpg",
+      "source_image": "image97.jpg",
+      "slide": 36,
+      "width": 1289,
+      "height": 719,
+      "sha256": "81f24994b81200b9eddd51930c61f6a9f83a6f421d7ca6ed2d2884545f7ec8c8"
+    }
+  ]
+}

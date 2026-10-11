@@ -1,3 +1,3 @@
-# YIWEI MEDICAL website backup
+# Source backup
 
-Complete private source backup upload in progress.
+The real project source and resources have been imported into this directory. See VERSION-NOTES.md for original source provenance, checks, preview instructions and recovery limits.

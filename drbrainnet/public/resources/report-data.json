@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "report_id": "DEMO-001",
+  "review_status": "draft",
+  "patient": {
+    "display_name": "Case 001 (de-identified)",
+    "age_years": 59,
+    "sex": "Male"
+  },
+  "scan_date": "2026-03-20",
+  "model": {
+    "name": "Dr.Brain (source report)",
+    "version": null,
+    "scanner": null,
+    "quality_review": null
+  },
+  "brain_age": {
+    "status": "assessed",
+    "predicted_years": 55.7,
+    "prediction_interval": null
+  },
+  "cognition": {
+    "status": "assessed",
+    "source_classification": "Low risk",
+    "rows": [
+      {
+        "structure": "Left hippocampus",
+        "volume_ml": 3.49,
+        "icv_pct": 0.22,
+        "reference_pct": [
+          0.17,
+          0.22
+        ]
+      },
+      {
+        "structure": "Right hippocampus",
+        "volume_ml": 3.96,
+        "icv_pct": 0.25,
+        "reference_pct": [
+          0.2,
+          0.25
+        ]
+      },
+      {
+        "structure": "Left parahippocampal region",
+        "volume_ml": 3.25,
+        "icv_pct": 0.2,
+        "reference_pct": [
+          0.16,
+          0.21
+        ]
+      },
+      {
+        "structure": "Right parahippocampal region",
+        "volume_ml": 3.2,
+        "icv_pct": 0.2,
+        "reference_pct": [
+          0.17,
+          0.2
+        ]
+      },
+      {
+        "structure": "Left entorhinal region",
+        "volume_ml": 2.45,
+        "icv_pct": 0.15,
+        "reference_pct": [
+          0.12,
+          0.16
+        ]
+      },
+      {
+        "structure": "Right entorhinal region",
+        "volume_ml": 2.65,
+        "icv_pct": 0.17,
+        "reference_pct": [
+          0.12,
+          0.16
+        ]
+      },
+      {
+        "structure": "Right lateral ventricle",
+        "volume_ml": 12.61,
+        "icv_pct": 0.8,
+        "reference_pct": [
+          0.2,
+          0.71
+        ]
+      }
+    ]
+  },
+  "ventricles": {
+    "status": "assessed",
+    "rows": [
+      {
+        "structure": "Left lateral ventricle",
+        "volume_ml": 13.96,
+        "icv_pct": 0.88,
+        "reference_pct": [
+          0.18,
+          0.99
+        ]
+      },
+      {
+        "structure": "Right lateral ventricle",
+        "volume_ml": 12.61,
+        "icv_pct": 0.8,
+        "reference_pct": [
+          0.2,
+          0.71
+        ]
+      },
+      {
+        "structure": "Third ventricle",
+        "volume_ml": 1.07,
+        "icv_pct": 0.07,
+        "reference_pct": [
+          0.03,
+          0.07
+        ]
+      },
+      {
+        "structure": "Fourth ventricle",
+        "volume_ml": 1.56,
+        "icv_pct": 0.1,
+        "reference_pct": [
+          0.06,
+          0.13
+        ]
+      }
+    ]
+  },
+  "cerebellum": {
+    "status": "assessed",
+    "rows": [
+      {
+        "structure": "Left cerebellar white matter",
+        "volume_ml": 13.24,
+        "icv_pct": 0.84,
+        "reference_pct": [
+          0.65,
+          0.94
+        ]
+      },
+      {
+        "structure": "Right cerebellar white matter",
+        "volume_ml": 12.56,
+        "icv_pct": 0.79,
+        "reference_pct": [
+          0.6,
+          0.88
+        ]
+      },
+      {
+        "structure": "Left cerebellar cortex",
+        "volume_ml": 43.83,
+        "icv_pct": 2.77,
+        "reference_pct": [
+          2.3,
+          3.18
+        ]
+      },
+      {
+        "structure": "Right cerebellar cortex",
+        "volume_ml": 44.22,
+        "icv_pct": 2.79,
+        "reference_pct": [
+          2.31,
+          3.13
+        ]
+      },
+      {
+        "structure": "Total cerebellum",
+        "volume_ml": 113.86,
+        "icv_pct": 7.19,
+        "reference_pct": [
+          5.85,
+          8.13
+        ]
+      }
+    ]
+  },
+  "wmh": {
+    "status": "assessed",
+    "volume_ml": 1.64,
+    "lesion_count": 22,
+    "fazekas": 1,
+    "source_icv_pct": 0.0978,
+    "lesion_range_ml": [
+      0.02,
+      0.34
+    ],
+    "distribution_pct": {
+      "Cortical white matter": 44.59,
+      "Deep white matter": 55.41,
+      "Periventricular": 0,
+      "Infratentorial": 0
+    }
+  },
+  "aneurysm": {
+    "status": "assessed",
+    "candidate_count": 0,
+    "sequence_verified": null
+  },
+  "microbleeds": {
+    "status": "assessed",
+    "candidate_count": 0,
+    "sequence_verified": null
+  },
+  "global": {
+    "status": "assessed",
+    "icv_ml": 1584.62,
+    "rows": [
+      {
+        "structure": "Grey matter",
+        "volume_ml": 696.19,
+        "icv_pct": 43.93,
+        "reference_pct": [
+          36.89,
+          45.53
+        ]
+      },
+      {
+        "structure": "White matter",
+        "volume_ml": 627.03,
+        "icv_pct": 39.57,
+        "reference_pct": [
+          31.17,
+          41.22
+        ]
+      },
+      {
+        "structure": "Cerebrospinal fluid",
+        "volume_ml": 261.4,
+        "icv_pct": 16.5,
+        "reference_pct": [
+          13.95,
+          31.07
+        ]
+      }
+    ]
+  },
+  "clinician": {
+    "name": null,
+    "approval_date": null,
+    "plan": null
+  },
+  "images": [],
+  "source_review": {
+    "document": "AI Brain Health & Longevity Report (supplied English PDF)",
+    "pdf_url": "/resources/brain-doctor-source.pdf",
+    "primary_age_values": {
+      "chronological_years": 59.0,
+      "predicted_years": 55.7
+    },
+    "age_graphic_conflict": {
+      "graphic_chronological_years": 62.0,
+      "graphic_predicted_years": 54.1,
+      "resolution": "Case identity, executive summary and module narrative agree on 59.0 and 55.7. The decorative graphic uses different values."
+    },
+    "clinical_release": "Draft; clinician review and source reconciliation required."
+  }
+}

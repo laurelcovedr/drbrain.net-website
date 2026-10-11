@@ -1,0 +1,9 @@
+{
+  "path": "public/media/quickmind-demonstration.mp4",
+  "size": 18756580,
+  "sha256": "2cefbe8d9b9f1eb89dc4ce62bb2108f2e05f0c683dd109065733d281648ddc35",
+  "parts": [
+    "quickmind-demonstration.mp4.part-001",
+    "quickmind-demonstration.mp4.part-002"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "source": "Company-supplied overseas field-use presentation",
+  "files": [
+    {
+      "file": "/media/field/hong-kong-community.jpeg",
+      "source_media": "image9.jpeg",
+      "sha256": "21314565e5a46b6156280bac90090c20261ccadac28b245a33babc0f696d695d"
+    },
+    {
+      "file": "/media/field/hong-kong-clinic.png",
+      "source_media": "image12.png",
+      "sha256": "797473d6eaca7ccd8b0a16578cd6104b0466b5b6950d3ae252e9c339f27435fe"
+    },
+    {
+      "file": "/media/field/saudi-arabia.png",
+      "source_media": "image16.png",
+      "sha256": "f2163d624147e186fea8f6107e7fb76850834fefbf5c9f5798ead435f194a7e4"
+    },
+    {
+      "file": "/media/field/india.png",
+      "source_media": "image15.png",
+      "sha256": "22f27137699316752f24f7b846eec4a218bace6b28d9708bdb5c72178e3b680e"
+    },
+    {
+      "file": "/media/field/uzbekistan.png",
+      "source_media": "image14.png",
+      "sha256": "2dc166e1793359e61d91e7e34035f7e28346e5f7bf90ca1ed635f2b660eb4e4c"
+    },
+    {
+      "file": "/media/field/italy.png",
+      "source_media": "image17.png",
+      "sha256": "864b371544ed53d6193b63ac879593f2825955f4a02047551f438c5f0f6a85e9"
+    },
+    {
+      "file": "/media/field/malaysia.png",
+      "source_media": "image18.png",
+      "sha256": "6156860950cba9ecbe3b0ab0aca6af3b7ae77d856e4ee9418bd39195aa6d4958"
+    },
+    {
+      "file": "/media/field/kazakhstan.png",
+      "source_media": "image19.png",
+      "sha256": "006b7ab8e78f2382238c3df9e16b5a048525668e881d12e450e8efd28c2a25f3"
+    },
+    {
+      "file": "/media/field/indonesia-practice.png",
+      "source_media": "image23.png",
+      "sha256": "1e03099fb71576258465e8d2a72382daec7e9aab34d39499560d976945ee1544"
+    },
+    {
+      "file": "/media/field/indonesia-session.png",
+      "source_media": "image20.png",
+      "sha256": "8d58d039de41370e311d39ac0c8470052877c8e51de790f265d6c208369a4450"
+    }
+  ]
+}

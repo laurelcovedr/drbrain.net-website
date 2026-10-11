@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main className="container section empty-state"><span className="eyebrow">YIWEI MEDICAL</span><h1>This page isn’t available.</h1><p>Explore the product portfolio or return to the home page.</p><div className="actions"><Link className="button" href="/">Home</Link><Link className="button outline" href="/products">Our products</Link></div></main>}

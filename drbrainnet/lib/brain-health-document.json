@@ -1,0 +1,138 @@
+{
+  "title": "AI Brain Health & Longevity Report",
+  "pdf": "/resources/brain-health-report.pdf",
+  "pageCount": 18,
+  "cover": "/media/brain-health-report/thumbnail-01.webp",
+  "coverWidth": 500,
+  "coverHeight": 708,
+  "sourceName": "AI Brain Health & Longevity Report(4).pdf",
+  "sourceSha256": "3dda70962fe2c58f6a79388adb9fbcaefea3b7f9d2d0eeeb98f79b03d108cb92",
+  "pages": [
+    {
+      "number": 1,
+      "label": "Cover",
+      "src": "/media/brain-health-report/page-01.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 2,
+      "label": "Cover continuation",
+      "src": "/media/brain-health-report/page-02.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 3,
+      "label": "Purpose & reading guide",
+      "src": "/media/brain-health-report/page-03.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 4,
+      "label": "Clinical caution",
+      "src": "/media/brain-health-report/page-04.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 5,
+      "label": "Executive summary",
+      "src": "/media/brain-health-report/page-05.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 6,
+      "label": "Summary review notes",
+      "src": "/media/brain-health-report/page-06.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 7,
+      "label": "AI brain age",
+      "src": "/media/brain-health-report/page-07.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 8,
+      "label": "Brain-age model notes",
+      "src": "/media/brain-health-report/page-08.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 9,
+      "label": "Cognition-related analysis",
+      "src": "/media/brain-health-report/page-09.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 10,
+      "label": "Regional measurements",
+      "src": "/media/brain-health-report/page-10.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 11,
+      "label": "Ventricular analysis",
+      "src": "/media/brain-health-report/page-11.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 12,
+      "label": "Ventricular clinical context",
+      "src": "/media/brain-health-report/page-12.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 13,
+      "label": "Cerebellar structure",
+      "src": "/media/brain-health-report/page-13.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 14,
+      "label": "Cerebellar continuation",
+      "src": "/media/brain-health-report/page-14.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 15,
+      "label": "White-matter analysis",
+      "src": "/media/brain-health-report/page-15.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 16,
+      "label": "White-matter source reconciliation",
+      "src": "/media/brain-health-report/page-16.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 17,
+      "label": "Vascular safety modules",
+      "src": "/media/brain-health-report/page-17.webp",
+      "width": 983,
+      "height": 1390
+    },
+    {
+      "number": 18,
+      "label": "Vascular review notes",
+      "src": "/media/brain-health-report/page-18.webp",
+      "width": 983,
+      "height": 1390
+    }
+  ]
+}
