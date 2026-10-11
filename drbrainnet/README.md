@@ -1,3 +1,11 @@
+# YIWEI MEDICAL 网站工程
+
+**[打开网站展示](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/)** — 私有访问，需要获授权的 ChatGPT 账号。
+
+[同步记录](SYNC-STATUS-2026-10-11.md) · [版本记录](VERSION-NOTES.md) · [排除文件说明](MISSING-FILES.md)
+
+---
+
 # vinext-starter
 
 A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
