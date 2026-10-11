@@ -5,8 +5,8 @@
 - Destination: private `laurelcovedr/drbrain.net-website`, `drbrainnet/` on main.
 - Application source files match the Site tracked source.
 - Updated font license and Bumrungrad SVG to exact Site source hashes.
-- Added nine regulatory PDFs, verified by matching Git blob SHA to source.
-- TIPACS China PDF remains blocked by automatic approval review.
+- Added all ten authorized regulatory PDFs, verified by matching Git blob SHA to source.
+- TIPACS China PDF uploaded after explicit user authorization in this conversation; source blob SHA: `408dd3dea18a509bba43fa0fa3438666ef48c469`.
 - Brazil original remains intentionally excluded.
 - Video retained as existing restoreable backup parts; build cache `tsconfig.tsbuildinfo` excluded.
 - Existing backup/build scripts and documentation retained.
