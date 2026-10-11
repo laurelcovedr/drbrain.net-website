@@ -1,0 +1,28 @@
+export type ProductQuestion={question:string;answer:string;link:string;linkLabel:string};
+// Shared by visible product answers and JSON-LD; derived from existing site content.
+export const productQuestions:Record<string,ProductQuestion[]>={
+ 'dr-brain':[
+  {question:'What is Dr.Brain™ used for?',answer:'Dr.Brain™ brings together cognitive screening, quantitative brain MRI analysis and guided cognitive rehabilitation. Each component has its own workflow and evidence scope; clinicians interpret the results in the context of an individual assessment.',link:'/technology/imaging-ai',linkLabel:'Explore imaging AI'},
+  {question:'Does cognitive screening diagnose dementia?',answer:'A screening result can help identify people who need further assessment. It is not a standalone dementia diagnosis. Clinical history, examination and appropriate investigations remain part of the diagnostic pathway.',link:'/technology/eye-tracking',linkLabel:'Explore cognitive assessment'},
+  {question:'What clinical evidence is available for Dr.Brain™?',answer:'The evidence library includes studies of VR eye-tracking screening and quantitative structural MRI. These support specific studied components and populations; they do not validate every marketed module or the complete care pathway.',link:'/evidence/dr-brain',linkLabel:'Read component-specific evidence'},
+  {question:'Where can I view a sample brain health report?',answer:'The English Brain Health & Longevity Report shows example regional MRI findings and source notes for clinician-led consultations. It is a sample reporting format, not an individual medical diagnosis.',link:'/reports/brain-health',linkLabel:'View the English sample report'},
+ ],
+ 'realnow':[
+  {question:'What does RealNow™ analyze?',answer:'RealNow™ provides AI-assisted CT, vascular and perfusion imaging analysis for stroke-imaging review. The applicable modules depend on the imaging workflow and documented product scope.',link:'/technology/imaging-ai',linkLabel:'Explore imaging workflows'},
+  {question:'Does RealNow™ replace a radiologist or treating clinician?',answer:'The displayed imaging outputs support clinical review. Qualified professionals must interpret the findings with the original images and clinical context.',link:'/care-settings',linkLabel:'Explore clinical care settings'},
+  {question:'How should I interpret RealNow™ research and registrations?',answer:'Research findings apply to the studied module, dataset and population. Registration documents should be reviewed by product, module and market; a document for one scope does not establish clearance for every module in every country.',link:'/evidence/realnow',linkLabel:'Review RealNow research'},
+  {question:'How can an institution discuss availability?',answer:'Contact YIWEI MEDICAL with the intended country, clinical setting and imaging workflow to discuss the relevant solution and market documentation.',link:'/contact',linkLabel:'Contact YIWEI MEDICAL'},
+ ],
+ 'autismshield':[
+  {question:'What is AutismShield™?',answer:'AutismShield™ presents guided VR and tablet activities for social attention and developmental skills. Activities should be adapted to the child’s developmental goals and care plan.',link:'/technology/digital-rehabilitation',linkLabel:'Explore VR and tablet practice'},
+  {question:'Is the displayed illustration an actual product interface?',answer:'The social-attention care image is a concept illustration. It is not an actual product interface or a photograph of a treatment outcome.',link:'/products/autismshield#overview',linkLabel:'Review the product overview'},
+  {question:'Does the website establish AutismShield™ clinical efficacy?',answer:'Product-specific efficacy studies were not identified in the supplied material. The listed independent research provides scientific context and should not be treated as proof of efficacy for the marketed product.',link:'/evidence/autismshield',linkLabel:'Read the evidence and its limits'},
+  {question:'How can I review market documentation?',answer:'Review the product-specific registration records and their stated scope. Availability and intended use require confirmation for the relevant country and product version.',link:'/about/global-registrations?solution=autismshield',linkLabel:'Review market documentation'},
+ ],
+ 'forcus':[
+  {question:'What is ForcusGenius™ designed to support?',answer:'ForcusGenius™ presents guided VR and tablet practice focused on attention and executive function, with session review and activities adapted to the selected care plan.',link:'/technology/digital-rehabilitation',linkLabel:'Explore digital practice'},
+  {question:'Does attention training diagnose ADHD?',answer:'Attention practice is distinct from a clinical ADHD assessment. Training activity or task performance alone should not be treated as an ADHD diagnosis.',link:'/contact',linkLabel:'Discuss the intended care pathway'},
+  {question:'What evidence is listed for ForcusGenius™?',answer:'The supplied library provides independent scientific context. Product-specific efficacy studies were not identified in the supplied material, so those publications do not establish efficacy of the marketed ForcusGenius™ product.',link:'/evidence/forcus',linkLabel:'Review research context'},
+  {question:'Can I assume the product is available in every market?',answer:'No. Market documentation must be checked for the specific product, intended use and country. Contact YIWEI MEDICAL to confirm the relevant documentation and availability.',link:'/about/global-registrations?solution=forcus',linkLabel:'Review market records'},
+ ],
+};

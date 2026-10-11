@@ -13,6 +13,7 @@ const {renderToStaticMarkup}=require('react-dom/server');
 const React=require('react');
 const Site=require('../components/yiwei-site.tsx').default;
 const {SeoData}=require('../components/seo-data.tsx');
+const {productQuestions}=require('../lib/yiwei-faq.ts');
 const sitemap=require('../app/sitemap.ts').default();
 assert.equal(new Set(seoPages.map(p=>p.path)).size,seoPages.length,'duplicate route');
 assert.equal(new Set(seoPages.map(p=>p.title)).size,seoPages.length,'duplicate title');
@@ -51,4 +52,29 @@ for(const p of products){const graph=structuredDataFor('products',p.slug)['@grap
 const markup=renderToStaticMarkup(React.createElement(SeoData,{section:'home'}));
 assert(markup.includes('type="application/ld+json"'));
 assert(!markup.includes('&quot;'),'JSON-LD must contain raw JSON');
+let questionCount=0;
+for(const p of products){
+ const rendered=renderToStaticMarkup(React.createElement(Site,{section:'products',detail:p.slug}));
+ const faq=structuredDataFor('products',p.slug)['@graph'].find(n=>n['@type']==='FAQPage');
+ assert(faq,'missing FAQ schema '+p.slug);
+ assert.equal(faq.mainEntity.length,productQuestions[p.slug].length);
+ for(const [i,q] of productQuestions[p.slug].entries()){
+  assert.equal(faq.mainEntity[i].name,q.question);
+  assert.equal(faq.mainEntity[i].acceptedAnswer.text,q.answer);
+  const escape=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#x27;');
+  assert(rendered.includes(escape(q.question))&&rendered.includes(escape(q.answer)),'FAQ missing from rendered HTML '+p.slug);
+  assert(seoPages.some(p=>p.path===q.link.split(/[?#]/)[0]),'FAQ link invalid '+q.link);
+  questionCount++;
+ }
+ assert.equal((rendered.match(/<h1(?:\s|>)/g)||[]).length,1,'single primary heading');
+}
+for(const item of structuredDataFor('evidence')['@graph'].find(n=>n['@type']==='ItemList').itemListElement){
+ const article=articles.find(a=>item.item['@id'].endsWith('#study-'+a.id));
+ assert.equal(item.item.abstract,article.summary);assert.equal(item.item.description,article.limits);
+}
+const llms=fs.readFileSync(root+'/public/llms.txt','utf8');
+for(const match of llms.matchAll(/\]\((https:[^)]+)\)/g))assert(seoPages.some(p=>siteOrigin+p.path===match[1]),'llms index points to unknown route');
+assert(!llms.includes('/resources/registrations/'),'restricted PDF indexed');
+assert.equal(fs.readFileSync(root+'/public/robots.txt','utf8').trim(),'User-agent: *\nDisallow: /');
+console.log(JSON.stringify({visible_product_questions:questionCount,faq_schema_matches_content:true,research_abstracts_and_limits:true,llms_links_valid:true}));
 console.log(JSON.stringify({seo_pages:seoPages.length,sitemap_urls:sitemap.length,unique_titles_and_descriptions:true,canonical_and_share_metadata:true,structured_data:true,publication_links:articles.length,source_pdfs:articles.filter(a=>a.suppliedPdf).length,private_robots_preserved:true}));

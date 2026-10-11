@@ -118,6 +118,8 @@ Replace the filename with the pending migration and `DB` with your D1 binding na
 
 ## Diagnostic Commands
 
+SEO/GEO validation: `node scripts/check-seo.cjs`. See `asset-notes/seo-geo-2026-10-12.md` for changes, privacy boundaries and public-launch requirements. Product questions are maintained once in `lib/yiwei-faq.ts` for both visible content and structured data; update `public/llms.txt` when its linked routes change.
+
 - `npm run install:ci`: perform the one locked dependency install
 - `npm run dev`: start the Vite/Vinext development server
 - `npm run build`: build the deployable Sites artifact

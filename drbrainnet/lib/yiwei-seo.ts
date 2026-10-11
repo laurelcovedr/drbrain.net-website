@@ -1,4 +1,5 @@
 import type {Metadata} from 'next';
+import {productQuestions} from './yiwei-faq';
 import {brandMessaging} from './yiwei-brand';
 import {products,articles,productAliases} from './yiwei-data';
 import {careSettings} from './yiwei-care-settings';
@@ -56,7 +57,7 @@ export function structuredDataFor(section:string,slug?:string){
  const url=absoluteUrl(p.path);
  const organization={'@type':'Organization','@id':siteOrigin+'/#organization',name:'YIWEI MEDICAL',url:siteOrigin+'/',logo:absoluteUrl(companyLogo.src),description:brandMessaging.companyIntro,sameAs:['https://www.drbrain.net/','https://quickmindstore.com/'],email:'service@quickmindstore.com',address:{'@type':'PostalAddress',streetAddress:'Room 701-2, Block B, Shenzhen International Innovation Center, No. 1006 Shennan Boulevard',addressLocality:'Futian District, Shenzhen',addressRegion:'Guangdong',addressCountry:'CN'}};
  const website={'@type':'WebSite','@id':siteOrigin+'/#website',name:'YIWEI MEDICAL',url:siteOrigin+'/',inLanguage:'en',publisher:{'@id':organization['@id']}};
- const graph:Record<string,unknown>[]=[organization,website,{'@type':section==='about'?'AboutPage':section==='contact'?'ContactPage':'WebPage','@id':url+'#webpage',name:p.title,description:p.description,url,inLanguage:'en',isPartOf:{'@id':website['@id']},publisher:{'@id':organization['@id']}}];
+ const graph:Record<string,unknown>[]=[organization,website,{'@type':section==='about'?'AboutPage':section==='contact'?'ContactPage':'WebPage','@id':url+'#webpage',name:p.title,description:p.description,url,inLanguage:'en',breadcrumb:section==='home'?undefined:{'@id':url+'#breadcrumbs'},isPartOf:{'@id':website['@id']},publisher:{'@id':organization['@id']}}];
  const crumbs=[{name:'Home',url:siteOrigin+'/'}];
  if(section!=='home'){
   const overview=seoPageFor(section);
@@ -68,9 +69,13 @@ export function structuredDataFor(section:string,slug?:string){
   const product=products.find(x=>x.slug===(productAliases[slug]??slug));
   if(product)graph.push({'@type':'Product','@id':url+'#solution',name:product.name,description:product.description,category:product.subtitle,url,image:absoluteUrl(getMediaImage(productCover[product.slug]).src),brand:{'@type':'Brand',name:'YIWEI MEDICAL'},manufacturer:{'@id':organization['@id']}});
  }
+ if(section==='products'&&slug){
+  const questions=productQuestions[productAliases[slug]??slug];
+  if(questions)graph.push({'@type':'FAQPage','@id':url+'#questions',mainEntity:questions.map(q=>({'@type':'Question',name:q.question,acceptedAnswer:{'@type':'Answer',text:q.answer}}))});
+ }
  if(section==='evidence'){
   const list=articles.filter(a=>!slug||a.products.includes(productAliases[slug]??slug));
-  graph.push({'@type':'ItemList','@id':url+'#research',name:p.label+' research sources',numberOfItems:list.length,itemListElement:list.map((a,i)=>({'@type':'ListItem',position:i+1,item:{'@type':'ScholarlyArticle',name:a.title,headline:a.title,url:a.url||absoluteUrl(a.suppliedPdf??p.path),identifier:a.doi?{'@type':'PropertyValue',propertyID:'DOI',value:a.doi}:undefined,citation:a.citation,isPartOf:{'@type':'Periodical',name:a.journal}}}))});
+  graph.push({'@type':'ItemList','@id':url+'#research',name:p.label+' research sources',numberOfItems:list.length,itemListElement:list.map((a,i)=>({'@type':'ListItem',position:i+1,item:{'@type':'ScholarlyArticle','@id':absoluteUrl('/evidence')+'#study-'+a.id,name:a.title,headline:a.title,abstract:a.summary,description:a.limits,creditText:a.authors,inLanguage:'en',url:a.url||absoluteUrl(a.suppliedPdf??p.path),identifier:a.doi?{'@type':'PropertyValue',propertyID:'DOI',value:a.doi}:undefined,citation:a.citation,isPartOf:{'@type':'Periodical',name:a.journal}}}))});
  }
  if(section==='products'&&!slug)graph.push({'@type':'ItemList',name:'YIWEI MEDICAL solutions',itemListElement:products.map((x,i)=>({'@type':'ListItem',position:i+1,name:x.name,url:absoluteUrl('/products/'+x.slug)}))});
  return {'@context':'https://schema.org','@graph':graph};
