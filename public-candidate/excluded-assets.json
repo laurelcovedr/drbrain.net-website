@@ -1,0 +1,979 @@
+{
+  "sourceCommit": "15a4a7cc2e400e6601805bff64501cccaa5ab801",
+  "policy": "default-deny",
+  "assets": [
+    {
+      "path": "drbrainnet/public/favicon.svg",
+      "sha": "8a94a374ed5717b7bc0268b91a297bb3300de363",
+      "size": 222,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/file.svg",
+      "sha": "16fe3d3a3ab9bd42e1616ec00066faba7e4aabe0",
+      "size": 392,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/fonts/OFL.txt",
+      "sha": "c35c4c618fab33da8695177b3a6cefe0810b7b28",
+      "size": 4456,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/fonts/plex-sans-400.woff",
+      "sha": "ae9bd7d9486b6b868bc4e0466a0d3fdaf5c5c57b",
+      "size": 97696,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/fonts/plex-sans-500.woff",
+      "sha": "cdf176acb04d9967e610ec074324c81d4c3d34a6",
+      "size": 107920,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/fonts/plex-sans-600.woff",
+      "sha": "7cb276c801211c63a1a150e00e3e64ad4e4b7d68",
+      "size": 108024,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/fonts/plex-serif-400.woff",
+      "sha": "323d9c46d924282504fa616996347aa1df73b3b1",
+      "size": 67584,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/fonts/plex-serif-500.woff",
+      "sha": "dba1544375bf9bd50e3ab1384aceff2bd2d3db10",
+      "size": 69368,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/globe.svg",
+      "sha": "c7215fe0f2634ae9f51d15dacc09184f5343941a",
+      "size": 1036,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/llms.txt",
+      "sha": "50d546b20b6a0cfd75fc74a24f3c048c5bbda6a4",
+      "size": 3319,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/autismshield-care-illustration.png",
+      "sha": "24532973513ce771060bf20a5d9e0145a30274d1",
+      "size": 2041931,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/autismshield-care-illustration.webp",
+      "sha": "c97331602a103570d9c45966c4f32a1c599412a3",
+      "size": 1358364,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/clinic-vr-practice.png",
+      "sha": "8a9cd428f0acadd456feffbaf60e4db2c4f02192",
+      "size": 1775878,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/clinic-vr-practice.webp",
+      "sha": "91a2984a518e45f38ea6bddc954946845ba448f8",
+      "size": 315520,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/ct-regional-analysis.png",
+      "sha": "9b9d41f80fe4ce30deaca368d310869261896a7b",
+      "size": 352862,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/ct-regional-analysis.webp",
+      "sha": "b3675f11bd78984853d3448285e086b37a59d5b5",
+      "size": 198040,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/digital-brain-profile.png",
+      "sha": "dc5dc770e7aa9e0440a558d1c8dc5a8fe2b99356",
+      "size": 369214,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/mri-pet-research.png",
+      "sha": "a3304f49bbd8a0d555d9af09496e5b27885244ae",
+      "size": 675332,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/mri-pet-research.webp",
+      "sha": "220c189085f79199e39da7fd92788e538b6e49e2",
+      "size": 417738,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/perfusion-analysis.png",
+      "sha": "db3c8263eba162efd30756f014f67e128971fedf",
+      "size": 185776,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/perfusion-analysis.webp",
+      "sha": "79698db7cb756c3776bf38bf954ab67721c8533e",
+      "size": 99324,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/quickmind-device.png",
+      "sha": "daf612ca91d28269ed44e407993f3bc4c578619e",
+      "size": 153585,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/structural-mri.png",
+      "sha": "9f22b4036abb90a8efb16fcd9f439fdb5d09134a",
+      "size": 335836,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/structural-mri.webp",
+      "sha": "e47dca245815ba600b94d9d1894459f86dd9ed5b",
+      "size": 188314,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/thailand-clinic.jpeg",
+      "sha": "e87dee3e8f92e4a8732b7c27a36648eaebc8672b",
+      "size": 238892,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/thailand-field-team.jpg",
+      "sha": "6994b3d2d3351d7d8c6aabfa334c79779bead0a7",
+      "size": 93714,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/bp/thailand-mobile-units.jpg",
+      "sha": "e286d3ad7908e1eabdc97069b0549ed61a25837c",
+      "size": 104066,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-01.webp",
+      "sha": "5c5c400a4e3f0d54efa5eec7a628c579ec29c074",
+      "size": 94958,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-02.webp",
+      "sha": "6625111874033fa2470c8659dcec2a96d37dbd8a",
+      "size": 2930,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-03.webp",
+      "sha": "9a769fb05c1d1f74a2a91c5fc005d51d51c94d53",
+      "size": 109100,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-04.webp",
+      "sha": "ed444ef31f6cd297a4cb2a8d6a0e8af1aa794183",
+      "size": 37134,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-05.webp",
+      "sha": "7a82a7ea1b084b3291315aa199cd944703043c2e",
+      "size": 73194,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-06.webp",
+      "sha": "cffc1bb64ed137a635aee9e3d782a92b19eaa4fc",
+      "size": 59146,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-07.webp",
+      "sha": "f42034aa37b4cf85d8fb159eee0786627144f4e2",
+      "size": 102788,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-08.webp",
+      "sha": "e2f84436b69e6dfe46250a0121af46e3778c488c",
+      "size": 30500,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-09.webp",
+      "sha": "435b98487a566011b0f1694499d611943ec71a93",
+      "size": 80420,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-10.webp",
+      "sha": "640258fc9b723ccbabf8c471039416e65f3a9bfd",
+      "size": 71046,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-11.webp",
+      "sha": "a1c0c0bcc041452df07afc622eb4b1758369de78",
+      "size": 113406,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-12.webp",
+      "sha": "0223a0d6225ffafc2462f6dda650730cc6c1784f",
+      "size": 20800,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-13.webp",
+      "sha": "fcafd2c4116d6d86c210f0aaa3a6688ca3579878",
+      "size": 102984,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-14.webp",
+      "sha": "990c5dd6e7c3631ab98ea33f7f74b7dca95e3523",
+      "size": 7480,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-15.webp",
+      "sha": "140b4f34bc62715f6ad67554e72d6aa4f0a75909",
+      "size": 93260,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-16.webp",
+      "sha": "ca345a28482d2f543d918b842f259e0177350a82",
+      "size": 61458,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-17.webp",
+      "sha": "fbc4b8e076a64415ec27d3278799004e0394b05f",
+      "size": 114516,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/page-18.webp",
+      "sha": "fc1fd8c24a4029c5bf421af9a1344da22b54418c",
+      "size": 20834,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/thumbnail-01.webp",
+      "sha": "25de9321860ac0e1e396d3321a9eb75b591428fb",
+      "size": 38054,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/thumbnail-05.webp",
+      "sha": "d2047278b35d18a62ee1604063bf6a0f68933cf8",
+      "size": 30530,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-health-report/thumbnail-07.webp",
+      "sha": "25728ddaa8f137002f5f91bb6a5c710a397bf663",
+      "size": 41394,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/brain-science.webp",
+      "sha": "f3ca2863791b4501f6d56abf4b023dc7aa1be805",
+      "size": 53110,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/drbrain-mri-views.webp",
+      "sha": "077f206eab62953aa1810028f99a6fb183a1df89",
+      "size": 47170,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/drbrain-mri.webp",
+      "sha": "5a95672048ed322173755460fd3da53125c1b779",
+      "size": 71808,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/drbrain-neural-banner.webp",
+      "sha": "2104a9c3d54ab19893e85655424c16925dad5413",
+      "size": 148970,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/drbrain-platform.webp",
+      "sha": "1c2cc16c459e96af857b534c2bc3bd535c047663",
+      "size": 13444,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/hong-kong-clinic.png",
+      "sha": "107c21a3fc987d7008a61e49dbba320b3b710f04",
+      "size": 842398,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/hong-kong-clinic.webp",
+      "sha": "58e7d1500b920bd07d4c80d7c9a39fd49dd2b093",
+      "size": 410988,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/hong-kong-community.jpeg",
+      "sha": "9709400ae294505ae2ff5a82107f047577721a8b",
+      "size": 212566,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/india.png",
+      "sha": "965f9b3ed68682a8ea6336dc138d66178b7bd240",
+      "size": 1427290,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/india.webp",
+      "sha": "5ec76830ca3f41075ed85905ee875c31f4c1b64d",
+      "size": 804228,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/indonesia-practice.png",
+      "sha": "f0aa2713bde7345f50d68338c0f28864601a80bb",
+      "size": 1079853,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/indonesia-practice.webp",
+      "sha": "bd94286e88c6362f8841bd9bf648b3e70ea4b8b8",
+      "size": 661308,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/indonesia-session.png",
+      "sha": "454344a37e90fe922d77529a89dcbfa39a32d8c3",
+      "size": 2130115,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/indonesia-session.webp",
+      "sha": "8f1b31bfbad8eb296aa3e9507c1da3899265a3f8",
+      "size": 1409354,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/italy.png",
+      "sha": "8b1e0fec444ac2c6118a92d823a3bef3caf754bc",
+      "size": 95585,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/kazakhstan.png",
+      "sha": "2990bff287e32f6fc6ecaf3445315fd3fd25597c",
+      "size": 1610572,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/kazakhstan.webp",
+      "sha": "95a00219de88fca03facde668d19f618fe068533",
+      "size": 1028610,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/malaysia.png",
+      "sha": "5a261fd7df02f2282ca6ae77977354a8be4f2959",
+      "size": 1321219,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/malaysia.webp",
+      "sha": "7e07d92152afaec5144ba917025cc202bcdcae6c",
+      "size": 856914,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/saudi-arabia.png",
+      "sha": "1c46e5bfadebc3dea8e3e5d54e94957cf8c4d476",
+      "size": 1073874,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/saudi-arabia.webp",
+      "sha": "c4dac0daba3e0337d1e198f29d7b301e4a79dd4f",
+      "size": 641230,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/uzbekistan.png",
+      "sha": "2f990703bea532ecaaa51aebe67f703689238d28",
+      "size": 1010140,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/field/uzbekistan.webp",
+      "sha": "95d7e368f665f8807f97b2d6c13ef8ba0c249f8c",
+      "size": 604750,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/organizations/bumrungrad.svg",
+      "sha": "c291ded5a91e33e59d1e3279c1cd0a5c49699f0a",
+      "size": 10839,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/organizations/ge-healthcare.webp",
+      "sha": "639273e25753a390b7aa1b7665101c4c0c3acf9e",
+      "size": 19436,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/organizations/huashan.png",
+      "sha": "7e8feecf382d6b9232bc2da964fb0eab983ccd79",
+      "size": 47106,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/organizations/pla-general.png",
+      "sha": "0e83d9c40eeeda8428813a106b9500298430cef2",
+      "size": 66900,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/organizations/pumch.jpg",
+      "sha": "3e078d6f6a4141adc6a79e4425c05785543fa69a",
+      "size": 10671,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/organizations/siemens-healthineers.svg",
+      "sha": "cf6ee00766b69bbff3b3cbb216404579b474f157",
+      "size": 5982,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/organizations/xuanwu.jpg",
+      "sha": "80ed5d5ef0f741ce013e7b448d93e2a81a0f7c70",
+      "size": 87326,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-care.webp",
+      "sha": "8c5f7839b3265de94fbe68fc170b28e0b728b184",
+      "size": 77578,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-clinician-dashboard.webp",
+      "sha": "afdc7234f49d0d5c6890f815d5c72c1ca6922b5a",
+      "size": 62500,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-home.webp",
+      "sha": "7d341bf00a9e910ea37a363e0ca9f64166270eb2",
+      "size": 147200,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-progress.webp",
+      "sha": "6edf37aabb8ede684a8a2ba31321cdc74a28a2fe",
+      "size": 46098,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-report.webp",
+      "sha": "1cffdc58b2971f9e868f2db2c8caa7bf9c2b4e55",
+      "size": 48976,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-screening.webp",
+      "sha": "1491bdfe4dc26663f1eab46228e69ac14f05f17a",
+      "size": 111024,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-space-game.webp",
+      "sha": "e6b91b2d2d48de4826a402965a042dc67c116aa3",
+      "size": 35580,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-training-scene.webp",
+      "sha": "371ad679665e74b46c28c3932a66260674db6b16",
+      "size": 54850,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/quickmind-vr-care.webp",
+      "sha": "20c6c0ec8f36137ca118e7fd7a6a72645d6fc572",
+      "size": 47588,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/realnow-aspects.webp",
+      "sha": "bb31408436d63c866aa0f26ba91b594e843cd98f",
+      "size": 74010,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/realnow-clinical.webp",
+      "sha": "748cdd5914c6a7b8c5d2b9c8105b238a84724691",
+      "size": 36858,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/realnow-ct.webp",
+      "sha": "dc615439124fb4383a16618855b825fab71a4038",
+      "size": 69988,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/realnow-perfusion.webp",
+      "sha": "5b8e2c61e263722d4517c5c82065d7b9f7effd07",
+      "size": 99660,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/realnow-vessels.webp",
+      "sha": "3b7c9df2bdb255548a0b62347c5049a970a306a8",
+      "size": 111938,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/virtualbrain-scenes.webp",
+      "sha": "a10821d717601ec9f3334f943fc49e9bf66b9ce2",
+      "size": 31628,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/virtualbrain-training.webp",
+      "sha": "107d592e37bc8b9ab842d22bfc805de7b7c88c4a",
+      "size": 38616,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/media/yiwei-logo.png",
+      "sha": "9eca0fce2d87128f8f980f1f657e5f910dfeeaf9",
+      "size": 6208,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/brain-doctor-report.html",
+      "sha": "dd3adf708b5e64bf053e5ad4ac4d3d10ea0d94a1",
+      "size": 22716,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/brain-doctor-source.pdf",
+      "sha": "1f5f03e7d81e1dd401f7513b96ba15bfece2b23b",
+      "size": 9730622,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/brain-health-report.pdf",
+      "sha": "1f5f03e7d81e1dd401f7513b96ba15bfece2b23b",
+      "size": 9730622,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/quickmind-brochure.pdf",
+      "sha": "182f30e32d877bc27920f3f7ce9deb18b73cbb68",
+      "size": 4614647,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/realnow-brochure.pdf",
+      "sha": "66abba7423b0b7291d0a809ddb28eaa9e3e410fb",
+      "size": 3346229,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/drbrain-ad-cn-amendment.pdf",
+      "sha": "8da1ef1fdd7570c859bd8c3fbb34d53eea28818a",
+      "size": 406023,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/drbrain-ad-cn.pdf",
+      "sha": "72c60bcf7f5be5f641bcc6128e8cfab56bc4dda0",
+      "size": 493861,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/ich-cn-amendment.pdf",
+      "sha": "cb61e9be7628817db93bfa3728f33b22ca400423",
+      "size": 406675,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/limpio-cn.pdf",
+      "sha": "4e997f133f248d87a71511555c8b90da8ec550e7",
+      "size": 68834,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/quickmind-thailand.pdf",
+      "sha": "b481cb3344889381687a0984db1f5239b2861865",
+      "size": 167366,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/realnow-cn.pdf",
+      "sha": "94bb9868319fbdd61771b11efee5fd725a27c4a1",
+      "size": 69195,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/realnow-fda-k213891.pdf",
+      "sha": "66001afa8951ce5a9190efff47ed7fb7950f94f1",
+      "size": 331529,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/realnow-icta-cn-amendment.pdf",
+      "sha": "ac335a6d4c406f1c6fc52d45b9c2530612099790",
+      "size": 249222,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/realnow-plus-cn-amendment.pdf",
+      "sha": "912ef2a8f8afb6d71a4ced3d630ba19cf47048a0",
+      "size": 247077,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/realnow-thailand.pdf",
+      "sha": "194dd3506e1fa211397c4c29067f6b5e2c464da8",
+      "size": 176675,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/tihip-cn-amendment.pdf",
+      "sha": "77d0c9dc3897d8ff3a9c5f2eb4c7c199c08f216b",
+      "size": 249563,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/tihip-europe-2020.pdf",
+      "sha": "285d0c3c0c3b9da8faf84636726fbd6e2064ff61",
+      "size": 139757,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/tipacs-cn.pdf",
+      "sha": "408dd3dea18a509bba43fa0fa3438666ef48c469",
+      "size": 251445,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/virtual-brain-hong-kong.pdf",
+      "sha": "e60923cb837fc58f353aa89c0e2635853d17d9df",
+      "size": 136764,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/virtual-brain-third-party-us.pdf",
+      "sha": "c7c09b70f463abd534d1d732ffce2b8791cd4179",
+      "size": 4942126,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/vr-asd-europe.pdf",
+      "sha": "8194161f2271f72a88f33064e7b22173c79b178e",
+      "size": 184351,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/vr-attention-germany.pdf",
+      "sha": "0a4b4cdafb1f632a431b1ba19576e05a6daca82d",
+      "size": 181178,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/vr-cognitive-germany.pdf",
+      "sha": "1f89cd1fd0f36d2cdeaa41b3c02b3d7744b24862",
+      "size": 183292,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/registrations/white-matter-europe-2020.pdf",
+      "sha": "5cc8d7fa76b4f431fbb0bb72fb32f7afbe796d7d",
+      "size": 136236,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/report-data.json",
+      "sha": "d5a1d526ff840f78f904df104c8cc0e08ba6f9d7",
+      "size": 5534,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/ad-ftld-differentiation.pdf",
+      "sha": "0d0d25536ddbb0f19911b23de59fad51856ba148",
+      "size": 7572386,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/ad-metabolites.pdf",
+      "sha": "9d6763e891738121d8d43bd1164c9a43c2523623",
+      "size": 923695,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/brain-volume-validation.pdf",
+      "sha": "022b8f447e348cff770eacea1e365da76030f694",
+      "size": 3190774,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/chinese-neurocognitive-battery.pdf",
+      "sha": "0d5886a58dd234d367947fbbfef2c9e07c92c7b1",
+      "size": 569503,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/community.pdf",
+      "sha": "d1b4e1d18d42e622b6bf5e678a358a18100d3042",
+      "size": 1572659,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/diabetes-mci-mri.pdf",
+      "sha": "db3e96d03555e8faa43d6cfe45d62517b78c19db",
+      "size": 1118746,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/frontal-ad-case.pdf",
+      "sha": "6bce701dda6a901a73e63ec5fd39e98c519e8072",
+      "size": 1174865,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/hippocampus.pdf",
+      "sha": "68e1d30d68448910c45781674e803f9562805c1d",
+      "size": 1891180,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/mri-ai-review.pdf",
+      "sha": "5da8b226db5a2dcf9ff40d5ae7d5f3d5913ec5fd",
+      "size": 2521478,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/mri-pet-synthesis.pdf",
+      "sha": "9c86e51c04d10cba5b3b224e3f388efdbdfb5214",
+      "size": 2069862,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/mri-veca.pdf",
+      "sha": "e482b84d98c6db347e8446c8bdf7b7f21299e500",
+      "size": 1485455,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/perfusion.pdf",
+      "sha": "0e9816f36c80bc2b5f52218b84126747cd9f4ebf",
+      "size": 1944271,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/pumch-cortical-atrophy.pdf",
+      "sha": "cabab099f1b983f28ed34f226c9d9f240af892d4",
+      "size": 2066581,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/realnow-aspects.pdf",
+      "sha": "de0f145e8aea9b822fb538e4b252a6d0ce79608c",
+      "size": 2365524,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/veca.pdf",
+      "sha": "1242297ff86a6b72ff895e9912a137de8402b90e",
+      "size": 1091127,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/research/wmh-segmentation.pdf",
+      "sha": "7c14c1b6481b0c9e1c33ff99054dd3788e8c702c",
+      "size": 1952105,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/resources/virtualbrain-overview.pdf",
+      "sha": "28622319adefd8676219d0b2e2b48c2c3600f185",
+      "size": 4460298,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/robots.txt",
+      "sha": "1f53798bb4fe33c86020be7f10c44f29486fd190",
+      "size": 26,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    },
+    {
+      "path": "drbrainnet/public/window.svg",
+      "sha": "d05e7a1bc066341298657dcc304dbadc4ddcab9d",
+      "size": 386,
+      "decision": "excluded",
+      "reason": "Original assets are not copied into the independent candidate; explicit public approval required."
+    }
+  ]
+}

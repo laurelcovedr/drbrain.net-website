@@ -1,0 +1,20 @@
+name: Validate isolated public candidate
+on:
+  pull_request:
+    paths: ['public-candidate/**', 'drbrainnet/lib/yiwei-data.ts', 'drbrainnet/lib/yiwei-faq.ts', '.github/workflows/public-candidate.yml']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: node public-candidate/build.mjs
+      - run: python public-candidate/validate.py
+      - run: python public-candidate/test.py
