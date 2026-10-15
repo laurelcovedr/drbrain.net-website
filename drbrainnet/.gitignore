@@ -44,3 +44,8 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+
+# Reconstructed from checksum-verified private backup parts.
+/public/media/quickmind-demonstration.mp4
+/public/media/*.tmp
+

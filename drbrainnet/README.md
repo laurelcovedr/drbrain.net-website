@@ -13,6 +13,27 @@ A clean full-stack starter running on [vinext](https://github.com/cloudflare/vin
 ## Prerequisites
 
 - Node.js `>=22.13.0`
+
+## Standalone media restoration and build
+
+From a full clone of this private repository:
+
+```sh
+cd drbrainnet
+npm run install:ci
+npm run test:media
+npm run build
+```
+
+`npm run dev` and `npm run build` restore the demonstration video and check the media inventory before starting the framework. Direct managed builds via `bash scripts/build-verified.sh` perform the same check. Direct `vinext`/`vite` calls bypass this protection; use the supported entrypoints above.
+
+Restoration uses Node.js only, validates ordered parts against the original size and SHA-256, writes through a temporary file, and preserves a matching output on reruns. Missing, truncated, corrupt parts or a conflicting existing output stop the command with a nonzero exit code. A valid output does not bypass backup validation. Repair backups from a trusted copy; do not alter checksums to silence a failure. Review and move conflicting local output aside before retrying.
+
+Optional commands: `npm run restore:media` (video only), `npm run check:media` (restore and check media/fonts), `npm run test:media` (dependency-free tests). The legacy `python3 scripts/restore-backup-assets.py` delegates to the same Node implementation. Update `backup-assets/media-inventory.json` when adding or replacing media: it checks presence and size; the video also receives full SHA-256 verification.
+
+The output `public/media/quickmind-demonstration.mp4` is referenced by `quickmindVideo` in `lib/yiwei-media.ts` and rendered by `DemonstrationVideo` in `/products/dr-brain`. Its poster is `/media/quickmind-screening.webp`. The manifest contains the sole split media asset; the other 91 media/font files are tracked directly. No other manual media restore was found in the checked application sources and repository inventory.
+
+The private-repository media workflow runs tests and checks the actual checkout twice, without dependency installation, deployment or artifact uploads. It does not verify the full framework build. Registration PDFs are outside the restore allowlist and inventory; the intentionally excluded Brazil original remains excluded. Private storage does not authorize publication of restricted PDFs. This change does not modify a Site or production deployment.
 - Portable: Windows, macOS, or Linux; no Bash required
 - Managed Linux: managed Linux runtime with Bash, `flock`, `curl`, `sha256sum`, and GNU `timeout`
 - Git is required only for publishing
@@ -134,3 +155,4 @@ The portable build runs Vinext directly without a host `timeout` command. The ma
 
 - [vinext Documentation](https://github.com/cloudflare/vinext)
 - [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+

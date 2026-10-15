@@ -1,0 +1,24 @@
+name: Verify private backup media
+on:
+  pull_request:
+    paths: ['drbrainnet/**', '.github/workflows/media-assets.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  media:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test restoration and failure handling
+        working-directory: drbrainnet
+        run: npm run test:media
+      - name: Restore and verify real repository media twice
+        working-directory: drbrainnet
+        run: |
+          npm run check:media
+          npm run check:media
+      # No deployment, artifact upload, or publication of private PDFs.
