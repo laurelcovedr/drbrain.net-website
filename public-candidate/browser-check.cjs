@@ -44,6 +44,12 @@ const server=http.createServer((req,res)=>{
     const overflow=await page.evaluate(()=>({viewport:innerWidth,body:document.documentElement.scrollWidth,offscreen:[...document.querySelectorAll('main h1,main h2,main h3,main p,main .button,main .doi a')].filter(e=>{const r=e.getBoundingClientRect();return r.width&& (r.left< -1||r.right>innerWidth+1);}).map(e=>e.textContent.slice(0,90))}));
     assert.ok(overflow.body<=width+1,JSON.stringify(overflow));
     assert.deepEqual(overflow.offscreen,[],'Text outside viewport: '+JSON.stringify(overflow));
+    const panelOverflow=await page.locator('.panel h2').evaluateAll(headings=>headings.filter(h=>{
+     const range=document.createRange();range.selectNodeContents(h);
+     const panel=h.closest('.panel').getBoundingClientRect();
+     return [...range.getClientRects()].some(r=>r.left<panel.left+12||r.right>panel.right-12);
+    }).map(h=>h.textContent));
+    assert.deepEqual(panelOverflow,[],'Heading exceeds panel: '+JSON.stringify(panelOverflow));
     // CSS font size stays readable at each device width.
     assert.ok(await page.locator('.lead').evaluate(e=>parseFloat(getComputedStyle(e).fontSize)>=16));
     const links=await page.locator('a').evaluateAll(as=>as.map(a=>a.getAttribute('href')));
