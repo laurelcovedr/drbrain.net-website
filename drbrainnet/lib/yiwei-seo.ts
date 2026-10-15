@@ -50,7 +50,7 @@ export function metadataFor(section:string,slug?:string):Metadata{
  const p=seoPageFor(section,slug);
  if(!p)return {title:'Page Not Found | YIWEI MEDICAL',description:'This YIWEI MEDICAL page could not be found.',robots:privateRobots,alternates:{canonical:null},openGraph:null,twitter:null};
  const image=absoluteUrl(p.image??'/media/drbrain-neural-banner.webp');
- return {metadataBase:new URL(siteOrigin),title:p.title,description:p.description,robots:privateRobots,alternates:{canonical:absoluteUrl(p.path)},openGraph:{type:'website',locale:'en_US',siteName:'YIWEI MEDICAL',title:p.title,description:p.description,url:absoluteUrl(p.path),images:[{url:image,alt:p.label+' — YIWEI MEDICAL'}]},twitter:{card:'summary_large_image',title:p.title,description:p.description,images:[image]}};
+ return {metadataBase:new URL(siteOrigin),title:p.title,description:p.description,robots:privateRobots,alternates:{canonical:absoluteUrl(p.path),languages:{en:absoluteUrl(p.path),'zh-CN':absoluteUrl('/zh'+(p.path==='/'?'':p.path))}},openGraph:{type:'website',locale:'en_US',siteName:'YIWEI MEDICAL',title:p.title,description:p.description,url:absoluteUrl(p.path),images:[{url:image,alt:p.label+' — YIWEI MEDICAL'}]},twitter:{card:'summary_large_image',title:p.title,description:p.description,images:[image]}};
 }
 export function structuredDataFor(section:string,slug?:string){
  const p=seoPageFor(section,slug);if(!p)return null;

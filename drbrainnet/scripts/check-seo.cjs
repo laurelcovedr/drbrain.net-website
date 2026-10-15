@@ -40,8 +40,8 @@ for(const p of seoPages){
  }
 }
 for(const [alias,target] of Object.entries(productAliases))for(const section of ['products','evidence'])assert.equal(canonicalPath(section,alias),'/'+section+'/'+target);
-assert.equal(sitemap.length,27);
-assert(sitemap.every(x=>seoPages.some(p=>siteOrigin+p.path===x.url&&!p.legacy)));
+assert.equal(sitemap.length,54);
+assert(sitemap.every(x=>seoPages.some(p=>[siteOrigin+p.path,siteOrigin+'/zh'+(p.path==='/'?'':p.path)].includes(x.url)&&!p.legacy)));
 const html=renderToStaticMarkup(React.createElement(Site,{section:'evidence'}));
 for(const a of articles){
  assert(html.includes(a.url.replace(/&/g,'&amp;').replace(/"/g,'&quot;')),'publication link absent '+a.id);
