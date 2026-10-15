@@ -1,0 +1,6 @@
+{
+  "name": "yiwei-isolated-candidate-qa",
+  "private": true,
+  "scripts": {"test:browser": "node browser-check.cjs"},
+  "devDependencies": {"playwright": "1.62.1"}
+}
