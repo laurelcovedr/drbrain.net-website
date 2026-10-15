@@ -1,3 +1,5 @@
+/** @jsxImportSource @/lib/localized-jsx */
+'use client';
 import type {MediaImage} from '@/lib/yiwei-media';
 
 // A source viewport keeps the original pixels and excludes localized interface chrome.

@@ -1,3 +1,5 @@
+/** @jsxImportSource @/lib/localized-jsx */
+'use client';
 import Link from '@/components/site-link';
 import {productQuestions} from '@/lib/yiwei-faq';
 export function ProductQuestions({slug}:{slug:string}){

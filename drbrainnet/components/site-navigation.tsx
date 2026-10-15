@@ -1,6 +1,8 @@
+/** @jsxImportSource @/lib/localized-jsx */
 'use client';
 import {useEffect,useRef} from 'react';
 import Link from '@/components/site-link';
+import {LanguageSwitcher} from '@/components/locale-provider';
 import {brandMessaging} from '@/lib/yiwei-brand';
 import {Globe2,Menu,X,ShieldCheck,ChevronDown} from 'lucide-react';
 import {companyLogo} from '@/lib/yiwei-media';
@@ -26,7 +28,7 @@ export function Header({section,detail}:{section:string;detail?:string}){
       <Link href={'/'+n.slug} className={'native-primary-link '+(section===n.slug?'active':'')} aria-current={section===n.slug&&!detail?'page':undefined}>{n.label}</Link>
       <details className="native-nav-disclosure" name="desktop-submenu"><summary aria-label={'Show '+n.label+' pages'}><ChevronDown size={15}/></summary><div className="native-submenu"><span className="eyebrow">{n.label}</span><Link href={'/'+n.slug} className="nav-overview">{n.overview}</Link>{n.children.map(c=><Link href={'/'+n.slug+'/'+c.slug} key={c.slug} aria-current={section===n.slug&&detail===c.slug?'page':undefined}><b>{c.label}</b><span>{c.description}</span></Link>)}</div></details>
     </div>)}</nav>
-    <a className="language-switch" href={"/zh"+(section==='home'?'':'/'+section)+(detail?'/'+detail:'')} lang="zh-CN" aria-label="切换到中文">中文</a><Link href="/contact" className={'header-contact '+(section==='contact'?'active':'')} aria-current={section==='contact'?'page':undefined}>Contact</Link>
+    <LanguageSwitcher section={section} detail={detail}/><Link href="/contact" className={'header-contact '+(section==='contact'?'active':'')} aria-current={section==='contact'?'page':undefined}>Contact</Link>
     <details className="native-mobile-navigation"><summary className="menu-toggle" aria-label="Toggle navigation"><Menu className="menu-open-icon"/><X className="menu-close-icon"/></summary><nav className="native-mobile-panel" aria-label="Mobile navigation"><Link href="/" className="mobile-home">Home</Link>{navigation.map(n=><div className="native-mobile-group" key={n.slug}><Link href={'/'+n.slug} className={'mobile-primary-link '+(section===n.slug?'active':'')}>{n.label}</Link><div>{n.children.map(c=><Link href={'/'+n.slug+'/'+c.slug} key={c.slug} aria-current={section===n.slug&&detail===c.slug?'page':undefined}><b>{c.label}</b><span>{c.description}</span></Link>)}</div></div>)}<Link href="/contact" className="mobile-home">Contact</Link></nav></details>
   </div></header>
 }

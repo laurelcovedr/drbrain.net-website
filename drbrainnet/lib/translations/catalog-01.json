@@ -1,0 +1,1362 @@
+{
+  "01 Screen": [
+    "01 筛查",
+    "01 Cribado"
+  ],
+  "A clearer cognitive profile.": [
+    "更清晰的认知画像。",
+    "Un perfil cognitivo más claro."
+  ],
+  "Structured VR tasks capture gaze and task responses to guide referral and training priorities.": [
+    "结构化 VR 任务记录眼动和任务反应，为转诊和训练重点提供参考。",
+    "Las tareas estructuradas de RV registran la mirada y las respuestas para orientar la derivación y las prioridades de entrenamiento."
+  ],
+  "Community / primary care": [
+    "社区 / 基层医疗",
+    "Comunidad / atención primaria"
+  ],
+  "Explore eye tracking": [
+    "了解眼动技术",
+    "Explorar el seguimiento ocular"
+  ],
+  "02 Diagnose": [
+    "02 诊断",
+    "02 Diagnóstico"
+  ],
+  "Dr.Brain™ imaging": [
+    "Dr.Brain™ 影像分析",
+    "Imagen con Dr.Brain™"
+  ],
+  "Quantitative evidence for clinical review.": [
+    "供临床复核的定量信息。",
+    "Datos cuantitativos para la revisión clínica."
+  ],
+  "Regional MRI measurements and English Brain Doctor reports support clinician-led assessment.": [
+    "脑区 MRI 测量和英文脑医生报告支持由医生主导的评估。",
+    "Las mediciones regionales de RM y los informes Brain Doctor en inglés apoyan la evaluación dirigida por el profesional."
+  ],
+  "Hospitals / imaging centers": [
+    "医院 / 影像中心",
+    "Hospitales / centros de imagen"
+  ],
+  "Explore the English report": [
+    "查看英文报告",
+    "Ver el informe en inglés"
+  ],
+  "03 Rehabilitate": [
+    "03 康复",
+    "03 Rehabilitación"
+  ],
+  "QuickMind rehabilitation": [
+    "QuickMind 康复训练",
+    "Rehabilitación QuickMind"
+  ],
+  "Practice shaped around the individual.": [
+    "围绕个体需求安排训练。",
+    "Práctica adaptada a cada persona."
+  ],
+  "Cognitive and motor tasks adapt to the care plan, with session records for reassessment and supported home practice.": [
+    "认知与运动任务适配照护计划，通过训练记录支持复评和有指导的居家训练。",
+    "Las tareas cognitivas y motoras se adaptan al plan de atención, con registros para la reevaluación y la práctica domiciliaria supervisada."
+  ],
+  "Rehabilitation / supported home care": [
+    "康复 / 有指导的居家照护",
+    "Rehabilitación / atención domiciliaria supervisada"
+  ],
+  "Explore digital rehabilitation": [
+    "了解数字康复",
+    "Explorar la rehabilitación digital"
+  ],
+  "Explore the dementia care pathway": [
+    "了解认知障碍照护路径",
+    "Explorar la atención de la demencia"
+  ],
+  "· Original YIWEI material": [
+    "· 医未原始资料",
+    "· Material original de YIWEI"
+  ],
+  "Reassessment informs the next care plan. Screening and imaging support clinical evaluation; availability varies by product and market.": [
+    "复评为下一阶段照护计划提供参考。筛查和影像支持临床评估；供应情况因产品和市场而异。",
+    "La reevaluación orienta el siguiente plan. El cribado y la imagen apoyan la evaluación clínica; la disponibilidad varía según el producto y el mercado."
+  ],
+  "Enlarge MRI and amyloid PET research figure": [
+    "放大 MRI 与淀粉样蛋白 PET 研究图",
+    "Ampliar la figura de RM y PET de amiloide"
+  ],
+  "MRI / acquired PET / synthetic PET": [
+    "MRI / 采集 PET / 合成 PET",
+    "RM / PET adquirida / PET sintética"
+  ],
+  "GENERATIVE AI / PUBLISHED RESEARCH": [
+    "生成式 AI / 已发表研究",
+    "IA GENERATIVA / INVESTIGACIÓN PUBLICADA"
+  ],
+  "A new perspective on MRI.": [
+    "MRI 的新视角。",
+    "Una nueva perspectiva de la RM."
+  ],
+  "Deep learning explores synthetic amyloid-PET estimates from structural MRI.": [
+    "深度学习探索基于结构 MRI 的合成淀粉样蛋白 PET 估计。",
+    "El aprendizaje profundo explora estimaciones de PET de amiloide sintética a partir de RM estructural."
+  ],
+  "participants with paired imaging": [
+    "名配对影像受试者",
+    "participantes con imágenes pareadas"
+  ],
+  "Explore the published study": [
+    "查看已发表研究",
+    "Ver el estudio publicado"
+  ],
+  "Research-stage estimates. This study does not establish an approved Dr.Brain™ module or replace confirmatory amyloid testing.": [
+    "研究阶段估计。本研究不代表已获批的 Dr.Brain™ 模块，也不能替代淀粉样蛋白确证检测。",
+    "Estimaciones en fase de investigación. El estudio no establece un módulo aprobado de Dr.Brain™ ni sustituye las pruebas confirmatorias de amiloide."
+  ],
+  "MRI-to-PET research": [
+    "MRI 转 PET 研究",
+    "Investigación de RM a PET"
+  ],
+  "Open the study summary": [
+    "打开研究摘要",
+    "Abrir el resumen del estudio"
+  ],
+  "Explore Brain Health Report": [
+    "查看脑健康报告",
+    "Ver el informe de salud cerebral"
+  ],
+  "Explore this care setting": [
+    "了解此应用场景",
+    "Explorar este entorno asistencial"
+  ],
+  "CARE SETTINGS": [
+    "应用场景",
+    "ENTORNOS ASISTENCIALES"
+  ],
+  "Built around clinical practice.": [
+    "围绕临床实践构建。",
+    "Diseñado para la práctica clínica."
+  ],
+  "All care settings": [
+    "全部应用场景",
+    "Todos los entornos asistenciales"
+  ],
+  "Explore product use by care setting": [
+    "按应用场景了解产品使用",
+    "Explorar el uso por entorno asistencial"
+  ],
+  "Applications follow clinician review and local product availability. Photos and imaging show product-use examples.": [
+    "应用需遵循医生评估及当地产品供应情况。照片与影像为产品使用示例。",
+    "Las aplicaciones dependen de la revisión profesional y la disponibilidad local. Las fotos e imágenes muestran ejemplos de uso."
+  ],
+  "YIWEI MEDICAL / CLINICAL APPLICATIONS": [
+    "医未医疗 / 临床应用",
+    "YIWEI MEDICAL / APLICACIONES CLÍNICAS"
+  ],
+  "Care settings.": [
+    "应用场景。",
+    "Entornos asistenciales."
+  ],
+  "Explore product applications in neurology, rehabilitation, radiology and longevity care.": [
+    "了解产品在神经内科、康复科、放射科及长寿门诊的应用。",
+    "Explore aplicaciones en neurología, rehabilitación, radiología y atención a la longevidad."
+  ],
+  "IN PRACTICE": [
+    "实际应用",
+    "EN LA PRÁCTICA"
+  ],
+  "The product-use workflow.": [
+    "产品使用流程。",
+    "El flujo de uso del producto."
+  ],
+  "SUPPORTING RESEARCH": [
+    "相关研究",
+    "INVESTIGACIÓN DE APOYO"
+  ],
+  "Evidence in context.": [
+    "结合背景理解证据。",
+    "La evidencia en su contexto."
+  ],
+  "Study summary": [
+    "研究摘要",
+    "Resumen del estudio"
+  ],
+  "Discuss your care setting": [
+    "讨论您的应用场景",
+    "Comentar su entorno asistencial"
+  ],
+  "OUR PEOPLE": [
+    "我们的团队",
+    "NUESTRO EQUIPO"
+  ],
+  "Expertise with purpose.": [
+    "让专业有所作为。",
+    "Experiencia con propósito."
+  ],
+  "Scientists, clinicians and business leaders bringing brain science closer to everyday care.": [
+    "科学家、临床医生与业务团队共同推动脑科学融入日常照护。",
+    "Científicos, profesionales clínicos y líderes empresariales acercan la neurociencia a la atención cotidiana."
+  ],
+  "Explore the YIWEI team": [
+    "了解医未团队",
+    "Conocer al equipo YIWEI"
+  ],
+  "Leadership": [
+    "管理团队",
+    "Dirección"
+  ],
+  "Advisors": [
+    "顾问团队",
+    "Asesores"
+  ],
+  "View profile": [
+    "查看简介",
+    "Ver perfil"
+  ],
+  "Meet the full team": [
+    "认识完整团队",
+    "Conocer a todo el equipo"
+  ],
+  "YIWEI LEADERSHIP": [
+    "医未管理团队",
+    "DIRECCIÓN DE YIWEI"
+  ],
+  "ADVISORY & ALGORITHM EXPERTISE": [
+    "顾问与算法专家",
+    "ASESORÍA Y ALGORITMOS"
+  ],
+  "Connect with YIWEI": [
+    "联系医未",
+    "Contactar con YIWEI"
+  ],
+  "Company profile": [
+    "公司介绍",
+    "Perfil de la empresa"
+  ],
+  "YIWEI MEDICAL · COMPANY PROFILE": [
+    "医未医疗 · 公司介绍",
+    "YIWEI MEDICAL · PERFIL DE LA EMPRESA"
+  ],
+  "ABOUT YIWEI MEDICAL": [
+    "关于医未医疗",
+    "ACERCA DE YIWEI MEDICAL"
+  ],
+  "The People Advancing": [
+    "共同推进",
+    "Las personas que impulsan"
+  ],
+  "Brain Health.": [
+    "脑健康。",
+    "La salud cerebral."
+  ],
+  "Who We Are": [
+    "关于我们",
+    "Quiénes somos"
+  ],
+  "A luminous digital human profile representing YIWEI’s neuroscience and AI focus": [
+    "发光的数字人侧影，体现医未对脑科学和人工智能的专注",
+    "Perfil humano digital luminoso que representa el enfoque de YIWEI en neurociencia e IA"
+  ],
+  "About page sections": [
+    "公司页面章节",
+    "Secciones de la empresa"
+  ],
+  "Our Mission": [
+    "我们的使命",
+    "Nuestra misión"
+  ],
+  "Our Technologies": [
+    "我们的技术",
+    "Nuestras tecnologías"
+  ],
+  "Our Principles": [
+    "我们的原则",
+    "Nuestros principios"
+  ],
+  "Care Settings": [
+    "应用场景",
+    "Entornos asistenciales"
+  ],
+  "Our People": [
+    "我们的团队",
+    "Nuestro equipo"
+  ],
+  "WHO WE ARE": [
+    "关于我们",
+    "QUIÉNES SOMOS"
+  ],
+  "Brain Science.": [
+    "脑科学。",
+    "Neurociencia."
+  ],
+  "Across Life Stages.": [
+    "贯穿全生命周期。",
+    "En todas las etapas de la vida."
+  ],
+  "Our approach connects insights from brain imaging with measures of cognitive function and interactive training experiences. Through medical imaging AI, eye-tracking technology, virtual reality, and tablet-based applications, we translate brain science into practical tools for healthcare professionals and individuals.": [
+    "我们将脑影像洞察、认知功能测量与互动训练体验相连接，通过医学影像 AI、眼动技术、虚拟现实和平板应用，将脑科学转化为面向医疗专业人员和个人的实用工具。",
+    "Conectamos la información de la imagen cerebral con mediciones cognitivas y experiencias de entrenamiento interactivo. Mediante IA de imagen médica, seguimiento ocular, realidad virtual y aplicaciones para tabletas, convertimos la neurociencia en herramientas prácticas para profesionales y personas."
+  ],
+  "Our work addresses brain health across life stages—from childhood cognitive development to adult neurological care and healthy aging.": [
+    "我们的工作覆盖全生命周期的脑健康需求，从儿童认知发展到成人神经系统照护和健康老龄化。",
+    "Nuestro trabajo aborda la salud cerebral durante toda la vida, desde el desarrollo cognitivo infantil hasta la atención neurológica adulta y el envejecimiento saludable."
+  ],
+  "OUR MISSION": [
+    "我们的使命",
+    "NUESTRA MISIÓN"
+  ],
+  "Understand.": [
+    "了解。",
+    "Comprender."
+  ],
+  "Monitor. Manage.": [
+    "监测。管理。",
+    "Supervisar. Gestionar."
+  ],
+  "To help people better understand, monitor, and manage their brain health by translating scientific advances into accessible technologies.": [
+    "将科学进展转化为可及的技术，帮助人们更好地了解、监测和管理脑健康。",
+    "Ayudar a comprender, supervisar y gestionar mejor la salud cerebral mediante tecnologías accesibles basadas en avances científicos."
+  ],
+  "We envision a future where brain health becomes a routine part of care, with clearer insights, timely assessment, and support that extends beyond the clinic.": [
+    "我们期待脑健康成为日常照护的一部分，让人们获得更清晰的信息、及时的评估，以及延伸至院外的支持。",
+    "Aspiramos a que la salud cerebral forme parte habitual de la atención, con información más clara, evaluaciones oportunas y apoyo más allá de la clínica."
+  ],
+  "WHAT WE DEVELOP": [
+    "我们的研发方向",
+    "QUÉ DESARROLLAMOS"
+  ],
+  "Science Into": [
+    "将科学转化为",
+    "La ciencia convertida en"
+  ],
+  "Practical Tools.": [
+    "实用工具。",
+    "Herramientas prácticas."
+  ],
+  "Imaging, assessment, training, and brain health reporting.": [
+    "影像、评估、训练与脑健康报告。",
+    "Imagen, evaluación, entrenamiento e informes de salud cerebral."
+  ],
+  "OUR PRINCIPLES": [
+    "我们的原则",
+    "NUESTROS PRINCIPIOS"
+  ],
+  "The Principles": [
+    "指导我们的",
+    "Los principios"
+  ],
+  "That Guide Us.": [
+    "核心原则。",
+    "Que nos guían."
+  ],
+  "FROM SCIENCE TO CARE": [
+    "从科学到照护",
+    "DE LA CIENCIA A LA ATENCIÓN"
+  ],
+  "Connecting Brain Science": [
+    "连接脑科学",
+    "Conectar la neurociencia"
+  ],
+  "With Everyday Care.": [
+    "与日常照护。",
+    "Con la atención cotidiana."
+  ],
+  "Our focus spans neurology departments, rehabilitation services, cognitive care centers, and brain health and longevity clinics, alongside the development of home-based training experiences.": [
+    "我们关注神经内科、康复服务、认知照护中心及脑健康与长寿门诊，同时开发居家训练体验。",
+    "Nos centramos en neurología, rehabilitación, centros de atención cognitiva y clínicas de salud cerebral y longevidad, además de desarrollar experiencias de entrenamiento domiciliario."
+  ],
+  "Across these settings, our goal is to help connect assessment, training, and longitudinal monitoring in a more coherent brain health journey.": [
+    "在这些场景中，我们致力于衔接评估、训练与长期监测，构建更连贯的脑健康服务路径。",
+    "En estos entornos buscamos conectar evaluación, entrenamiento y seguimiento longitudinal en un recorrido de salud cerebral más coherente."
+  ],
+  "Explore care settings": [
+    "了解应用场景",
+    "Explorar entornos asistenciales"
+  ],
+  "Neurology Department": [
+    "神经内科",
+    "Servicio de neurología"
+  ],
+  "Rehabilitation Department": [
+    "康复科",
+    "Servicio de rehabilitación"
+  ],
+  "Radiology Department": [
+    "放射科",
+    "Servicio de radiología"
+  ],
+  "Longevity Clinic": [
+    "长寿门诊",
+    "Clínica de longevidad"
+  ],
+  "GLOBAL IN PRACTICE": [
+    "全球实践",
+    "PRÁCTICA GLOBAL"
+  ],
+  "Real Care. Real Settings.": [
+    "真实照护。真实场景。",
+    "Atención real. Entornos reales."
+  ],
+  "Explore original field photography from YIWEI’s international deployments.": [
+    "查看医未国际应用的原始现场照片。",
+    "Explore fotografías originales de las implementaciones internacionales de YIWEI."
+  ],
+  "Explore field use": [
+    "查看现场应用",
+    "Ver aplicaciones reales"
+  ],
+  "GLOBAL COLLABORATION": [
+    "全球合作",
+    "COLABORACIÓN GLOBAL"
+  ],
+  "Explore YIWEI": [
+    "了解医未",
+    "Explorar YIWEI"
+  ],
+  "Contact Us": [
+    "联系我们",
+    "Contactar"
+  ],
+  "Explore Our Solutions": [
+    "探索解决方案",
+    "Explorar nuestras soluciones"
+  ],
+  "View Clinical Evidence": [
+    "查看临床证据",
+    "Ver evidencia clínica"
+  ],
+  "Explore": [
+    "了解",
+    "Explorar"
+  ],
+  "in YIWEI materials": [
+    "医未资料中",
+    "en los materiales de YIWEI"
+  ],
+  "Technology & clinical connections": [
+    "技术与临床合作关联",
+    "Conexiones tecnológicas y clínicas"
+  ],
+  "Company and hospital logos; scroll horizontally to explore all six": [
+    "企业与医院标志；横向滚动查看全部六个",
+    "Logotipos de empresas y hospitales; deslice para ver los seis"
+  ],
+  "Selected companies and institutions identified by YIWEI. Roles vary by product and project.": [
+    "医未资料所列的部分企业与机构。角色因产品和项目而异。",
+    "Empresas e instituciones seleccionadas e identificadas por YIWEI. Sus funciones varían según el producto y el proyecto."
+  ],
+  "Product inquiries": [
+    "产品咨询",
+    "Consultas sobre productos"
+  ],
+  "Explore our solutions for your clinic, hospital or brain-health programme.": [
+    "了解适用于诊所、医院或脑健康项目的解决方案。",
+    "Explore soluciones para su clínica, hospital o programa de salud cerebral."
+  ],
+  "Partnerships": [
+    "业务合作",
+    "Alianzas"
+  ],
+  "Connect with us about distribution and local deployment in your market.": [
+    "与我们讨论您所在市场的经销和本地部署。",
+    "Contacte para hablar sobre distribución e implementación local en su mercado."
+  ],
+  "Research collaboration": [
+    "科研合作",
+    "Colaboración científica"
+  ],
+  "Discuss clinical research, evaluation and collaboration with our team.": [
+    "与团队讨论临床研究、评估和合作。",
+    "Comente con nuestro equipo la investigación clínica, la evaluación y la colaboración."
+  ],
+  "Solution overview": [
+    "方案概览",
+    "Resumen de soluciones"
+  ],
+  "YIWEI MEDICAL / GLOBAL": [
+    "医未医疗 / 全球",
+    "YIWEI MEDICAL / GLOBAL"
+  ],
+  "Contact.": [
+    "联系我们。",
+    "Contacto."
+  ],
+  "Contact YIWEI MEDICAL": [
+    "联系医未医疗",
+    "Contactar con YIWEI MEDICAL"
+  ],
+  "Inquiry type": [
+    "咨询类型",
+    "Tipo de consulta"
+  ],
+  "LET’S TALK": [
+    "欢迎交流",
+    "HABLEMOS"
+  ],
+  "Prefer email?": [
+    "希望直接发邮件？",
+    "¿Prefiere el correo electrónico?"
+  ],
+  "Shenzhen Office": [
+    "深圳办公室",
+    "Oficina de Shenzhen"
+  ],
+  "Room 701-2, Block B, Shenzhen International Innovation Center, No. 1006 Shennan Boulevard, Futian District, Shenzhen, Guangdong, China": [
+    "中国广东省深圳市福田区深南大道1006号深圳国际创新中心B栋701-2室",
+    "Oficina 701-2, bloque B, Shenzhen International Innovation Center, n.º 1006 Shennan Boulevard, distrito de Futian, Shenzhen, Guangdong, China"
+  ],
+  "Based in Shenzhen. Connected to global care.": [
+    "立足深圳，连接全球照护。",
+    "Desde Shenzhen, conectados con la atención global."
+  ],
+  "* Required fields": [
+    "* 必填项",
+    "* Campos obligatorios"
+  ],
+  "Name": [
+    "姓名",
+    "Nombre"
+  ],
+  "Email": [
+    "电子邮箱",
+    "Correo electrónico"
+  ],
+  "Organization": [
+    "机构",
+    "Organización"
+  ],
+  "Title / role": [
+    "职务 / 角色",
+    "Cargo / función"
+  ],
+  "Country / region": [
+    "国家 / 地区",
+    "País / región"
+  ],
+  "Solution of interest": [
+    "感兴趣的方案",
+    "Solución de interés"
+  ],
+  "Message": [
+    "留言",
+    "Mensaje"
+  ],
+  "Tell us about your care setting and what you would like to discuss.": [
+    "请介绍您的应用场景及希望讨论的内容。",
+    "Describa su entorno asistencial y lo que desea comentar."
+  ],
+  "Email enquiry": [
+    "通过邮件咨询",
+    "Enviar consulta por correo"
+  ],
+  "Opens your email app with your message ready to send.": [
+    "将在您的邮件应用中打开已填写的邮件草稿。",
+    "Abre su aplicación de correo con el mensaje listo para enviar."
+  ],
+  "Email draft prepared. Send it from your email app to complete your enquiry.": [
+    "邮件草稿已准备好。请在邮件应用中发送，以完成咨询。",
+    "Borrador preparado. Envíelo desde su aplicación de correo para completar la consulta."
+  ],
+  "Open email draft again": [
+    "重新打开邮件草稿",
+    "Abrir de nuevo el borrador"
+  ],
+  "REAL CARE SETTINGS": [
+    "真实应用场景",
+    "ENTORNOS ASISTENCIALES REALES"
+  ],
+  "Brain science, in practice.": [
+    "脑科学，融入实践。",
+    "Neurociencia en la práctica."
+  ],
+  "Explore global field use": [
+    "了解全球现场应用",
+    "Explorar aplicaciones globales"
+  ],
+  "Global in practice": [
+    "全球实践",
+    "Práctica global"
+  ],
+  "YIWEI MEDICAL / FIELD USE": [
+    "医未医疗 / 现场应用",
+    "YIWEI MEDICAL / USO REAL"
+  ],
+  "Real settings.": [
+    "真实场景。",
+    "Entornos reales."
+  ],
+  "Connected brain care.": [
+    "连接脑健康照护。",
+    "Atención cerebral conectada."
+  ],
+  "Company-supplied field examples across": [
+    "企业提供的现场示例覆盖",
+    "Ejemplos de uso aportados por la empresa en"
+  ],
+  "markets and regions.": [
+    "个市场与地区。",
+    "mercados y regiones."
+  ],
+  "Explore the field gallery.": [
+    "浏览现场图库。",
+    "Explorar la galería de uso real."
+  ],
+  "Filter field photos by market": [
+    "按市场筛选现场照片",
+    "Filtrar fotos por mercado"
+  ],
+  "All markets & regions": [
+    "全部市场与地区",
+    "Todos los mercados y regiones"
+  ],
+  "View": [
+    "查看",
+    "Ver"
+  ],
+  "field photos": [
+    "张现场照片",
+    "fotos de uso real"
+  ],
+  "Original photos from YIWEI’s supplied presentations. Locations follow their captions; field-use examples describe the shown settings. Product-specific registration records are available separately.": [
+    "原始照片来自医未提供的演示资料。地点依照图片说明；现场示例仅描述所展示场景。具体产品注册记录另行列出。",
+    "Fotos originales de las presentaciones de YIWEI. Las ubicaciones corresponden a sus pies de foto; los ejemplos describen los entornos mostrados. Los registros por producto se presentan por separado."
+  ],
+  "View registration records": [
+    "查看注册记录",
+    "Ver registros"
+  ],
+  "Photo": [
+    "照片",
+    "Foto"
+  ],
+  "· Company-supplied material": [
+    "· 企业提供资料",
+    "· Material aportado por la empresa"
+  ],
+  "Previous field photo": [
+    "上一张现场照片",
+    "Foto anterior"
+  ],
+  "Next field photo": [
+    "下一张现场照片",
+    "Foto siguiente"
+  ],
+  "INTERNATIONAL PRESENCE": [
+    "国际布局",
+    "PRESENCIA INTERNACIONAL"
+  ],
+  "Global reach. Local care.": [
+    "全球布局，本地照护。",
+    "Alcance global. Atención local."
+  ],
+  "Six markets with source documents. Three registration workstreams in progress.": [
+    "六个市场有原始文件，三个市场的注册工作正在推进。",
+    "Seis mercados con documentos fuente. Tres procesos de registro en curso."
+  ],
+  "markets & regions represented": [
+    "个市场与地区",
+    "mercados y regiones representados"
+  ],
+  "Product-specific scope · Original documents in each record": [
+    "按产品明确范围 · 每条记录附原始文件",
+    "Alcance por producto · Documentos originales en cada registro"
+  ],
+  "Explore registrations": [
+    "了解注册信息",
+    "Explorar registros"
+  ],
+  "Registrations & compliance": [
+    "注册与合规",
+    "Registros y conformidad"
+  ],
+  "FDA 510(k) clearance for CT perfusion · China and Thai FDA records.": [
+    "CT 灌注的 FDA 510(k) 许可 · 中国及泰国 FDA 记录。",
+    "Autorización FDA 510(k) para perfusión por TC · Registros de China y la FDA tailandesa."
+  ],
+  "Dementia imaging and cognitive-training records, with module-specific scope.": [
+    "认知障碍影像与认知训练记录，范围按具体模块确定。",
+    "Registros de imagen de demencia y entrenamiento cognitivo, con alcance por módulo."
+  ],
+  "European Class I documentation and Brazilian ICC conformity certification for VR-ASD.": [
+    "VR-ASD 的欧洲 I 类文件与巴西 ICC 符合性认证。",
+    "Documentación europea de clase I y certificación de conformidad ICC brasileña para VR-ASD."
+  ],
+  "German Class I notification documentation for the VR attention system.": [
+    "VR 注意力系统的德国 I 类通报文件。",
+    "Documentación alemana de notificación de clase I del sistema de atención en RV."
+  ],
+  "View product records": [
+    "查看产品记录",
+    "Ver registros del producto"
+  ],
+  "Record details": [
+    "记录详情",
+    "Detalles del registro"
+  ],
+  "Issuer / document source": [
+    "签发方 / 文件来源",
+    "Emisor / fuente documental"
+  ],
+  "Record date": [
+    "记录日期",
+    "Fecha del registro"
+  ],
+  "Documented validity": [
+    "文件所载有效期",
+    "Vigencia documentada"
+  ],
+  "Classification": [
+    "分类",
+    "Clasificación"
+  ],
+  "Source review": [
+    "来源审核",
+    "Revisión de fuentes"
+  ],
+  "Registered or documented scope": [
+    "注册或文件所载范围",
+    "Alcance registrado o documentado"
+  ],
+  "Product and market context": [
+    "产品与市场背景",
+    "Contexto del producto y el mercado"
+  ],
+  "Related solution:": [
+    "相关方案：",
+    "Solución relacionada:"
+  ],
+  "records. Open a record for its registered scope and original documents.": [
+    "条记录。打开记录查看注册范围与原始文件。",
+    "registros. Abra un registro para ver su alcance y los documentos originales."
+  ],
+  "Show fewer records": [
+    "收起记录",
+    "Mostrar menos registros"
+  ],
+  "View all": [
+    "查看全部",
+    "Ver todos"
+  ],
+  "Explore global registrations": [
+    "查看全球注册信息",
+    "Explorar registros globales"
+  ],
+  "Global registrations": [
+    "全球注册信息",
+    "Registros globales"
+  ],
+  "YIWEI MEDICAL / INTERNATIONAL PRESENCE": [
+    "医未医疗 / 国际布局",
+    "YIWEI MEDICAL / PRESENCIA INTERNACIONAL"
+  ],
+  "Global reach.": [
+    "全球布局。",
+    "Alcance global."
+  ],
+  "Product-specific records.": [
+    "按产品呈现记录。",
+    "Registros por producto."
+  ],
+  "Explore registrations, market listings and compliance documents.": [
+    "查看注册、市场列名与合规文件。",
+    "Explore registros, listados de mercado y documentos de conformidad."
+  ],
+  "markets with source documents": [
+    "个市场有原始文件",
+    "mercados con documentos fuente"
+  ],
+  "markets with registration in progress": [
+    "个市场注册正在推进",
+    "mercados con registro en curso"
+  ],
+  "original source documents": [
+    "份原始文件",
+    "documentos fuente originales"
+  ],
+  "UNITED STATES": [
+    "美国",
+    "ESTADOS UNIDOS"
+  ],
+  "Filter registrations by market": [
+    "按市场筛选注册信息",
+    "Filtrar registros por mercado"
+  ],
+  "All markets": [
+    "全部市场",
+    "Todos los mercados"
+  ],
+  "Filter registration records by solution": [
+    "按方案筛选注册记录",
+    "Filtrar registros por solución"
+  ],
+  "All products": [
+    "全部产品",
+    "Todos los productos"
+  ],
+  "Imaging infrastructure": [
+    "影像基础设施",
+    "Infraestructura de imagen"
+  ],
+  "Registrations in progress": [
+    "正在推进的注册",
+    "Registros en curso"
+  ],
+  "Company-reported workstreams · September 2026 update.": [
+    "企业报告的工作进展 · 2026年9月更新。",
+    "Procesos comunicados por la empresa · Actualización de septiembre de 2026."
+  ],
+  "Source review · October 2026": [
+    "来源审核 · 2026年10月",
+    "Revisión de fuentes · Octubre de 2026"
+  ],
+  "Showing": [
+    "显示",
+    "Mostrando"
+  ],
+  "No documented records for this selection": [
+    "当前筛选无文件记录",
+    "No hay registros documentados para esta selección"
+  ],
+  "Reset filters": [
+    "重置筛选",
+    "Restablecer filtros"
+  ],
+  "SUPPORTING DOCUMENTATION": [
+    "支持文件",
+    "DOCUMENTACIÓN DE APOYO"
+  ],
+  "Third-party establishment statement · No device clearance established.": [
+    "第三方企业声明 · 不代表器械获批。",
+    "Declaración de establecimiento de terceros · No acredita autorización del dispositivo."
+  ],
+  "View record": [
+    "查看记录",
+    "Ver registro"
+  ],
+  "Scope follows the product.": [
+    "范围以具体产品为准。",
+    "El alcance depende del producto."
+  ],
+  "Each record applies to its named device, version and intended use. Registration, listing and conformity documentation follow different regulatory routes.": [
+    "每条记录仅适用于其所列器械、版本和预期用途。注册、列名与符合性文件遵循不同监管路径。",
+    "Cada registro se aplica al dispositivo, versión y uso previsto indicados. El registro, el listado y la documentación de conformidad siguen vías regulatorias distintas."
+  ],
+  "VR eye tracking for dementia screening": [
+    "用于认知障碍筛查的 VR 眼动技术",
+    "Seguimiento ocular en RV para el cribado de demencia"
+  ],
+  "Screening study": [
+    "筛查研究",
+    "Estudio de cribado"
+  ],
+  "Single-location study. Screening supports further clinical evaluation.": [
+    "单中心研究。筛查支持后续临床评估。",
+    "Estudio en una sola localización. El cribado apoya la evaluación clínica posterior."
+  ],
+  "RealNow™ perfusion imaging and patient triage": [
+    "RealNow™ 灌注影像与患者分诊",
+    "Imagen de perfusión RealNow™ y triaje de pacientes"
+  ],
+  "Retrospective comparison": [
+    "回顾性比较",
+    "Comparación retrospectiva"
+  ],
+  "stroke cases": [
+    "例卒中病例",
+    "casos de ictus"
+  ],
+  "Software agreement study. Clinical-outcome benefit was not established.": [
+    "软件一致性研究。未确立临床结局获益。",
+    "Estudio de concordancia entre programas. No estableció beneficios en resultados clínicos."
+  ],
+  "Deep learning for MRI-to-PET synthesis": [
+    "用于 MRI 转 PET 合成的深度学习",
+    "Aprendizaje profundo para sintetizar PET a partir de RM"
+  ],
+  "Multicenter imaging research": [
+    "多中心影像研究",
+    "Investigación multicéntrica de imagen"
+  ],
+  "paired-imaging participants": [
+    "名配对影像受试者",
+    "participantes con imágenes pareadas"
+  ],
+  "Research-stage estimates. Synthetic PET does not replace confirmatory testing.": [
+    "研究阶段估计。合成 PET 不替代确证检测。",
+    "Estimaciones en fase de investigación. La PET sintética no sustituye las pruebas confirmatorias."
+  ],
+  "CLINICAL EVIDENCE": [
+    "临床证据",
+    "EVIDENCIA CLÍNICA"
+  ],
+  "Published clinical research.": [
+    "已发表临床研究。",
+    "Investigación clínica publicada."
+  ],
+  "Explore all clinical evidence": [
+    "查看全部临床证据",
+    "Ver toda la evidencia clínica"
+  ],
+  "RealNow™ / Stroke imaging": [
+    "RealNow™ / 卒中影像",
+    "RealNow™ / Imagen del ictus"
+  ],
+  "Dr.Brain™ / Cognitive screening": [
+    "Dr.Brain™ / 认知筛查",
+    "Dr.Brain™ / Cribado cognitivo"
+  ],
+  "Dr.Brain™ / Emerging research": [
+    "Dr.Brain™ / 前沿研究",
+    "Dr.Brain™ / Investigación emergente"
+  ],
+  "Study summary:": [
+    "研究摘要：",
+    "Resumen del estudio:"
+  ],
+  "Published article in": [
+    "发表于",
+    "Artículo publicado en"
+  ],
+  "Read article": [
+    "阅读论文",
+    "Leer artículo"
+  ],
+  "Brain structure, in view.": [
+    "直观呈现脑结构。",
+    "La estructura cerebral, a la vista."
+  ],
+  "Dr.Brain™ · Multiplanar MRI visualization": [
+    "Dr.Brain™ · 多平面 MRI 可视化",
+    "Dr.Brain™ · Visualización multiplanar de RM"
+  ],
+  "Perfusion": [
+    "灌注",
+    "Perfusión"
+  ],
+  "Blood flow, quantified.": [
+    "量化血流。",
+    "El flujo sanguíneo, cuantificado."
+  ],
+  "RealNow™ · Original perfusion analysis interface": [
+    "RealNow™ · 原始灌注分析界面",
+    "RealNow™ · Interfaz original de análisis de perfusión"
+  ],
+  "Vascular": [
+    "血管",
+    "Vascular"
+  ],
+  "A closer view of vessels.": [
+    "更细致地观察血管。",
+    "Una mirada más cercana a los vasos."
+  ],
+  "RealNow™ · Original vascular imaging interface": [
+    "RealNow™ · 原始血管影像界面",
+    "RealNow™ · Interfaz original de imagen vascular"
+  ],
+  "IMAGING INTELLIGENCE": [
+    "智能影像",
+    "INTELIGENCIA EN IMAGEN"
+  ],
+  "Explore brain imaging views": [
+    "浏览脑影像视图",
+    "Explorar vistas de imagen cerebral"
+  ],
+  "Explore imaging AI": [
+    "了解影像 AI",
+    "Explorar la IA de imagen"
+  ],
+  "Original YIWEI product imagery": [
+    "医未产品原始图像",
+    "Imágenes originales de productos YIWEI"
+  ],
+  "Inside the system.": [
+    "走进系统。",
+    "Dentro del sistema."
+  ],
+  "PRODUCT EXPERIENCE": [
+    "产品体验",
+    "EXPERIENCIA DEL PRODUCTO"
+  ],
+  "Enlarge": [
+    "放大",
+    "Ampliar"
+  ],
+  "Explore related material": [
+    "查看相关资料",
+    "Ver material relacionado"
+  ],
+  "Original website image": [
+    "原网站图片",
+    "Imagen del sitio original"
+  ],
+  "CT, vessel and perfusion interfaces.": [
+    "CT、血管与灌注界面。",
+    "Interfaces de TC, vasos y perfusión."
+  ],
+  "Assessment, practice and progress review.": [
+    "评估、训练与进展回顾。",
+    "Evaluación, práctica y revisión del progreso."
+  ],
+  "VR and tablet practice, adapted to the child’s developmental goals.": [
+    "VR 与平板训练，适配儿童的发展目标。",
+    "Práctica con RV y tabletas adaptada a los objetivos de desarrollo del niño."
+  ],
+  "Original VR platform examples.": [
+    "原始 VR 平台示例。",
+    "Ejemplos originales de la plataforma de RV."
+  ],
+  "See the technology in use.": [
+    "查看技术的实际使用。",
+    "Ver la tecnología en uso."
+  ],
+  "QUICKMIND / ORIGINAL DEMONSTRATION": [
+    "QUICKMIND / 原始演示",
+    "QUICKMIND / DEMOSTRACIÓN ORIGINAL"
+  ],
+  "A closer look at digital care.": [
+    "深入了解数字照护。",
+    "Una mirada cercana a la atención digital."
+  ],
+  "See assessment, practice and reporting in action.": [
+    "查看评估、训练与报告的实际流程。",
+    "Vea la evaluación, la práctica y los informes en funcionamiento."
+  ],
+  "QuickMind product demonstration": [
+    "QuickMind 产品演示",
+    "Demostración del producto QuickMind"
+  ],
+  "Open the original QuickMind video": [
+    "打开 QuickMind 原始视频",
+    "Abrir el vídeo original de QuickMind"
+  ],
+  "Original QuickMind presentation": [
+    "QuickMind 原始演示",
+    "Presentación original de QuickMind"
+  ],
+  "Watch original": [
+    "观看原视频",
+    "Ver original"
+  ],
+  "PRODUCT QUESTIONS": [
+    "产品常见问题",
+    "PREGUNTAS SOBRE EL PRODUCTO"
+  ],
+  "Questions about this solution": [
+    "关于此方案的常见问题",
+    "Preguntas sobre esta solución"
+  ],
+  "YIWEI MEDICAL home": [
+    "医未医疗首页",
+    "Inicio de YIWEI MEDICAL"
+  ],
+  "YIWEI MEDICAL brand symbol": [
+    "医未医疗品牌标志",
+    "Símbolo de YIWEI MEDICAL"
+  ],
+  "Main navigation": [
+    "主导航",
+    "Navegación principal"
+  ],
+  "Show": [
+    "显示",
+    "Mostrar"
+  ],
+  "Contact": [
+    "联系我们",
+    "Contacto"
+  ],
+  "Toggle navigation": [
+    "展开或收起导航",
+    "Abrir o cerrar navegación"
+  ],
+  "Mobile navigation": [
+    "移动端导航",
+    "Navegación móvil"
+  ],
+  "Home": [
+    "首页",
+    "Inicio"
+  ],
+  "Private prototype": [
+    "私有原型",
+    "Prototipo privado"
+  ],
+  "Footer navigation": [
+    "页脚导航",
+    "Navegación del pie de página"
+  ],
+  "Contact YIWEI": [
+    "联系医未",
+    "Contactar con YIWEI"
+  ],
+  "Clinical use and availability vary by product and market.": [
+    "临床用途与供应情况因产品和市场而异。",
+    "El uso clínico y la disponibilidad varían según el producto y el mercado."
+  ],
+  "English · Global": [
+    "中文 · 全球",
+    "Español · Global"
+  ],
+  "· Original product imagery": [
+    "· 产品原始图像",
+    "· Imágenes originales del producto"
+  ],
+  "INPUT": [
+    "输入",
+    "ENTRADA"
+  ],
+  "OUTPUT FOR REVIEW": [
+    "供复核的输出",
+    "RESULTADOS PARA REVISIÓN"
+  ],
+  "CAPABILITIES": [
+    "技术能力",
+    "CAPACIDADES"
+  ],
+  "From measurement to care.": [
+    "从测量到照护。",
+    "De la medición a la atención."
+  ],
+  "CLINICAL WORKFLOW": [
+    "临床流程",
+    "FLUJO CLÍNICO"
+  ],
+  "How it fits.": [
+    "如何融入流程。",
+    "Cómo se integra."
+  ],
+  "RELATED SOLUTIONS": [
+    "相关方案",
+    "SOLUCIONES RELACIONADAS"
+  ],
+  "Explore the applications.": [
+    "了解应用。",
+    "Explorar las aplicaciones."
+  ],
+  "Explore solution": [
+    "了解方案",
+    "Explorar la solución"
+  ],
+  "RESEARCH & RESOURCES": [
+    "研究与资料",
+    "INVESTIGACIÓN Y RECURSOS"
+  ],
+  "See the supporting material.": [
+    "查看相关支持资料。",
+    "Ver el material de apoyo."
+  ],
+  "All technologies": [
+    "全部技术",
+    "Todas las tecnologías"
+  ],
+  "Discuss a clinical application": [
+    "讨论临床应用",
+    "Comentar una aplicación clínica"
+  ],
+  "All solutions": [
+    "全部方案",
+    "Todas las soluciones"
+  ],
+  "Dementia care": [
+    "认知障碍照护",
+    "Atención de la demencia"
+  ],
+  "Stroke care": [
+    "卒中照护",
+    "Atención del ictus"
+  ],
+  "Child development": [
+    "儿童发展",
+    "Desarrollo infantil"
+  ],
+  "Clinical evidence": [
+    "临床证据",
+    "Evidencia clínica"
+  ],
+  "Solution categories": [
+    "方案类别",
+    "Categorías de soluciones"
+  ],
+  "Study team:": [
+    "研究团队：",
+    "Equipo investigador:"
+  ],
+  "Evidence scope:": [
+    "证据范围：",
+    "Alcance de la evidencia:"
+  ],
+  "Published article": [
+    "发表原文",
+    "Artículo publicado"
+  ],
+  "Source PDF": [
+    "来源 PDF",
+    "PDF fuente"
+  ],
+  "Study institutions": [
+    "研究机构",
+    "Instituciones del estudio"
+  ],
+  "Study overview": [
+    "研究概览",
+    "Resumen del estudio"
+  ],
+  "Connection to YIWEI": [
+    "与医未的关联",
+    "Relación con YIWEI"
+  ],
+  "Evidence scope": [
+    "证据范围",
+    "Alcance de la evidencia"
+  ],
+  "Supplied PDF": [
+    "所提供的 PDF",
+    "PDF proporcionado"
+  ],
+  "More": [
+    "更多",
+    "Más"
+  ],
+  "Show more studies": [
+    "显示更多研究",
+    "Mostrar más estudios"
+  ],
+  "Explore our solutions": [
+    "探索解决方案",
+    "Explorar nuestras soluciones"
+  ],
+  "View clinical evidence": [
+    "查看临床证据",
+    "Ver evidencia clínica"
+  ],
+  "Dementia": [
+    "认知障碍",
+    "Demencia"
+  ],
+  "Stroke": [
+    "卒中",
+    "Ictus"
+  ],
+  "Autism": [
+    "自闭症",
+    "Autismo"
+  ],
+  "ADHD": [
+    "ADHD",
+    "TDAH"
+  ],
+  "AI & BRAIN SCIENCE": [
+    "人工智能与脑科学",
+    "IA Y NEUROCIENCIA"
+  ],
+  "Imaging AI": [
+    "影像 AI",
+    "IA de imagen"
+  ],
+  "Eye tracking": [
+    "眼动技术",
+    "Seguimiento ocular"
+  ],
+  "Digital rehabilitation": [
+    "数字康复",
+    "Rehabilitación digital"
+  ],
+  "FOUR SOLUTION LINES": [
+    "四条解决方案产品线",
+    "CUATRO LÍNEAS DE SOLUCIONES"
+  ],
+  "Brain health.": [
+    "脑健康。",
+    "Salud cerebral."
+  ],
+  "Four focused solutions.": [
+    "四大聚焦方案。",
+    "Cuatro soluciones específicas."
+  ],
+  "Dementia, stroke,": [
+    "认知障碍、卒中、",
+    "Demencia, ictus,"
+  ],
+  "autism and ADHD.": [
+    "自闭症与 ADHD。",
+    "autismo y TDAH."
+  ],
+  "BRAIN HEALTH / SCIENCE & AI": [
+    "脑健康 / 科学与人工智能",
+    "SALUD CEREBRAL / CIENCIA E IA"
+  ],
+  "Our solutions.": [
+    "我们的解决方案。",
+    "Nuestras soluciones."
+  ],
+  "Four focused pathways for dementia, stroke, autism and ADHD.": [
+    "围绕认知障碍、卒中、自闭症和 ADHD 的四条聚焦路径。",
+    "Cuatro vías específicas para demencia, ictus, autismo y TDAH."
+  ],
+  "Discuss this solution": [
+    "咨询此方案",
+    "Consultar esta solución"
+  ],
+  "Illustrative VR + tablet care scenario": [
+    "VR + 平板照护场景示意图",
+    "Ilustración de atención con RV y tableta"
+  ],
+  "Original VR platform imagery": [
+    "原始 VR 平台图像",
+    "Imágenes originales de la plataforma de RV"
+  ],
+  "page sections": [
+    "页面章节",
+    "secciones de la página"
+  ],
+  "Overview": [
+    "概览",
+    "Resumen"
+  ],
+  "Applications": [
+    "应用",
+    "Aplicaciones"
+  ],
+  "Registrations": [
+    "注册信息",
+    "Registros"
+  ],
+  "Resources": [
+    "资料",
+    "Recursos"
+  ],
+  "Questions": [
+    "常见问题",
+    "Preguntas"
+  ],
+  "01 / OVERVIEW": [
+    "01 / 概览",
+    "01 / RESUMEN"
+  ],
+  "Screen. Diagnose. Rehabilitate.": [
+    "筛查。诊断。康复。",
+    "Cribado. Diagnóstico. Rehabilitación."
+  ],
+  "Built around the care pathway.": [
+    "围绕照护路径构建。",
+    "Diseñado en torno al proceso asistencial."
+  ],
+  "02 / APPLICATIONS": [
+    "02 / 应用",
+    "02 / APLICACIONES"
+  ],
+  "From the clinic to practice.": [
+    "从临床到实践。",
+    "De la clínica a la práctica."
+  ],
+  "Where it fits": [
+    "适用场景",
+    "Dónde se integra"
+  ],
+  "Screening · Diagnosis · Rehabilitation": [
+    "筛查 · 诊断 · 康复",
+    "Cribado · Diagnóstico · Rehabilitación"
+  ],
+  "A structured workflow": [
+    "结构化工作流程",
+    "Un flujo de trabajo estructurado"
+  ]
+}

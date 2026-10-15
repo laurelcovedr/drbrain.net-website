@@ -1,3 +1,4 @@
+/** @jsxImportSource @/lib/localized-jsx */
 'use client';
 import {useState} from 'react';
 import {ArrowUpRight,ArrowRight,Plus} from 'lucide-react';

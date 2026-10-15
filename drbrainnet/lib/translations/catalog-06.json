@@ -1,0 +1,570 @@
+{
+  "The supplied file associates this record with RealNow+. The base certificate, full registered indication and validity period are not included in this amendment.": [
+    "文件将此记录关联 RealNow+，变更未包含原证、完整适用范围及有效期。",
+    "El archivo vincula el registro a RealNow+. La modificación no incluye certificado base, indicación completa ni vigencia."
+  ],
+  "2024 registration amendment": [
+    "2024年注册变更",
+    "Modificación de registro de 2024"
+  ],
+  "Medical Image Processing Software · RealNow-iCTA association from the supplied file label": [
+    "医学影像处理软件 · 根据所提供文件标签关联 RealNow-iCTA",
+    "Software de imagen médica · Vinculación a RealNow-iCTA según la etiqueta del archivo"
+  ],
+  "Updates registrant and manufacturing addresses for the registered medical image-processing software.": [
+    "更新已注册医学影像处理软件的注册人及生产地址。",
+    "Actualiza las direcciones del titular y de fabricación del software de imagen médica registrado."
+  ],
+  "The supplied file associates this record with RealNow-iCTA. The amendment is used with its base certificate; detailed indication and validity are not stated in this file.": [
+    "文件将此记录关联 RealNow-iCTA。变更需与原证一起使用；文件未载明详细适用范围及有效期。",
+    "El archivo lo vincula a RealNow-iCTA. La modificación se usa con el certificado base; no indica detalles de uso ni vigencia."
+  ],
+  "LIMPIO image infrastructure": [
+    "LIMPIO 影像基础设施",
+    "Infraestructura de imagen LIMPIO"
+  ],
+  "Medical Image Storage and Transmission Software · LIMPIO": [
+    "医学影像存储与传输软件 · LIMPIO",
+    "Software de almacenamiento y transmisión de imagen médica · LIMPIO"
+  ],
+  "Storage, transmission, management and display of medical images.": [
+    "医学影像的存储、传输、管理与显示。",
+    "Almacenamiento, transmisión, gestión y visualización de imágenes médicas."
+  ],
+  "The registered scope excludes automatic diagnosis. This is supporting company imaging infrastructure, rather than registration of one of the four solution lines.": [
+    "注册范围排除自动诊断。这是企业支持性影像基础设施，而非四条方案产品线之一的注册。",
+    "El alcance excluye el diagnóstico automático. Es infraestructura de apoyo de la empresa, no registro de una de las cuatro líneas."
+  ],
+  "TIPACS image infrastructure": [
+    "TIPACS 影像基础设施",
+    "Infraestructura de imagen TIPACS"
+  ],
+  "Medical Image Transmission and Processing Software · TIPACS": [
+    "医学影像传输与处理软件 · TIPACS",
+    "Software de transmisión y procesamiento de imagen médica · TIPACS"
+  ],
+  "Reception, transmission, storage, display and management of medical images.": [
+    "医学影像的接收、传输、存储、显示与管理。",
+    "Recepción, transmisión, almacenamiento, visualización y gestión de imágenes médicas."
+  ],
+  "The registered scope excludes automatic diagnosis. The certificate is company infrastructure documentation and retains the original registration number.": [
+    "注册范围排除自动诊断。证书为企业基础设施文件，保留原注册编号。",
+    "El alcance excluye diagnóstico automático. El certificado documenta infraestructura empresarial y conserva el número original."
+  ],
+  "RealNow · Medical image management and processing system": [
+    "RealNow · 医学影像管理与处理系统",
+    "RealNow · Sistema de gestión y procesamiento de imagen médica"
+  ],
+  "U.S. Food and Drug Administration": [
+    "美国食品药品监督管理局",
+    "Administración de Alimentos y Medicamentos de EE. UU."
+  ],
+  "No fixed expiry is stated in the clearance letter": [
+    "许可函未载明固定到期日",
+    "La carta de autorización no indica caducidad fija"
+  ],
+  "Professional viewing, processing, analysis and communication of brain CT-perfusion scans, including perfusion and blood-volume parameter maps.": [
+    "供专业人员查看、处理、分析及传递脑 CT 灌注扫描，包括灌注与血容量参数图。",
+    "Visualización, procesamiento, análisis y comunicación profesional de TC de perfusión cerebral, incluidos mapas de perfusión y volumen sanguíneo."
+  ],
+  "The clearance is specific to the stated CT-perfusion indication. It does not establish FDA clearance of MR perfusion, hemorrhage triage, CTA, ASPECTS or other YIWEI products. Ongoing U.S. regulatory obligations apply.": [
+    "许可仅针对所载 CT 灌注适用范围，不代表 MR 灌注、出血分诊、CTA、ASPECTS 或其他医未产品获 FDA 许可。仍需履行美国持续监管义务。",
+    "La autorización se limita a la indicación de perfusión por TC. No acredita autorización FDA de perfusión por RM, triaje hemorrágico, angio-TC, ASPECTS ni otros productos. Se mantienen las obligaciones regulatorias estadounidenses."
+  ],
+  "FDA clearance letter": [
+    "FDA 许可函",
+    "Carta de autorización FDA"
+  ],
+  "Matched to the published FDA clearance package": [
+    "已与公布的 FDA 许可资料核对",
+    "Cotejado con el expediente público de autorización FDA"
+  ],
+  "FDA clearance and indications for use": [
+    "FDA 许可与适用范围",
+    "Autorización FDA e indicaciones de uso"
+  ],
+  "Third-party registration statement": [
+    "第三方注册声明",
+    "Declaración de registro de terceros"
+  ],
+  "RCT Testing (not FDA)": [
+    "RCT Testing（非 FDA）",
+    "RCT Testing (no es la FDA)"
+  ],
+  "Current annual FDA registration/listing status has not been independently verified": [
+    "当前年度 FDA 注册/列名状态未独立核验",
+    "No se ha verificado de forma independiente el registro/listado anual FDA actual"
+  ],
+  "The third-party document reports an establishment registration and device-listing record for YIWEI and Virtual Brain.": [
+    "第三方文件报告医未与 Virtual Brain 的企业注册及器械列名记录。",
+    "El documento de terceros comunica registro de establecimiento y listado de dispositivo para YIWEI y Virtual Brain."
+  ],
+  "This is a private third-party statement, not an FDA-issued certificate or device clearance. FDA registration and listing do not constitute approval or clearance. It is retained as supporting documentation and is not used as a product-approval badge.": [
+    "这是私人第三方声明，不是 FDA 签发的证书或器械许可。FDA 注册和列名不构成批准或许可，仅作为支持文件保留，不作为产品获批标识。",
+    "Es una declaración privada, no un certificado FDA ni autorización de dispositivo. El registro y listado FDA no constituyen aprobación. Se conserva como apoyo, no como distintivo de aprobación."
+  ],
+  "Third-party statement (non-official)": [
+    "第三方声明（非官方）",
+    "Declaración de terceros (no oficial)"
+  ],
+  "Establishment number reported by the third party": [
+    "第三方报告的企业编号",
+    "Número de establecimiento indicado por el tercero"
+  ],
+  "FDA explanation of registration and listing": [
+    "FDA 对注册与列名的说明",
+    "Explicación FDA del registro y listado"
+  ],
+  "Dr. Brain · Medical Image Processing Software · TIHip Version 1": [
+    "Dr. Brain · 医学影像处理软件 · TIHip 版本1",
+    "Dr. Brain · Software de imagen médica · TIHip versión 1"
+  ],
+  "Supplied Verification of Compliance bearing DIMDI details": [
+    "所提供合规核验文件，载有 DIMDI 信息",
+    "Verificación de conformidad aportada con datos DIMDI"
+  ],
+  "No expiry is stated; current MDR conformity was not established from this file": [
+    "未载明到期日；此文件未确立当前 MDR 符合性",
+    "No indica caducidad; el archivo no acredita conformidad MDR actual"
+  ],
+  "Class I manufacturer-declaration route under Annex VII of Directive 93/42/EEC; technical file YW-CE-TechDOC-001, version 8.5a.": [
+    "按93/42/EEC指令附件VII采用 I 类制造商声明路径；技术文件YW-CE-TechDOC-001，版本8.5a。",
+    "Vía de declaración del fabricante clase I del anexo VII de la Directiva 93/42/CEE; expediente YW-CE-TechDOC-001, versión 8.5a."
+  ],
+  "A historical MDD-era compliance verification. It refers to manufacturer responsibilities before CE marking and does not establish present MDR status or notified-body certification.": [
+    "历史 MDD 时期合规核验，涉及 CE 标志前制造商责任，不确立当前 MDR 状态或公告机构认证。",
+    "Verificación histórica de la era MDD sobre responsabilidades previas al marcado CE; no establece estado MDR actual ni certificación de organismo notificado."
+  ],
+  "2020 Verification of Compliance": [
+    "2020年合规核验",
+    "Verificación de conformidad de 2020"
+  ],
+  "Class I as stated in the 2020 document": [
+    "2020年文件所载 I 类",
+    "Clase I según el documento de 2020"
+  ],
+  "Dr. Brain White Matter · CE-related record": [
+    "Dr. Brain White Matter · CE 相关记录",
+    "Dr. Brain White Matter · Registro relacionado con CE"
+  ],
+  "Dr. Brain White Matter · Medical Image Processing Software": [
+    "Dr. Brain White Matter · 医学影像处理软件",
+    "Dr. Brain White Matter · Software de imagen médica"
+  ],
+  "Class I manufacturer-declaration route under Annex VII of Directive 93/42/EEC; technical file YW-CE-TechDOC-002, version 1a.": [
+    "按93/42/EEC指令附件VII采用 I 类制造商声明路径；技术文件YW-CE-TechDOC-002，版本1a。",
+    "Vía de declaración del fabricante clase I del anexo VII de la Directiva 93/42/CEE; expediente YW-CE-TechDOC-002, versión 1a."
+  ],
+  "Historical documentation for the named white-matter software. It does not establish present MDR conformity or approval of the broader Dr.Brain™ solution.": [
+    "所列白质软件的历史文件，不确立当前 MDR 符合性或完整 Dr.Brain™ 方案获批。",
+    "Documentación histórica del software de sustancia blanca indicado; no acredita conformidad MDR actual ni aprobación de la solución Dr.Brain™ completa."
+  ],
+  "Cognitive VR · German notification": [
+    "认知 VR · 德国通报",
+    "RV cognitiva · Notificación alemana"
+  ],
+  "VR Cognitive Assessment and Rehab Training System": [
+    "VR 认知评估与康复训练系统",
+    "Sistema de evaluación cognitiva y rehabilitación en RV"
+  ],
+  "No expiry is stated in the supplied certificate": [
+    "所提供证书未载明到期日",
+    "El certificado aportado no indica caducidad"
+  ],
+  "The certificate documents notification of a Class I VR cognitive-assessment and rehabilitation-training system, with software on mobile devices.": [
+    "证书记录移动设备软件的 I 类 VR 认知评估与康复训练系统通报。",
+    "El certificado documenta la notificación de un sistema clase I de evaluación y rehabilitación cognitiva en RV con software móvil."
+  ],
+  "The certificate is prepared by the representative on the basis of a notification form. It is presented as registration documentation, rather than an independently verified government-issued approval or notified-body certificate. The registered trade name is shown separately from Dr.Brain™ solution branding.": [
+    "证书由代表依据通报表制作，作为注册文件展示，并非独立核验的政府批准或公告机构证书。注册商品名与 Dr.Brain™ 方案品牌分开展示。",
+    "Certificado preparado por el representante a partir de una notificación. Se presenta como documentación de registro, no aprobación gubernamental verificada ni certificado de organismo notificado. La marca registrada se distingue de Dr.Brain™."
+  ],
+  "Certificate of registration": [
+    "注册证书",
+    "Certificado de registro"
+  ],
+  "Class I as stated in the certificate": [
+    "证书所载 I 类",
+    "Clase I según el certificado"
+  ],
+  "VR Attention Assessment and Rehab Training System": [
+    "VR 注意力评估与康复训练系统",
+    "Sistema de evaluación de atención y rehabilitación en RV"
+  ],
+  "The certificate documents notification of a Class I VR attention-assessment and rehabilitation-training system, with software on mobile devices.": [
+    "证书记录移动设备软件的 I 类 VR 注意力评估与康复训练系统通报。",
+    "El certificado documenta la notificación de un sistema clase I de evaluación de atención y rehabilitación en RV con software móvil."
+  ],
+  "A representative-prepared registration certificate referring to a German notification form. The source names the attention system, not the ForcusGenius™ brand. It does not by itself establish ADHD treatment efficacy or notified-body approval.": [
+    "由代表制作、引用德国通报表的注册证书。来源标明注意力系统，而非 ForcusGenius™ 品牌。本身不确立 ADHD 治疗疗效或公告机构批准。",
+    "Certificado del representante basado en notificación alemana. Nombra el sistema de atención, no ForcusGenius™. Por sí solo no acredita eficacia terapéutica para TDAH ni aprobación de organismo notificado."
+  ],
+  "QuickMind VR Cognitive Assessment and Rehab Training System · identifier Virtual Brain · V1.0.1.02": [
+    "QuickMind VR 认知评估与康复训练系统 · 标识Virtual Brain · V1.0.1.02",
+    "Sistema QuickMind de evaluación y rehabilitación cognitiva en RV · Identificador Virtual Brain · V1.0.1.02"
+  ],
+  "Thai Food and Drug Administration, Ministry of Public Health": [
+    "泰国公共卫生部食品药品监督管理局",
+    "Administración de Alimentos y Medicamentos del Ministerio de Salud Pública de Tailandia"
+  ],
+  "Cognitive assessment and rehabilitation training for the populations stated in the attachment, including mild-to-moderate cognitive impairment and post-stroke cognitive impairment.": [
+    "用于附件所载人群的认知评估与康复训练，包括轻中度认知损害及卒中后认知损害。",
+    "Evaluación y rehabilitación cognitiva de las poblaciones del anexo, incluidas alteraciones leves a moderadas y deterioro posictus."
+  ],
+  "Thai Class 1 Non-IVD listing through the named importer and location. The attachment defines the system, software version and populations. Dates are converted from the Thai Buddhist calendar to Gregorian dates.": [
+    "通过所列进口商及地点进行泰国1类非 IVD 列名，附件界定系统、软件版本与人群，日期由泰国佛历换算为公历。",
+    "Listado tailandés clase 1 no IVD mediante importador y lugar indicados. El anexo define sistema, versión y poblaciones. Fechas convertidas del calendario budista al gregoriano."
+  ],
+  "Thai FDA certificate and attachments": [
+    "泰国 FDA 证书及附件",
+    "Certificado FDA tailandés y anexos"
+  ],
+  "Class 1 Non-IVD · FULL pathway": [
+    "1类非 IVD · 完整路径",
+    "Clase 1 no IVD · Vía FULL"
+  ],
+  "Cognitive Dysfunction Assessment and Training Software · Virtual Brain V1": [
+    "认知功能障碍评估与训练软件 · Virtual Brain V1",
+    "Software de evaluación y entrenamiento de disfunción cognitiva · Virtual Brain V1"
+  ],
+  "Medical Device Division, Department of Health, Hong Kong SAR": [
+    "香港特别行政区卫生署医疗器械科",
+    "División de Dispositivos Médicos, Departamento de Salud de Hong Kong"
+  ],
+  "Listed as Software, Neuropsychological Therapeutic under Hong Kong’s Medical Device Administrative Control System.": [
+    "在香港医疗器械行政管理制度下，列为神经心理治疗软件。",
+    "Listado como software terapéutico neuropsicológico bajo el sistema administrativo de dispositivos médicos de Hong Kong."
+  ],
+  "Manufacturer named: Changsha YIWEI Medical Technology Co., Ltd. Local responsible person: Smart Idea Health Technology Limited. The listing applies to Virtual Brain V1; the document does not list the ForcusGenius™ or AutismShield™ trade names.": [
+    "制造商为长沙医未医疗科技有限公司，本地负责人为 Smart Idea Health Technology Limited。列名适用于 Virtual Brain V1，文件未列 ForcusGenius™ 或 AutismShield™ 商品名。",
+    "Fabricante: Changsha YIWEI Medical Technology Co., Ltd. Responsable local: Smart Idea Health Technology Limited. Se aplica a Virtual Brain V1; no enumera las marcas ForcusGenius™ ni AutismShield™."
+  ],
+  "Certificate of listing": [
+    "列名证书",
+    "Certificado de listado"
+  ],
+  "MDACS listing number": [
+    "MDACS 列名编号",
+    "Número de listado MDACS"
+  ],
+  "Hong Kong Medical Device Division listing search": [
+    "香港医疗器械科列名查询",
+    "Consulta de listados de la División de Dispositivos Médicos de Hong Kong"
+  ],
+  "RealNow™ · Thai FDA notification": [
+    "RealNow™ · 泰国 FDA 通报",
+    "RealNow™ · Notificación FDA tailandesa"
+  ],
+  "Medical Image Processing Software · RealNow · release 1.0, full version V1.0.0.02": [
+    "医学影像处理软件 · RealNow · 发布版1.0，完整版本V1.0.0.02",
+    "Software de imagen médica · RealNow · Versión 1.0, versión completa V1.0.0.02"
+  ],
+  "Notified medical device certificate": [
+    "医疗器械通报证书",
+    "Certificado de dispositivo médico notificado"
+  ],
+  "Professional display, processing, analysis and communication of brain CT-perfusion imaging, including perfusion and tissue blood-volume maps.": [
+    "供专业人员显示、处理、分析及传递脑 CT 灌注影像，包括灌注及组织血容量图。",
+    "Visualización, procesamiento, análisis y comunicación profesional de perfusión cerebral por TC, incluidos mapas de perfusión y volumen sanguíneo tisular."
+  ],
+  "Thai Class 2 Non-IVD notification under the abridged pathway, for the named importer, site and software. The certificate does not cover every RealNow™ imaging module. Dates are converted from the Thai Buddhist calendar.": [
+    "按简化路径、指定进口商、地点和软件进行泰国2类非 IVD 通报，不涵盖所有 RealNow™ 影像模块。日期由泰国佛历换算。",
+    "Notificación tailandesa clase 2 no IVD por vía abreviada para importador, lugar y software indicados. No cubre todos los módulos RealNow™. Fechas convertidas del calendario budista."
+  ],
+  "Class 2 Non-IVD · ABRIDGED pathway": [
+    "2类非 IVD · 简化路径",
+    "Clase 2 no IVD · Vía ABRIDGED"
+  ],
+  "LumiBrain · VR-ASD · VR Assessment and Rehabilitation Training System for Autism": [
+    "LumiBrain · VR-ASD · 自闭症 VR 评估与康复训练系统",
+    "LumiBrain · VR-ASD · Sistema de evaluación y rehabilitación del autismo en RV"
+  ],
+  "No fixed end date; validity depends on maintenance assessments and conformity conditions": [
+    "无固定到期日；有效性取决于维持评估与符合性条件",
+    "Sin caducidad fija; la vigencia depende de evaluaciones de mantenimiento y condiciones de conformidad"
+  ],
+  "Model 5 certification incorporating quality-system assessment and product testing. Referenced standards include ABNT NBR IEC 60601-1, 60601-1-2, 60601-1-6 and specified 60601-1-9 requirements.": [
+    "第5模式认证，含质量体系评估及产品测试。引用 ABNT NBR IEC 60601-1、60601-1-2、60601-1-6 及特定60601-1-9要求。",
+    "Certificación modelo 5 con evaluación del sistema de calidad y pruebas. Referencia ABNT NBR IEC 60601-1, 60601-1-2, 60601-1-6 y requisitos especificados de 60601-1-9."
+  ],
+  "A Brazilian conformity certificate for the VR-ASD model, brand LumiBrain, with software V1.0.0.01. It is not an ANVISA product registration or proof of autism-treatment efficacy. The complete four-page certificate is provided.": [
+    "巴西符合性证书，型号 VR-ASD，品牌 LumiBrain，软件V1.0.0.01。不是 ANVISA 产品注册或自闭症治疗疗效证明，提供完整四页证书。",
+    "Certificado brasileño de conformidad del modelo VR-ASD, marca LumiBrain, software V1.0.0.01. No es registro ANVISA ni prueba de eficacia terapéutica. Se aporta el certificado completo de cuatro páginas."
+  ],
+  "Complete four-page ICC certificate": [
+    "完整四页 ICC 证书",
+    "Certificado ICC completo de cuatro páginas"
+  ],
+  "ASD Assessment and Rehab Training System · VR-ASD, VR-ASD-A, VR-ASD-R, VR-ASD-H": [
+    "ASD 评估与康复训练系统 · VR-ASD、VR-ASD-A、VR-ASD-R、VR-ASD-H",
+    "Sistema de evaluación y rehabilitación ASD · VR-ASD, VR-ASD-A, VR-ASD-R, VR-ASD-H"
+  ],
+  "The certificate states registration of the Class I ASD system in EUDAMED under Regulation (EU) 2017/745 and lists four VR-ASD models.": [
+    "证书说明按欧盟2017/745条例将 I 类 ASD 系统登记于 EUDAMED，并列出四个 VR-ASD 型号。",
+    "El certificado declara el registro de un sistema ASD clase I en EUDAMED bajo el Reglamento (UE) 2017/745 y enumera cuatro modelos VR-ASD."
+  ],
+  "Representative-prepared registration documentation. The identifier shown is a Basic UDI-DI, not an approval number. Independent database confirmation and a declaration of conformity were not included in the supplied material.": [
+    "由代表制作的注册文件。所示标识为 Basic UDI-DI，不是批准号。所提供资料未包含独立数据库确认及符合性声明。",
+    "Documentación preparada por el representante. El identificador es un Basic UDI-DI, no un número de aprobación. No se aportaron confirmación independiente de base de datos ni declaración de conformidad."
+  ],
+  "A portable and efficient dementia screening tool using eye tracking machine learning and virtual reality": [
+    "结合眼动、机器学习和虚拟现实的便携高效痴呆筛查工具",
+    "Herramienta portátil y eficiente de cribado de demencia mediante seguimiento ocular, aprendizaje automático y realidad virtual"
+  ],
+  "Application value of structural MRI combined with computerized cognitive assessment based on VR eye-tracking technology in early diagnosis of Alzheimer's disease": [
+    "结构 MRI 联合 VR 眼动计算机化认知评估在阿尔茨海默病早期诊断中的应用价值",
+    "Valor de la RM estructural combinada con evaluación cognitiva informatizada mediante seguimiento ocular en RV para el diagnóstico temprano de Alzheimer"
+  ],
+  "Hippocampal and Amygdalar Morphological Abnormalities in Alzheimer's Disease Based on Three Chinese MRI Datasets": [
+    "基于三个中国 MRI 数据集的阿尔茨海默病海马与杏仁核形态异常",
+    "Anomalías morfológicas del hipocampo y la amígdala en Alzheimer en tres conjuntos chinos de RM"
+  ],
+  "Predicting Age Using Neuroimaging: Innovative Brain Ageing Biomarkers": [
+    "利用神经影像预测年龄：创新脑老化生物标志物",
+    "Predicción de la edad con neuroimagen: biomarcadores innovadores de envejecimiento cerebral"
+  ],
+  "Comparison of Two Software Packages for Perfusion Imaging: Ischemic Core and Penumbra Estimation and Patient Triage in Acute Ischemic Stroke": [
+    "两种灌注影像软件的比较：急性缺血性卒中的核心区与半暗带估计及患者分诊",
+    "Comparación de dos programas de perfusión: estimación de núcleo isquémico y penumbra y triaje en ictus isquémico agudo"
+  ],
+  "Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging": [
+    "灌注影像筛选的发病6至16小时卒中取栓治疗",
+    "Trombectomía a las 6–16 horas del ictus con selección por imagen de perfusión"
+  ],
+  "Community screening for dementia among older adults in China: a machine learning-based strategy": [
+    "中国老年人社区痴呆筛查：基于机器学习的策略",
+    "Cribado comunitario de demencia en adultos mayores de China: una estrategia de aprendizaje automático"
+  ],
+  "A novel digital intervention for actively reducing severity of paediatric ADHD (STARS-ADHD): a randomised controlled trial": [
+    "主动降低儿童 ADHD 严重程度的新型数字干预（STARS-ADHD）：随机对照试验",
+    "Intervención digital novedosa para reducir la gravedad del TDAH pediátrico (STARS-ADHD): ensayo aleatorizado"
+  ],
+  "Cognitive training for attention-deficit/hyperactivity disorder: meta-analysis of clinical and neuropsychological outcomes from randomized controlled trials": [
+    "ADHD 认知训练：随机对照试验临床与神经心理结局的荟萃分析",
+    "Entrenamiento cognitivo para TDAH: metaanálisis de resultados clínicos y neuropsicológicos de ensayos aleatorizados"
+  ],
+  "Eye-tracking study on facial emotion recognition tasks in individuals with high-functioning autism spectrum disorders": [
+    "高功能自闭症谱系人群面部情绪识别任务的眼动研究",
+    "Estudio de seguimiento ocular en reconocimiento de emociones faciales en personas con autismo de alto funcionamiento"
+  ],
+  "Virtual Reality Social Cognition Training for children with high functioning autism": [
+    "高功能自闭症儿童的虚拟现实社会认知训练",
+    "Entrenamiento de cognición social en realidad virtual para niños con autismo de alto funcionamiento"
+  ],
+  "Metabolite Profile of Alzheimer’s Disease in the Frontal Cortex as Analyzed by HRMAS 1H NMR": [
+    "基于 HRMAS 1H NMR 的阿尔茨海默病额叶皮层代谢谱分析",
+    "Perfil metabólico de Alzheimer en la corteza frontal analizado por HRMAS 1H NMR"
+  ],
+  "Deep-Learning-Based Segmentation and Localization of White Matter Hyperintensities on Magnetic Resonance Images": [
+    "基于深度学习的 MRI 白质高信号分割与定位",
+    "Segmentación y localización de hiperintensidades de sustancia blanca en RM mediante aprendizaje profundo"
+  ],
+  "Neuropsychological and behavioral features in a case of frontal-variant Alzheimer’s disease": [
+    "一例额叶变异型阿尔茨海默病的神经心理与行为特征",
+    "Características neuropsicológicas y conductuales en un caso de Alzheimer de variante frontal"
+  ],
+  "A preliminary study of automated brain-region segmentation and volumetry in Alzheimer’s disease diagnosis": [
+    "自动脑区分割与体积测量在阿尔茨海默病诊断中的初步研究",
+    "Estudio preliminar de segmentación y volumetría cerebral automáticas en el diagnóstico de Alzheimer"
+  ],
+  "Distribution of Cortical Atrophy Associated with Cognitive Decline in Alzheimer’s Disease: A Cross-Sectional Quantitative Structural MRI Study from PUMCH Dementia Cohort": [
+    "阿尔茨海默病认知下降相关皮层萎缩分布：协和痴呆队列的横断面定量结构 MRI 研究",
+    "Distribución de atrofia cortical asociada al deterioro cognitivo en Alzheimer: estudio transversal de RM estructural cuantitativa de la cohorte PUMCH"
+  ],
+  "Early-stage differentiation between Alzheimer’s disease and frontotemporal lobe degeneration: Clinical, neuropsychology, and neuroimaging features": [
+    "阿尔茨海默病与额颞叶变性的早期鉴别：临床、神经心理与神经影像特征",
+    "Diferenciación temprana de Alzheimer y degeneración frontotemporal: características clínicas, neuropsicológicas y de neuroimagen"
+  ],
+  "Brain structural alterations detected by an automatic quantified tool as an indicator for MCI diagnosing in type 2 diabetes mellitus patients: A magnetic resonance imaging study": [
+    "自动定量工具检测的脑结构变化用于2型糖尿病患者轻度认知损害诊断：MRI 研究",
+    "Cambios cerebrales detectados por cuantificación automática como indicador de deterioro cognitivo leve en diabetes tipo 2: estudio de RM"
+  ],
+  "Application and Approvals of MRI-Based Artificial Intelligence Technology for the Detection of Alzheimer’s Disease": [
+    "基于 MRI 的人工智能技术在阿尔茨海默病检测中的应用与审批",
+    "Aplicaciones y autorizaciones de IA basada en RM para detectar Alzheimer"
+  ],
+  "Development and Validation of an Automatic Computerized Neurocognitive Battery in Chinese": [
+    "自动化中文计算机神经认知测试组的开发与验证",
+    "Desarrollo y validación de una batería neurocognitiva informatizada automática en chino"
+  ],
+  "Comparison of consistency in acute stroke: Automated ASPECT score software tools and manual consensus scores": [
+    "急性卒中一致性比较：自动 ASPECT 评分软件与人工共识评分",
+    "Comparación de concordancia en ictus agudo: programas de ASPECTS automático y puntuaciones manuales de consenso"
+  ],
+  "MRI-to-PET synthesis via deep learning for amyloid-β quantification in Alzheimer’s disease": [
+    "通过深度学习合成 MRI 至 PET，用于阿尔茨海默病淀粉样蛋白 β 定量",
+    "Síntesis de PET a partir de RM mediante aprendizaje profundo para cuantificar amiloide β en Alzheimer"
+  ],
+  "An illustrative care scenario for AutismShield™: therapist-guided social-attention practice using a tablet, with VR as a complementary activity format. This is a concept illustration, not an actual product interface.": [
+    "AutismShield™ 照护场景示意：治疗师指导平板社会性注意练习，VR 作为补充活动形式。此为概念图，不是实际产品界面。",
+    "Escenario ilustrativo de AutismShield™: práctica de atención social en tableta guiada por terapeuta, con RV complementaria. Es una ilustración conceptual, no una interfaz real."
+  ],
+  "Original device illustration from YIWEI’s September 2026 overseas presentation, slide 7.": [
+    "医未2026年9月海外演示第7页的原始设备示意图。",
+    "Ilustración original del dispositivo, diapositiva 7 de la presentación internacional de YIWEI de septiembre de 2026."
+  ],
+  "Structural MRI examples": [
+    "结构 MRI 示例",
+    "Ejemplos de RM estructural"
+  ],
+  "Sagittal MRI examples showing regional structural patterns": [
+    "显示区域结构模式的矢状 MRI 示例",
+    "Ejemplos sagitales de RM con patrones estructurales regionales"
+  ],
+  "Original imaging examples from YIWEI’s overseas presentation, slide 11. Illustrative material for clinical review, without an individual diagnosis.": [
+    "医未海外演示第11页原始影像示例，用于临床复核的示意资料，不构成个体诊断。",
+    "Ejemplos originales de la diapositiva 11. Material ilustrativo para revisión clínica, sin diagnóstico individual."
+  ],
+  "Original clinic rehabilitation photo from YIWEI’s overseas presentation, slide 16.": [
+    "医未海外演示第16页原始门诊康复照片。",
+    "Foto clínica original de rehabilitación de la diapositiva 16 de la presentación de YIWEI."
+  ],
+  "Research figure reproduced in YIWEI’s overseas presentation, slide 14. Chen et al., European Radiology (2026). Synthetic PET remains a research estimate and does not replace confirmatory amyloid testing.": [
+    "医未海外演示第14页转载研究图，Chen等，European Radiology（2026）。合成 PET 仍为研究估计，不替代淀粉样蛋白确证检测。",
+    "Figura de la diapositiva 14, Chen et al., European Radiology (2026). La PET sintética sigue siendo una estimación de investigación y no sustituye pruebas confirmatorias de amiloide."
+  ],
+  "Original stroke-imaging examples from YIWEI’s overseas presentation, slide 42. Illustrative module outputs require clinical review.": [
+    "医未海外演示第42页原始卒中影像示例，示意模块输出需临床复核。",
+    "Ejemplos originales de imagen del ictus de la diapositiva 42. Los resultados ilustrativos requieren revisión clínica."
+  ],
+  "Original perfusion-imaging examples from YIWEI’s overseas presentation, slide 42. Illustrative module outputs require clinical review.": [
+    "医未海外演示第42页原始灌注影像示例，示意模块输出需临床复核。",
+    "Ejemplos originales de perfusión de la diapositiva 42. Los resultados ilustrativos requieren revisión clínica."
+  ],
+  "Brain science and AI": [
+    "脑科学与 AI",
+    "Neurociencia e IA"
+  ],
+  "A blue brain and connected data points in the original Dr.Brain™ banner": [
+    "Dr.Brain™ 原始横幅中的蓝色大脑与连接数据点",
+    "Cerebro azul y puntos de datos conectados en el banner original Dr.Brain™"
+  ],
+  "Original brain-science illustration from drbrain.net.": [
+    "来自 drbrain.net 的原始脑科学示意图。",
+    "Ilustración original de neurociencia de drbrain.net."
+  ],
+  "Original Dr.Brain™ product visualization; shown as illustrative imaging material.": [
+    "Dr.Brain™ 原始产品可视化，作为示意影像资料展示。",
+    "Visualización original de Dr.Brain™ como material de imagen ilustrativo."
+  ],
+  "Neuroscience and computing": [
+    "脑科学与计算",
+    "Neurociencia y computación"
+  ],
+  "The original Dr.Brain™ platform illustration connecting brain science and computing": [
+    "连接脑科学与计算的 Dr.Brain™ 原始平台示意图",
+    "Ilustración original de la plataforma Dr.Brain™ que conecta neurociencia y computación"
+  ],
+  "Original Dr.Brain™ platform illustration from the corporate website.": [
+    "企业官网的 Dr.Brain™ 原始平台示意图。",
+    "Ilustración original de la plataforma Dr.Brain™ del sitio corporativo."
+  ],
+  "Original QuickMind assessment and rehabilitation material.": [
+    "QuickMind 原始评估与康复资料。",
+    "Material original de evaluación y rehabilitación QuickMind."
+  ],
+  "Clinic-guided practice": [
+    "门诊指导练习",
+    "Práctica guiada en la clínica"
+  ],
+  "An older adult using VR with a clinical care team": [
+    "长者在临床照护团队陪同下使用 VR",
+    "Persona mayor utilizando RV con un equipo clínico"
+  ],
+  "Original QuickMind clinic-use illustration.": [
+    "QuickMind 原始门诊使用示意图。",
+    "Ilustración original de uso clínico QuickMind."
+  ],
+  "Original QuickMind home-use illustration.": [
+    "QuickMind 原始居家使用示意图。",
+    "Ilustración original de uso domiciliario QuickMind."
+  ],
+  "An example reporting format from the QuickMind website.": [
+    "QuickMind 网站的报告格式示例。",
+    "Ejemplo de formato de informe del sitio QuickMind."
+  ],
+  "Shared VR platform material; tasks follow the selected care plan.": [
+    "共享 VR 平台资料，任务遵循所选照护计划。",
+    "Material de plataforma de RV compartida; las tareas siguen el plan seleccionado."
+  ],
+  "Original task examples from the QuickMind platform.": [
+    "QuickMind 平台原始任务示例。",
+    "Ejemplos originales de tareas de la plataforma QuickMind."
+  ],
+  "Connected practice portal": [
+    "互联训练门户",
+    "Portal de práctica conectado"
+  ],
+  "QuickMind rehabilitation portal on a laptop": [
+    "笔记本电脑上的 QuickMind 康复门户",
+    "Portal de rehabilitación QuickMind en un portátil"
+  ],
+  "Original portal interface from the QuickMind website.": [
+    "QuickMind 网站的原始门户界面。",
+    "Interfaz original del portal del sitio QuickMind."
+  ],
+  "Progress review": [
+    "进展回顾",
+    "Revisión del progreso"
+  ],
+  "QuickMind training dashboard with session charts": [
+    "含训练图表的 QuickMind 训练面板",
+    "Panel de entrenamiento QuickMind con gráficos de sesiones"
+  ],
+  "Original platform reporting interface; shown as a product illustration.": [
+    "原始平台报告界面，作为产品示意展示。",
+    "Interfaz original de informes presentada como ilustración del producto."
+  ],
+  "CT analysis": [
+    "CT 分析",
+    "Análisis de TC"
+  ],
+  "RealNow™ non-contrast CT analysis interface": [
+    "RealNow™ 非增强 CT 分析界面",
+    "Interfaz de análisis de TC sin contraste RealNow™"
+  ],
+  "Original RealNow™ CT module interface from drbrain.net.": [
+    "来自 drbrain.net 的 RealNow™ 原始 CT 模块界面。",
+    "Interfaz original del módulo TC de RealNow™ de drbrain.net."
+  ],
+  "Original RealNow™ module interface; image findings require clinical review.": [
+    "RealNow™ 原始模块界面，影像发现需临床复核。",
+    "Interfaz original de RealNow™; los hallazgos requieren revisión clínica."
+  ],
+  "Original RealNow™ angiography module interface.": [
+    "RealNow™ 原始血管造影模块界面。",
+    "Interfaz original de angiografía RealNow™."
+  ],
+  "Original RealNow™ perfusion interface.": [
+    "RealNow™ 原始灌注界面。",
+    "Interfaz original de perfusión RealNow™."
+  ],
+  "Shared VR activity library": [
+    "共享 VR 活动库",
+    "Biblioteca de actividades de RV compartida"
+  ],
+  "Original Virtual Brain memory, balance and motor training scenes": [
+    "Virtual Brain 原始记忆、平衡与运动训练场景",
+    "Escenas originales de memoria, equilibrio y entrenamiento motor Virtual Brain"
+  ],
+  "Original VR platform material; individualized activities vary by solution.": [
+    "VR 平台原始资料，个体化活动因方案而异。",
+    "Material original de la plataforma de RV; las actividades individuales varían por solución."
+  ],
+  "Immersive environments": [
+    "沉浸式环境",
+    "Entornos inmersivos"
+  ],
+  "An original Virtual Brain immersive environment example": [
+    "Virtual Brain 原始沉浸式环境示例",
+    "Ejemplo original de entorno inmersivo Virtual Brain"
+  ],
+  "Original scene-customization material from drbrain.net.": [
+    "来自 drbrain.net 的原始场景定制资料。",
+    "Material original de personalización de escenas de drbrain.net."
+  ],
+  "Imaging and reporting workflow": [
+    "影像与报告流程",
+    "Flujo de imagen e informes"
+  ]
+}

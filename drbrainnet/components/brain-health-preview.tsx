@@ -1,3 +1,5 @@
+/** @jsxImportSource @/lib/localized-jsx */
+'use client';
 import Link from '@/components/site-link';
 import document from '@/lib/brain-health-document.json';
 

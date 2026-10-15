@@ -1,0 +1,538 @@
+{
+  "Right entorhinal: 0.17% versus a source interval of 0.12–0.16%. Right lateral ventricle: 0.80% versus 0.20–0.71%. Review the measurements and source classification before release.": [
+    "右内嗅皮层为0.17%，来源区间0.12–0.16%；右侧脑室为0.80%，来源区间0.20–0.71%。发布前需复核测量与来源分类。",
+    "Entorrinal derecho: 0,17 % frente a 0,12–0,16 %. Ventrículo lateral derecho: 0,80 % frente a 0,20–0,71 %. Revise las mediciones y la clasificación antes de emitir el informe."
+  ],
+  "Source classification: “Low risk”. This label has not been independently validated. Regional volumes alone cannot diagnose Alzheimer’s disease or exclude cognitive impairment.": [
+    "来源分类为“低风险”，该标签未获独立验证。区域体积本身不能诊断阿尔茨海默病或排除认知损害。",
+    "Clasificación fuente: «Riesgo bajo», sin validación independiente. Los volúmenes regionales por sí solos no diagnostican Alzheimer ni excluyen deterioro cognitivo."
+  ],
+  "Ventricular measurements": [
+    "脑室测量",
+    "Mediciones ventriculares"
+  ],
+  "The right lateral ventricle is above its supplied reference interval. Review ventricular configuration and segmentation with the source MRI.": [
+    "右侧脑室超出所提供参考区间。需结合原始 MRI 复核脑室形态与分割。",
+    "El ventrículo lateral derecho supera el intervalo de referencia. Revise la configuración y la segmentación con la RM original."
+  ],
+  "These measurements do not establish hydrocephalus. Evans index, callosal angle and DESH assessment were not supplied.": [
+    "这些测量不能确立脑积水诊断。未提供 Evans 指数、胼胝体角及 DESH 评估。",
+    "Estas mediciones no establecen hidrocefalia. No se aportaron índice de Evans, ángulo calloso ni evaluación DESH."
+  ],
+  "Cerebellar structural baseline": [
+    "小脑结构基线",
+    "Línea basal estructural cerebelosa"
+  ],
+  "Total cerebellum": [
+    "小脑总量",
+    "Cerebelo total"
+  ],
+  "Share of ICV": [
+    "颅内容积占比",
+    "Proporción del volumen intracraneal"
+  ],
+  "Measured regions outside source ranges": [
+    "超出来源区间的测量区域",
+    "Regiones medidas fuera de los intervalos fuente"
+  ],
+  "Measurements within the source intervals do not exclude movement disorders or other neurological conditions. Review symptoms and examination when indicated.": [
+    "处于来源区间内的测量不能排除运动障碍或其他神经系统疾病。必要时结合症状与查体复核。",
+    "Las mediciones dentro de los intervalos no excluyen trastornos del movimiento u otras enfermedades neurológicas. Revise síntomas y exploración cuando corresponda."
+  ],
+  "Lesion candidates": [
+    "候选病灶",
+    "Lesiones candidatas"
+  ],
+  "Source Fazekas grade": [
+    "来源 Fazekas 分级",
+    "Grado Fazekas de la fuente"
+  ],
+  "Source distribution of WMH volume": [
+    "来源白质高信号体积分布",
+    "Distribución del volumen de HSB de la fuente"
+  ],
+  "Cortical white matter": [
+    "皮层下白质",
+    "Sustancia blanca cortical"
+  ],
+  "Deep white matter": [
+    "深部白质",
+    "Sustancia blanca profunda"
+  ],
+  "Cortical white matter ·": [
+    "皮层下白质 ·",
+    "Sustancia blanca cortical ·"
+  ],
+  "Deep white matter ·": [
+    "深部白质 ·",
+    "Sustancia blanca profunda ·"
+  ],
+  "WMH are imaging findings with several possible causes. Candidate lesions and the source grade require image verification.": [
+    "白质高信号为可能具有多种病因的影像发现。候选病灶与来源分级需影像核验。",
+    "Las HSB son hallazgos de imagen con diversas causas posibles. Las lesiones candidatas y el grado requieren verificación de imagen."
+  ],
+  "Review source normalization": [
+    "复核来源归一化",
+    "Revisar la normalización de la fuente"
+  ],
+  "Source WMH / ICV:": [
+    "来源 WMH / ICV：",
+    "HSB / ICV de la fuente:"
+  ],
+  "%. Recalculated from": [
+    "%。重新计算自",
+    "%. Recalculado a partir de"
+  ],
+  "%. Verify the denominator before clinical release; retain both values in the audit record.": [
+    "%。临床发布前需核验分母，审计记录中保留两个数值。",
+    "%. Verifique el denominador antes de la emisión clínica; conserve ambos valores en el registro de auditoría."
+  ],
+  "Source lesion-volume range:": [
+    "来源病灶体积范围：",
+    "Intervalo de volumen de lesiones de la fuente:"
+  ],
+  "Aneurysm candidates": [
+    "动脉瘤候选发现",
+    "Candidatos a aneurisma"
+  ],
+  "Microbleed candidates": [
+    "微出血候选发现",
+    "Candidatos a microhemorragia"
+  ],
+  "Sequence verification": [
+    "序列核验",
+    "Verificación de secuencias"
+  ],
+  "Pending": [
+    "待完成",
+    "Pendiente"
+  ],
+  "Aneurysm module": [
+    "动脉瘤模块",
+    "Módulo de aneurismas"
+  ],
+  "Confirm MRA acquisition and radiologist review.": [
+    "确认 MRA 采集及放射科医生复核。",
+    "Confirme la adquisición de ARM y la revisión radiológica."
+  ],
+  "Microbleed module": [
+    "微出血模块",
+    "Módulo de microhemorragias"
+  ],
+  "Confirm susceptibility-sensitive imaging and human review.": [
+    "确认磁敏感序列和人工复核。",
+    "Confirme secuencias sensibles a susceptibilidad y revisión humana."
+  ],
+  "Zero AI-reported candidates does not guarantee absence of disease. These outputs do not establish an acute-stroke, tumor or psychiatric diagnosis.": [
+    "AI 报告零候选发现不保证无病。输出不能确立急性卒中、肿瘤或精神疾病诊断。",
+    "Cero candidatos notificados por IA no garantiza ausencia de enfermedad. Los resultados no establecen diagnósticos de ictus agudo, tumor ni trastornos psiquiátricos."
+  ],
+  "A traceable clinical review": [
+    "可追溯的临床复核",
+    "Una revisión clínica trazable"
+  ],
+  "Verify MRI quality, sequence coverage and model version.": [
+    "核验 MRI 质量、序列覆盖与模型版本。",
+    "Verifique calidad de RM, cobertura de secuencias y versión del modelo."
+  ],
+  "Review segmentation and source reference intervals.": [
+    "复核分割及来源参考区间。",
+    "Revise la segmentación y los intervalos de referencia."
+  ],
+  "Reconcile the age graphic, flagged regions and WMH denominator.": [
+    "核对年龄图、标记脑区和 WMH 分母。",
+    "Concilie el gráfico de edad, las regiones señaladas y el denominador de HSB."
+  ],
+  "Integrate clinical history and validated cognitive assessment before release.": [
+    "发布前整合病史与经过验证的认知评估。",
+    "Integre historia clínica y evaluación cognitiva validada antes de emitir el informe."
+  ],
+  "Source reconciliation log": [
+    "来源核对记录",
+    "Registro de conciliación de fuentes"
+  ],
+  "Age graphic": [
+    "年龄图",
+    "Gráfico de edad"
+  ],
+  "62.0 / 54.1 in the graphic; 59.0 / 55.7 in the case narrative. The website uses the narrative values.": [
+    "图中为62.0 / 54.1，病例文字为59.0 / 55.7。网站采用文字数值。",
+    "El gráfico indica 62,0 / 54,1; el texto del caso 59,0 / 55,7. El sitio utiliza los valores del texto."
+  ],
+  "Regional reference flags": [
+    "区域参考标记",
+    "Alertas regionales de referencia"
+  ],
+  "Right entorhinal and right lateral ventricle are above their source intervals. “Verified” source artwork is not a clinical verification status.": [
+    "右内嗅皮层与右侧脑室超出来源区间。来源图中的“Verified”不代表临床核验状态。",
+    "El entorrinal y el ventrículo lateral derechos superan los intervalos fuente. La etiqueta gráfica «Verified» no es un estado de verificación clínica."
+  ],
+  "WMH normalization": [
+    "WMH 归一化",
+    "Normalización de HSB"
+  ],
+  "Source: 0.0978%. Recalculated:": [
+    "来源：0.0978%。重新计算：",
+    "Fuente: 0,0978 %. Recalculado:"
+  ],
+  "%. Denominator verification required.": [
+    "%。需核验分母。",
+    "%. Se requiere verificar el denominador."
+  ],
+  "Clinician approval, model version and a personalized care plan were not supplied. This sample remains a draft.": [
+    "未提供医生批准、模型版本与个体化照护计划。此示例仍为草稿。",
+    "No se aportaron aprobación clínica, versión del modelo ni plan personalizado. El ejemplo sigue siendo un borrador."
+  ],
+  "View the sample source data": [
+    "查看示例源数据",
+    "Ver los datos fuente del ejemplo"
+  ],
+  "Adapted from the supplied English report and sample data. Source measurements retained with reconciliation notes.": [
+    "改编自所提供英文报告与示例数据。保留来源测量及核对说明。",
+    "Adaptado del informe en inglés y los datos de ejemplo. Se conservan las mediciones fuente con notas de conciliación."
+  ],
+  "YIWEI MEDICAL / FOR LONGEVITY & BRAIN HEALTH CLINICS": [
+    "医未医疗 / 面向长寿与脑健康门诊",
+    "YIWEI MEDICAL / PARA CLÍNICAS DE LONGEVIDAD Y SALUD CEREBRAL"
+  ],
+  "DR.BRAIN™ / FOR LONGEVITY & BRAIN HEALTH CLINICS": [
+    "DR.BRAIN™ / 面向长寿与脑健康门诊",
+    "DR.BRAIN™ / PARA CLÍNICAS DE LONGEVIDAD Y SALUD CEREBRAL"
+  ],
+  "Brain Health Report.": [
+    "脑健康报告。",
+    "Informe de salud cerebral."
+  ],
+  "AI Brain Health & Longevity.": [
+    "AI 脑健康与长寿。",
+    "Salud cerebral y longevidad con IA."
+  ],
+  "Brain Doctor reports.": [
+    "脑医生报告。",
+    "Informes Brain Doctor."
+  ],
+  "MRI-derived measurements. Eight interactive modules. Clear source measurements for clinical review.": [
+    "基于 MRI 的测量。八个交互模块。清晰的来源测量供临床复核。",
+    "Mediciones derivadas de RM. Ocho módulos interactivos. Mediciones fuente claras para revisión clínica."
+  ],
+  "Explore the original 18-page English report for longevity and brain-health clinics.": [
+    "查看面向长寿与脑健康门诊的18页英文原始报告。",
+    "Explore el informe original de 18 páginas en inglés para clínicas de longevidad y salud cerebral."
+  ],
+  "THE ENGLISH REPORT EXPERIENCE": [
+    "英文报告体验",
+    "LA EXPERIENCIA DEL INFORME EN INGLÉS"
+  ],
+  "See the brain.": [
+    "观察大脑。",
+    "Ver el cerebro."
+  ],
+  "Understand the measurements.": [
+    "理解测量。",
+    "Comprender las mediciones."
+  ],
+  "Brain aging, cognition-related structures, ventricles, cerebellum, white matter and vascular candidates.": [
+    "脑老化、认知相关结构、脑室、小脑、白质与血管候选发现。",
+    "Envejecimiento cerebral, estructuras cognitivas, ventrículos, cerebelo, sustancia blanca y hallazgos vasculares candidatos."
+  ],
+  "Explore the uploaded report": [
+    "查看上传报告",
+    "Explorar el informe cargado"
+  ],
+  "De-identified source case · Draft for clinician review": [
+    "去标识来源病例 · 供医生审核的草稿",
+    "Caso fuente desidentificado · Borrador para revisión clínica"
+  ],
+  "Printable English report": [
+    "可打印英文报告",
+    "Informe imprimible en inglés"
+  ],
+  "Supplied English PDF": [
+    "所提供英文 PDF",
+    "PDF proporcionado en inglés"
+  ],
+  "Longevity Clinic applications": [
+    "长寿门诊应用",
+    "Aplicaciones en clínicas de longevidad"
+  ],
+  "Explore Dr.Brain™": [
+    "了解 Dr.Brain™",
+    "Explorar Dr.Brain™"
+  ],
+  "FOR LONGEVITY & BRAIN HEALTH CLINICS": [
+    "面向长寿与脑健康门诊",
+    "PARA CLÍNICAS DE LONGEVIDAD Y SALUD CEREBRAL"
+  ],
+  "The supplied English AI Brain Health & Longevity Report. Original document pages and artwork.": [
+    "所提供的英文 AI 脑健康与长寿报告，保留原始文档页面与图像。",
+    "Informe de salud cerebral y longevidad con IA en inglés. Páginas y gráficos originales."
+  ],
+  "Open complete PDF": [
+    "打开完整 PDF",
+    "Abrir PDF completo"
+  ],
+  "Download report": [
+    "下载报告",
+    "Descargar informe"
+  ],
+  "Read the uploaded Brain Health Report": [
+    "阅读上传的脑健康报告",
+    "Leer el informe de salud cerebral cargado"
+  ],
+  "Page": [
+    "页",
+    "Página"
+  ],
+  "Choose a report page": [
+    "选择报告页",
+    "Elegir una página del informe"
+  ],
+  "Featured report pages": [
+    "精选报告页",
+    "Páginas destacadas del informe"
+  ],
+  "Original report thumbnail:": [
+    "原始报告缩略图：",
+    "Miniatura del informe original:"
+  ],
+  "Uploaded report page": [
+    "上传报告页面",
+    "Página del informe cargado"
+  ],
+  "Previous page": [
+    "上一页",
+    "Página anterior"
+  ],
+  "Next page": [
+    "下一页",
+    "Página siguiente"
+  ],
+  "Original report retained as uploaded. De-identified example, draft for clinician review.": [
+    "保留上传的原始报告。去标识示例，供医生审核的草稿。",
+    "Se conserva el informe original. Ejemplo desidentificado y borrador para revisión clínica."
+  ],
+  "Source review notes": [
+    "来源审核说明",
+    "Notas de revisión de la fuente"
+  ],
+  "The brain-age narrative reports 59.0 / 55.7 years, while its decorative graphic shows 62.0 / 54.1. Original values remain visible in the document.": [
+    "脑龄文字报告59.0 / 55.7岁，装饰图显示62.0 / 54.1。原始值在文档中保留可见。",
+    "El texto indica 59,0 / 55,7 años y el gráfico 62,0 / 54,1. Los valores originales siguen visibles en el documento."
+  ],
+  "Regional reference flags and the WMH normalization require clinical reconciliation. Graphic labels such as “VERIFIED” and confidence labels do not establish independent clinical verification.": [
+    "区域参考标记与 WMH 归一化需临床核对。“VERIFIED”等图像标签和置信度标签不构成独立临床核验。",
+    "Las alertas regionales y la normalización de HSB requieren conciliación clínica. Las etiquetas «VERIFIED» y de confianza no acreditan verificación clínica independiente."
+  ],
+  "Uploaded Brain Health Report cover": [
+    "上传脑健康报告封面",
+    "Portada del informe de salud cerebral cargado"
+  ],
+  "View the uploaded Brain Health Report": [
+    "查看上传的脑健康报告",
+    "Ver el informe cargado"
+  ],
+  "Original cover of the uploaded AI Brain Health and Longevity Report": [
+    "上传的 AI 脑健康与长寿报告原始封面",
+    "Portada original del informe de salud cerebral y longevidad con IA"
+  ],
+  "-page English report": [
+    "页英文报告",
+    "páginas del informe en inglés"
+  ],
+  "De-identified sample · Clinical review required": [
+    "去标识示例 · 需临床审核",
+    "Ejemplo desidentificado · Requiere revisión clínica"
+  ],
+  "Open PDF": [
+    "打开 PDF",
+    "Abrir PDF"
+  ],
+  "Explore report pages": [
+    "浏览报告页面",
+    "Explorar páginas del informe"
+  ],
+  "Cognition": [
+    "认知",
+    "Cognición"
+  ],
+  "Ventricles": [
+    "脑室",
+    "Ventrículos"
+  ],
+  "Cerebellum": [
+    "小脑",
+    "Cerebelo"
+  ],
+  "White matter": [
+    "白质",
+    "Sustancia blanca"
+  ],
+  "Clinical review": [
+    "临床复核",
+    "Revisión clínica"
+  ],
+  "The VECA study evaluated eye tracking, VR and machine learning in 201 participants in Shenzhen. The model predicted MoCA scores and classified cognitive impairment across educational groups.": [
+    "VECA 研究在深圳201名参与者中评估眼动、VR 与机器学习。模型预测 MoCA 评分，并在不同教育组中分类认知损害。",
+    "El estudio VECA evaluó seguimiento ocular, RV y aprendizaje automático en 201 participantes de Shenzhen. El modelo predijo puntuaciones MoCA y clasificó deterioro cognitivo en grupos educativos."
+  ],
+  "Single-location study; performance is specific to the studied population and model. Correlation is not diagnostic accuracy. International validation and marketed-version equivalence require confirmation.": [
+    "单地点研究，表现仅适用于所研究人群和模型。相关性不等于诊断准确性。国际验证及上市版本等同性需确认。",
+    "Estudio en una sola localización; el rendimiento se limita a la población y modelo estudiados. La correlación no es precisión diagnóstica. Requiere confirmar validación internacional y equivalencia con versiones comercializadas."
+  ],
+  "The author affiliations include YIWEI Medical Technology; the study evaluates the VECA screening approach.": [
+    "作者单位包括医未医疗科技；研究评估 VECA 筛查方法。",
+    "Las afiliaciones incluyen YIWEI Medical Technology; el estudio evalúa el método de cribado VECA."
+  ],
+  "A study of 77 early-AD patients and 58 cognitively unimpaired participants combined Dr.Brain™ hippocampal measurements with VR eye-tracking assessment. The combined model had an AUC of 0.825, compared with 0.629 for hippocampal volume alone.": [
+    "研究纳入77名早期阿尔茨海默病患者和58名认知正常者，结合 Dr.Brain™ 海马测量与 VR 眼动评估。联合模型 AUC 为0.825，单用海马体积为0.629。",
+    "Un estudio de 77 pacientes con Alzheimer temprano y 58 personas sin deterioro combinó mediciones hipocampales de Dr.Brain™ y evaluación ocular en RV. El AUC combinado fue 0,825 frente a 0,629 con el volumen hipocampal solo."
+  ],
+  "Single-center, cross-sectional study with education imbalance. The combined model result is not a standalone product claim or proof of population-wide diagnostic performance.": [
+    "单中心横断面研究，存在教育水平不均衡。联合模型结果不是独立产品宣称，也不能证明全人群诊断表现。",
+    "Estudio transversal unicéntrico con desequilibrio educativo. El modelo combinado no es una afirmación autónoma del producto ni prueba de rendimiento diagnóstico poblacional."
+  ],
+  "Across three Chinese MRI datasets, localized shape analysis identified hippocampal and amygdalar abnormalities associated with Alzheimer’s disease and mild cognitive impairment. Shape measures added information beyond whole-structure volume and correlated with cognitive scores.": [
+    "在三个中国 MRI 数据集中，局部形态分析发现与阿尔茨海默病和轻度认知损害相关的海马及杏仁核异常。形态指标提供超出整体体积的信息，并与认知评分相关。",
+    "En tres conjuntos chinos de RM, el análisis local de forma identificó anomalías hipocampales y amigdalinas asociadas con Alzheimer y deterioro cognitivo leve. La forma aportó información adicional al volumen y se correlacionó con puntuaciones cognitivas."
+  ],
+  "Research evidence for structural biomarkers; it does not establish the performance of every Dr.Brain™ module or current software version.": [
+    "这是结构生物标志物研究证据，不代表每个 Dr.Brain™ 模块或当前软件版本的性能。",
+    "Evidencia de investigación sobre biomarcadores estructurales; no establece el rendimiento de todos los módulos ni de la versión actual de Dr.Brain™."
+  ],
+  "A review of MRI-based brain-age estimation and its potential as a research biomarker. It provides context for the brain-aging section of the English Brain Doctor report.": [
+    "综述基于 MRI 的脑龄估计及其作为研究生物标志物的潜力，为英文脑医生报告的脑老化章节提供背景。",
+    "Revisión de la estimación de edad cerebral por RM y su potencial como biomarcador de investigación. Aporta contexto a la sección de envejecimiento cerebral del informe Brain Doctor."
+  ],
+  "Independent background literature. It does not validate the Dr.Brain™ brain-age model, provide a lifespan forecast, or supply an individual diagnostic threshold.": [
+    "独立背景文献，不验证 Dr.Brain™ 脑龄模型，不提供寿命预测或个体诊断阈值。",
+    "Bibliografía independiente de contexto. No valida el modelo de edad cerebral de Dr.Brain™, no predice longevidad ni aporta umbrales diagnósticos individuales."
+  ],
+  "In 594 acute ischemic stroke cases, RealNow™ and RAPID were compared on CT or MR perfusion core and penumbra volumes and imaging-based thrombectomy eligibility. Volume ICCs ranged from 0.87 to 0.99; triage decisions agreed in 159/174 CT cases and 400/420 MR cases.": [
+    "在594例急性缺血性卒中中，比较 RealNow™ 与 RAPID 的 CT/MR 灌注核心区、半暗带体积及基于影像的取栓适用性。体积 ICC 为0.87–0.99；CT 病例分诊一致为159/174，MR 为400/420。",
+    "En 594 casos de ictus isquémico agudo se compararon RealNow™ y RAPID en volúmenes de núcleo y penumbra por TC/RM y selección para trombectomía. Los ICC fueron 0,87–0,99; el triaje concordó en 159/174 casos TC y 400/420 casos RM."
+  ],
+  "A retrospective software-comparison study. Volume agreement does not ensure identical triage for every patient or demonstrate improved functional outcomes. Acquisition, thresholds and clinical review remain relevant.": [
+    "回顾性软件比较研究。体积一致性不保证每位患者分诊相同，也不证明功能结局改善。采集、阈值和临床复核仍重要。",
+    "Comparación retrospectiva de programas. La concordancia de volumen no garantiza idéntico triaje ni mejores resultados funcionales. La adquisición, los umbrales y la revisión clínica siguen siendo importantes."
+  ],
+  "The supplied document is a peer-review manuscript. The citation and DOI identify the final published article.": [
+    "所提供文件为同行评审稿；引文与 DOI 对应最终发表论文。",
+    "El documento aportado es un manuscrito de revisión por pares. La cita y el DOI identifican la publicación final."
+  ],
+  "DEFUSE 3 studied thrombectomy in patients selected using perfusion imaging. It explains the clinical context for core, penumbra and mismatch measurements.": [
+    "DEFUSE 3 研究经灌注影像筛选患者的取栓治疗，说明核心区、半暗带与不匹配测量的临床背景。",
+    "DEFUSE 3 estudió la trombectomía en pacientes seleccionados mediante perfusión. Explica el contexto clínico del núcleo, la penumbra y el desajuste."
+  ],
+  "An independent treatment trial using its specified imaging-selection workflow. It is not a RealNow™ regulatory approval or direct validation study.": [
+    "这是采用特定影像筛选流程的独立治疗试验，不是 RealNow™ 监管许可或直接验证研究。",
+    "Ensayo terapéutico independiente con un flujo específico de selección por imagen. No es una autorización regulatoria ni validación directa de RealNow™."
+  ],
+  "Among 823 adults aged 65 or older in Shenzhen, machine-learning models combined AD8 responses with health characteristics to screen for cognitive impairment. The multilayer perceptron achieved an AUC of 0.83 ± 0.04, compared with 0.65 for the AD8 reference approach.": [
+    "在深圳823名65岁及以上成人中，机器学习结合 AD8 回答与健康特征筛查认知损害。多层感知机 AUC 为0.83±0.04，AD8 参考方法为0.65。",
+    "En 823 adultos de 65 años o más de Shenzhen, modelos de aprendizaje automático combinaron AD8 y características de salud. El perceptrón multicapa obtuvo AUC 0,83 ± 0,04, frente a 0,65 con AD8 de referencia."
+  ],
+  "Community data with cross-validation, without independent international validation. This AD8-based model does not directly establish VR hardware performance, rehabilitation efficacy or full-pathway dementia outcomes.": [
+    "社区数据采用交叉验证，无独立国际验证。该 AD8 模型不能直接确立 VR 硬件性能、康复疗效或完整认知障碍路径结局。",
+    "Datos comunitarios con validación cruzada, sin validación internacional independiente. El modelo AD8 no establece directamente rendimiento del equipo de RV, eficacia rehabilitadora ni resultados de la vía completa de demencia."
+  ],
+  "YIWEI appears in the author affiliations. The paper supports community-screening research rather than a rehabilitation-treatment claim.": [
+    "作者单位中出现医未。论文支持社区筛查研究，而非康复治疗宣称。",
+    "YIWEI figura en las afiliaciones. El artículo respalda investigación de cribado comunitario, no una afirmación terapéutica de rehabilitación."
+  ],
+  "A randomized controlled trial of the AKL-T01 digital intervention in children with ADHD. It provides a reference for attention-focused digital intervention design and clinical evaluation.": [
+    "针对 ADHD 儿童 AKL-T01 数字干预的随机对照试验，为注意力数字干预设计和临床评估提供参考。",
+    "Ensayo aleatorizado de la intervención digital AKL-T01 en niños con TDAH. Ofrece referencia para el diseño y la evaluación clínica de intervenciones digitales de atención."
+  ],
+  "This study evaluates AKL-T01, a different product. Its results and authorization cannot be transferred to ForcusGenius™.": [
+    "研究评估的是另一产品 AKL-T01，其结果与许可不能转移至 ForcusGenius™。",
+    "El estudio evalúa AKL-T01, un producto distinto. Sus resultados y autorización no pueden transferirse a ForcusGenius™."
+  ],
+  "This meta-analysis found gains in targeted working-memory performance, with limited effects on ADHD symptoms in blinded ratings. It helps define appropriate outcome measures for cognitive training.": [
+    "此荟萃分析发现目标工作记忆表现改善，但盲评 ADHD 症状效果有限，有助于确定认知训练的适当结局指标。",
+    "El metaanálisis halló mejoras en memoria de trabajo entrenada, con efectos limitados en síntomas de TDAH en evaluaciones ciegas. Ayuda a definir resultados adecuados del entrenamiento cognitivo."
+  ],
+  "Background evidence across other interventions. Improvements on trained tasks should not be equated with broad clinical benefit or a ForcusGenius™ treatment effect.": [
+    "这是其他干预的背景证据。训练任务改善不应等同于广泛临床获益或 ForcusGenius™ 治疗效果。",
+    "Evidencia de contexto de otras intervenciones. Las mejoras en tareas entrenadas no equivalen a beneficio clínico amplio ni a un efecto terapéutico de ForcusGenius™."
+  ],
+  "An eye-tracking study of facial-emotion recognition and visual attention in autistic and comparison participants. It provides background for social-attention tasks described in the supplied child-development material.": [
+    "针对自闭症及对照参与者的面部情绪识别与视觉注意眼动研究，为儿童发展资料中的社会性注意任务提供背景。",
+    "Estudio ocular sobre reconocimiento facial de emociones y atención visual en participantes autistas y controles. Aporta contexto a las tareas de atención social del material infantil."
+  ],
+  "Group-level research findings are not an individual diagnostic test. This is not a validation study of AutismShield™.": [
+    "群体研究结果不是个体诊断测试，也不是 AutismShield™ 验证研究。",
+    "Los hallazgos grupales no son una prueba diagnóstica individual. No es un estudio de validación de AutismShield™."
+  ],
+  "A pilot study investigated virtual social-cognition training in 30 children aged 7–16, using ten sessions over five weeks. It provides context for VR social-skills practice.": [
+    "先导研究在30名7–16岁儿童中开展虚拟社会认知训练，五周共十次，为 VR 社交技能练习提供背景。",
+    "Un estudio piloto investigó entrenamiento virtual de cognición social en 30 niños de 7–16 años, con diez sesiones durante cinco semanas. Aporta contexto a la práctica social en RV."
+  ],
+  "Small pilot study of a different intervention and selected population. It does not establish AutismShield™ efficacy or generalize to every autistic child.": [
+    "小型先导研究，涉及其他干预和特定人群。不确立 AutismShield™ 疗效，也不能推广至所有自闭症儿童。",
+    "Pequeño estudio piloto de otra intervención y población seleccionada. No establece eficacia de AutismShield™ ni se generaliza a todos los niños autistas."
+  ],
+  "High-resolution magnetic resonance spectroscopy examined postmortem frontal-cortex tissue from 11 Alzheimer’s disease cases and 11 controls. Metabolite differences, including glucose-related signals and APOE-associated patterns, were explored as a basis for further biomarker research.": [
+    "高分辨率磁共振波谱检查11例阿尔茨海默病与11例对照的尸后额叶皮层组织，探索代谢差异，包括葡萄糖相关信号和 APOE 相关模式，为后续生物标志物研究奠基。",
+    "La espectroscopia de RM de alta resolución examinó tejido frontal post mortem de 11 casos de Alzheimer y 11 controles. Se exploraron diferencias metabólicas, incluidas señales de glucosa y patrones de APOE, para futura investigación de biomarcadores."
+  ],
+  "An ex vivo tissue study with a small sample. It does not validate a clinical screening test, quantitative MRI software or any marketed Dr.Brain™ module.": [
+    "小样本离体组织研究，不验证临床筛查、定量 MRI 软件或任何上市 Dr.Brain™ 模块。",
+    "Estudio ex vivo con muestra pequeña. No valida pruebas clínicas de cribado, software de RM cuantitativa ni módulos comercializados de Dr.Brain™."
+  ],
+  "The paper includes YIWEI-affiliated co-authorship and provides foundational Alzheimer’s biomarker research.": [
+    "论文包含医未作者单位，提供阿尔茨海默病生物标志物基础研究。",
+    "El artículo incluye coautoría afiliada a YIWEI y aporta investigación básica de biomarcadores de Alzheimer."
+  ],
+  "Deep-learning segmentation approaches were evaluated on two open MRI datasets, followed by regional white-matter hyperintensity analysis in 213 clinical cases with cerebral ischemia or lacunes. The study examines automated lesion delineation and anatomical localization.": [
+    "在两个开放 MRI 数据集上评估深度学习分割，随后分析213例脑缺血或腔隙病例的区域白质高信号，研究自动病灶勾画与解剖定位。",
+    "Se evaluaron métodos de segmentación profunda en dos conjuntos abiertos de RM y se analizaron HSB regionales en 213 casos con isquemia o lagunas. El estudio examina delineación automática y localización anatómica de lesiones."
+  ],
+  "Algorithm and regional-imaging research, rather than a prospective clinical-outcome trial. Performance on these datasets does not establish equivalence to every current Dr.Brain™ software version.": [
+    "这是算法与区域影像研究，并非前瞻性临床结局试验。这些数据集表现不代表与所有当前 Dr.Brain™ 软件版本等同。",
+    "Investigación algorítmica y regional, no un ensayo prospectivo de resultados clínicos. El rendimiento en estos datos no establece equivalencia con todas las versiones actuales de Dr.Brain™."
+  ],
+  "YIWEI-affiliated authors investigate segmentation methods relevant to the white-matter section of quantitative brain MRI reports.": [
+    "医未单位作者研究与定量脑 MRI 报告白质章节相关的分割方法。",
+    "Autores afiliados a YIWEI investigan métodos de segmentación relevantes para la sección de sustancia blanca de informes de RM cerebral."
+  ],
+  "A single patient with cognitive and behavioral changes underwent detailed neuropsychological assessment and multimodal imaging. The manuscript describes Dr.Brain™ regional-volume analysis as part of distinguishing frontal-variant Alzheimer’s disease from behavioral-variant frontotemporal dementia.": [
+    "一名认知和行为变化患者接受详细神经心理评估及多模态影像。稿件描述 Dr.Brain™ 区域体积分析用于辅助鉴别额叶变异型阿尔茨海默病与行为变异型额颞叶痴呆。",
+    "Un paciente con cambios cognitivos y conductuales recibió evaluación neuropsicológica e imagen multimodal. El manuscrito describe el análisis regional de Dr.Brain™ como parte de la diferenciación entre Alzheimer frontal y demencia frontotemporal conductual."
+  ],
+  "A single illustrative case cannot establish diagnostic sensitivity, specificity or clinical efficacy. Quantitative MRI formed one part of a broader clinical and biomarker assessment.": [
+    "单一示例病例不能确立诊断敏感度、特异度或临床疗效。定量 MRI 只是整体临床与生物标志物评估的一部分。",
+    "Un solo caso no establece sensibilidad, especificidad ni eficacia clínica. La RM cuantitativa fue parte de una evaluación clínica y de biomarcadores más amplia."
+  ],
+  "The English title is translated from the supplied Chinese manuscript. Journal and final publication details have not been independently verified; the DOI is reproduced from that document.": [
+    "英文题名译自所提供中文稿件。期刊及最终发表信息未独立核验；DOI 转载自该文件。",
+    "El título inglés se tradujo del manuscrito chino aportado. No se verificaron de forma independiente la revista ni la publicación final; el DOI procede de ese documento."
+  ],
+  "Automated measurements were compared with manual measurements in 204 healthy MRI scans. A separate comparison of 34 Alzheimer’s disease cases and 34 controls examined 47 brain regions. The reported measurement agreement and regional-volume differences support further clinical investigation.": [
+    "在204例健康 MRI 中比较自动与手工测量，另在34例阿尔茨海默病与34例对照中比较47个脑区。测量一致性与区域体积差异支持进一步临床研究。",
+    "Se compararon mediciones automáticas y manuales en 204 RM sanas. Otra comparación de 34 casos de Alzheimer y 34 controles examinó 47 regiones. La concordancia y las diferencias de volumen apoyan más investigación clínica."
+  ],
+  "A preliminary measurement study with a small disease-comparison cohort. Agreement with manual measurement is not diagnostic accuracy and does not establish longitudinal treatment benefit.": [
+    "初步测量研究，疾病比较队列较小。与手工测量一致不等于诊断准确性，也不证明纵向治疗获益。",
+    "Estudio preliminar con cohorte comparativa pequeña. La concordancia manual no equivale a precisión diagnóstica ni demuestra beneficio terapéutico longitudinal."
+  ],
+  "In the PUMCH dementia cohort, quantitative MRI of 111 patients with probable Alzheimer’s disease examined cortical volume, thickness and cognitive performance across mild, moderate and severe disease. Regional atrophy, especially in left temporoparietal and occipital areas, was associated with cognitive impairment.": [
+    "北京协和医院痴呆队列纳入111例很可能阿尔茨海默病患者，定量 MRI 检查不同严重度的皮层体积、厚度和认知表现。区域萎缩尤其左侧颞顶及枕区与认知损害相关。",
+    "En 111 pacientes con probable Alzheimer de la cohorte PUMCH, la RM cuantitativa examinó volumen, grosor y cognición en distintos grados. La atrofia regional, sobre todo temporoparietal y occipital izquierda, se asoció con deterioro cognitivo."
+  ],
+  "A cross-sectional cohort. Associations across severity groups do not establish longitudinal prediction, standalone diagnosis or treatment-response monitoring.": [
+    "横断面队列，不同严重度组关联不能确立纵向预测、独立诊断或治疗反应监测。",
+    "Cohorte transversal. Las asociaciones entre grados no establecen predicción longitudinal, diagnóstico autónomo ni seguimiento de respuesta terapéutica."
+  ],
+  "A retrospective comparison of 95 Alzheimer’s disease and 106 frontotemporal lobar degeneration cases integrated clinical, neuropsychological and neuroimaging findings. Dr.Brain™ volume and white-matter measurements contributed to the assessment of differing regional patterns.": [
+    "回顾性比较95例阿尔茨海默病与106例额颞叶变性，整合临床、神经心理和影像发现。Dr.Brain™ 体积与白质测量参与不同区域模式评估。",
+    "Comparación retrospectiva de 95 casos de Alzheimer y 106 de degeneración frontotemporal, integrando clínica, neuropsicología e imagen. Las mediciones de Dr.Brain™ contribuyeron a evaluar patrones regionales."
+  ],
+  "Retrospective, selected clinical groups. The study supports complementary differential assessment, without establishing a standalone Dr.Brain™ diagnostic classifier or population-screening accuracy.": [
+    "回顾性、特定临床组研究，支持补充鉴别评估，但不确立独立 Dr.Brain™ 诊断分类器或人群筛查准确性。",
+    "Grupos clínicos seleccionados y retrospectivos. Apoya una evaluación diferencial complementaria, no un clasificador diagnóstico autónomo de Dr.Brain™ ni precisión de cribado poblacional."
+  ],
+  "Quantitative MRI compared 18 patients with type 2 diabetes and mild cognitive impairment, 18 with diabetes without MCI, and 18 healthy controls. Dr.Brain™ regional volumes were used to explore structural differences and classification features.": [
+    "定量 MRI 比较18例2型糖尿病伴轻度认知损害、18例糖尿病无认知损害及18例健康对照，通过 Dr.Brain™ 区域体积探索结构差异与分类特征。",
+    "La RM cuantitativa comparó 18 pacientes diabéticos con deterioro leve, 18 diabéticos sin deterioro y 18 controles. Los volúmenes de Dr.Brain™ exploraron diferencias estructurales y características de clasificación."
+  ]
+}

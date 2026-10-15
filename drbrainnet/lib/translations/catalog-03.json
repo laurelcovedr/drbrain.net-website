@@ -1,0 +1,682 @@
+{
+  "Supported CT, CTA and CT/MR perfusion analysis for the stroke pathway.": [
+    "面向卒中路径的 CT、CTA 及 CT/MR 灌注分析。",
+    "Análisis compatible de TC, angio-TC y perfusión por TC/RM para la vía del ictus."
+  ],
+  "Check the required sequences and image quality.": [
+    "检查所需序列与图像质量。",
+    "Compruebe las secuencias necesarias y la calidad de imagen."
+  ],
+  "Review maps, segmentation and regional measurements.": [
+    "复核参数图、分割和区域测量。",
+    "Revise mapas, segmentación y mediciones regionales."
+  ],
+  "Regulatory scope differs by module. RealNow™’s US FDA 510(k) clearance covers CT perfusion, rather than all imaging modules.": [
+    "监管范围因模块而异。RealNow™ 的美国 FDA 510(k) 许可涵盖 CT 灌注，并非全部影像模块。",
+    "El alcance regulatorio varía por módulo. La autorización FDA 510(k) de RealNow™ cubre perfusión por TC, no todos los módulos de imagen."
+  ],
+  "Explore quantitative imaging AI": [
+    "了解定量影像 AI",
+    "Explorar la IA de imagen cuantitativa"
+  ],
+  "An English AI report brings brain-aging estimates and regional MRI findings into a clinician-led brain-health consultation.": [
+    "英文 AI 报告将脑龄估计和脑区 MRI 发现纳入医生主导的脑健康咨询。",
+    "Un informe de IA en inglés incorpora estimaciones de envejecimiento cerebral y hallazgos regionales de RM a una consulta profesional de salud cerebral."
+  ],
+  "De-identified sample · Draft for clinician review": [
+    "去标识示例 · 供医生审核的草稿",
+    "Ejemplo desidentificado · Borrador para revisión clínica"
+  ],
+  "Explore the original English report: brain aging, cognition-related structure, ventricles, cerebellum, white matter and vascular review.": [
+    "查看英文原始报告：脑龄、认知相关结构、脑室、小脑、白质与血管复核。",
+    "Explore el informe original en inglés: envejecimiento cerebral, estructuras cognitivas, ventrículos, cerebelo, sustancia blanca y revisión vascular."
+  ],
+  "Establish the cognitive and imaging baseline.": [
+    "建立认知与影像基线。",
+    "Establezca la línea basal cognitiva y de imagen."
+  ],
+  "Review the Brain Health Report, source findings and reference intervals.": [
+    "复核脑健康报告、原始发现和参考区间。",
+    "Revise el informe de salud cerebral, los hallazgos fuente y los intervalos de referencia."
+  ],
+  "Discuss follow-up and appropriate rehabilitation goals.": [
+    "讨论随访及适当康复目标。",
+    "Comente el seguimiento y los objetivos de rehabilitación adecuados."
+  ],
+  "Brain age is a model estimate. It does not predict lifespan or establish a diagnosis, and the supplied sample does not demonstrate improved longevity outcomes.": [
+    "脑龄为模型估计，不能预测寿命或确立诊断，所提供示例也未证明长寿结局改善。",
+    "La edad cerebral es una estimación de modelo. No predice la esperanza de vida ni establece diagnósticos; el ejemplo no demuestra mejores resultados de longevidad."
+  ],
+  "Explore the English Brain Health Report": [
+    "查看英文脑健康报告",
+    "Ver el informe de salud cerebral en inglés"
+  ],
+  "What is Dr.Brain™ used for?": [
+    "Dr.Brain™ 用于什么？",
+    "¿Para qué se utiliza Dr.Brain™?"
+  ],
+  "Dr.Brain™ brings together cognitive screening, quantitative brain MRI analysis and guided cognitive rehabilitation. Each component has its own workflow and evidence scope; clinicians interpret the results in the context of an individual assessment.": [
+    "Dr.Brain™ 整合认知筛查、定量脑 MRI 分析与引导式认知康复。各组件有各自流程和证据范围，医生需结合个体评估解释结果。",
+    "Dr.Brain™ reúne cribado cognitivo, análisis cuantitativo de RM cerebral y rehabilitación cognitiva guiada. Cada componente tiene su flujo y alcance de evidencia; los profesionales interpretan los resultados en la evaluación individual."
+  ],
+  "Does cognitive screening diagnose dementia?": [
+    "认知筛查可以诊断痴呆吗？",
+    "¿El cribado cognitivo diagnostica la demencia?"
+  ],
+  "A screening result can help identify people who need further assessment. It is not a standalone dementia diagnosis. Clinical history, examination and appropriate investigations remain part of the diagnostic pathway.": [
+    "筛查可帮助识别需要进一步评估的人群，但不能单独诊断痴呆。病史、查体及适当检查仍是诊断路径的一部分。",
+    "El cribado ayuda a identificar a quienes necesitan una evaluación adicional. No diagnostica la demencia por sí solo. La historia clínica, la exploración y las pruebas adecuadas siguen formando parte del diagnóstico."
+  ],
+  "What clinical evidence is available for Dr.Brain™?": [
+    "Dr.Brain™ 有哪些临床证据？",
+    "¿Qué evidencia clínica existe para Dr.Brain™?"
+  ],
+  "The evidence library includes studies of VR eye-tracking screening and quantitative structural MRI. These support specific studied components and populations; they do not validate every marketed module or the complete care pathway.": [
+    "证据库包含 VR 眼动筛查及定量结构 MRI 研究。证据支持所研究的特定组件和人群，并不验证每个上市模块或完整照护路径。",
+    "La biblioteca incluye estudios de cribado ocular con RV y RM estructural cuantitativa. Respaldan los componentes y poblaciones estudiados; no validan todos los módulos comercializados ni la vía completa."
+  ],
+  "Read component-specific evidence": [
+    "查看组件特定证据",
+    "Leer evidencia por componente"
+  ],
+  "Where can I view a sample brain health report?": [
+    "在哪里查看脑健康报告示例？",
+    "¿Dónde puedo ver un informe de ejemplo?"
+  ],
+  "The English Brain Health & Longevity Report shows example regional MRI findings and source notes for clinician-led consultations. It is a sample reporting format, not an individual medical diagnosis.": [
+    "英文脑健康与长寿报告展示脑区 MRI 发现及来源说明示例，用于医生主导的咨询。它是报告格式示例，不是个人医学诊断。",
+    "El informe en inglés muestra ejemplos de hallazgos regionales de RM y notas fuente para consultas profesionales. Es un formato de ejemplo, no un diagnóstico individual."
+  ],
+  "View the English sample report": [
+    "查看英文示例报告",
+    "Ver el informe de ejemplo en inglés"
+  ],
+  "What does RealNow™ analyze?": [
+    "RealNow™ 分析哪些内容？",
+    "¿Qué analiza RealNow™?"
+  ],
+  "RealNow™ provides AI-assisted CT, vascular and perfusion imaging analysis for stroke-imaging review. The applicable modules depend on the imaging workflow and documented product scope.": [
+    "RealNow™ 提供 AI 辅助 CT、血管与灌注影像分析，用于卒中影像复核。适用模块取决于影像流程及文件所载产品范围。",
+    "RealNow™ ofrece análisis de TC, vascular y perfusión asistido por IA para revisar imágenes del ictus. Los módulos aplicables dependen del flujo de imagen y del alcance documentado."
+  ],
+  "Explore imaging workflows": [
+    "了解影像流程",
+    "Explorar flujos de imagen"
+  ],
+  "Does RealNow™ replace a radiologist or treating clinician?": [
+    "RealNow™ 会替代放射科医生或临床医生吗？",
+    "¿RealNow™ sustituye al radiólogo o al médico tratante?"
+  ],
+  "The displayed imaging outputs support clinical review. Qualified professionals must interpret the findings with the original images and clinical context.": [
+    "影像输出支持临床复核。合格专业人员必须结合原始图像和临床背景解释结果。",
+    "Los resultados apoyan la revisión clínica. Los profesionales cualificados deben interpretarlos con las imágenes originales y el contexto clínico."
+  ],
+  "Explore clinical care settings": [
+    "了解临床场景",
+    "Explorar entornos clínicos"
+  ],
+  "How should I interpret RealNow™ research and registrations?": [
+    "如何理解 RealNow™ 的研究与注册信息？",
+    "¿Cómo interpretar la investigación y los registros de RealNow™?"
+  ],
+  "Research findings apply to the studied module, dataset and population. Registration documents should be reviewed by product, module and market; a document for one scope does not establish clearance for every module in every country.": [
+    "研究结果适用于所研究模块、数据集与人群。注册文件应按产品、模块和市场审核，某一范围的文件不代表所有模块在所有国家均获许可。",
+    "Los hallazgos se aplican al módulo, conjunto de datos y población estudiados. Los documentos deben revisarse por producto, módulo y mercado; un documento no acredita autorización de todos los módulos en todos los países."
+  ],
+  "Review RealNow research": [
+    "查看 RealNow 研究",
+    "Revisar la investigación de RealNow"
+  ],
+  "How can an institution discuss availability?": [
+    "机构如何咨询供应情况？",
+    "¿Cómo puede una institución consultar la disponibilidad?"
+  ],
+  "Contact YIWEI MEDICAL with the intended country, clinical setting and imaging workflow to discuss the relevant solution and market documentation.": [
+    "请联系医未医疗，说明目标国家、临床场景和影像流程，以讨论适用方案与市场文件。",
+    "Contacte con YIWEI MEDICAL indicando el país, el entorno clínico y el flujo de imagen para comentar la solución y la documentación pertinentes."
+  ],
+  "What is AutismShield™?": [
+    "什么是 AutismShield™？",
+    "¿Qué es AutismShield™?"
+  ],
+  "AutismShield™ presents guided VR and tablet activities for social attention and developmental skills. Activities should be adapted to the child’s developmental goals and care plan.": [
+    "AutismShield™ 提供面向社会性注意和发展技能的引导式 VR 与平板活动。活动应适配儿童发展目标与照护计划。",
+    "AutismShield™ presenta actividades guiadas de RV y tableta para atención social y habilidades del desarrollo, adaptadas a los objetivos y al plan de atención del niño."
+  ],
+  "Explore VR and tablet practice": [
+    "了解 VR 与平板练习",
+    "Explorar la práctica con RV y tabletas"
+  ],
+  "Is the displayed illustration an actual product interface?": [
+    "展示的示意图是实际产品界面吗？",
+    "¿La ilustración mostrada es una interfaz real?"
+  ],
+  "The social-attention care image is a concept illustration. It is not an actual product interface or a photograph of a treatment outcome.": [
+    "社会性注意照护图片为概念示意图，并非实际产品界面或治疗结果照片。",
+    "La imagen de atención social es una ilustración conceptual, no una interfaz real ni una fotografía de resultados terapéuticos."
+  ],
+  "Review the product overview": [
+    "查看产品概览",
+    "Ver el resumen del producto"
+  ],
+  "Does the website establish AutismShield™ clinical efficacy?": [
+    "本网站是否确立了 AutismShield™ 的临床疗效？",
+    "¿El sitio acredita la eficacia clínica de AutismShield™?"
+  ],
+  "Product-specific efficacy studies were not identified in the supplied material. The listed independent research provides scientific context and should not be treated as proof of efficacy for the marketed product.": [
+    "所提供资料中未发现产品特定的疗效研究。所列独立研究提供科学背景，不应视为上市产品的疗效证明。",
+    "No se identificaron estudios de eficacia específicos en el material aportado. La investigación independiente ofrece contexto científico y no debe tratarse como prueba de eficacia del producto comercializado."
+  ],
+  "Read the evidence and its limits": [
+    "阅读证据及其局限",
+    "Leer la evidencia y sus límites"
+  ],
+  "How can I review market documentation?": [
+    "如何查阅市场文件？",
+    "¿Cómo revisar la documentación de mercado?"
+  ],
+  "Review the product-specific registration records and their stated scope. Availability and intended use require confirmation for the relevant country and product version.": [
+    "请查看产品特定的注册记录及所载范围。供应情况与预期用途需按国家及产品版本确认。",
+    "Revise los registros específicos y su alcance. La disponibilidad y el uso previsto deben confirmarse para el país y la versión correspondientes."
+  ],
+  "Review market documentation": [
+    "查看市场文件",
+    "Revisar documentación de mercado"
+  ],
+  "What is ForcusGenius™ designed to support?": [
+    "ForcusGenius™ 主要支持什么？",
+    "¿Qué apoya ForcusGenius™?"
+  ],
+  "ForcusGenius™ presents guided VR and tablet practice focused on attention and executive function, with session review and activities adapted to the selected care plan.": [
+    "ForcusGenius™ 提供关注注意力与执行功能的引导式 VR 和平板练习，并开展训练回顾，活动适配所选照护计划。",
+    "ForcusGenius™ presenta práctica guiada con RV y tabletas centrada en atención y funciones ejecutivas, con revisión de sesiones y actividades adaptadas al plan."
+  ],
+  "Explore digital practice": [
+    "了解数字练习",
+    "Explorar la práctica digital"
+  ],
+  "Does attention training diagnose ADHD?": [
+    "注意力训练可以诊断 ADHD 吗？",
+    "¿El entrenamiento de atención diagnostica el TDAH?"
+  ],
+  "Attention practice is distinct from a clinical ADHD assessment. Training activity or task performance alone should not be treated as an ADHD diagnosis.": [
+    "注意力练习与 ADHD 临床评估不同。训练活动或任务表现本身不应视为 ADHD 诊断。",
+    "La práctica de atención es distinta de una evaluación clínica del TDAH. La actividad o el desempeño por sí solos no deben considerarse un diagnóstico."
+  ],
+  "Discuss the intended care pathway": [
+    "讨论预期照护路径",
+    "Comentar la vía asistencial prevista"
+  ],
+  "What evidence is listed for ForcusGenius™?": [
+    "ForcusGenius™ 列出了哪些证据？",
+    "¿Qué evidencia se presenta para ForcusGenius™?"
+  ],
+  "The supplied library provides independent scientific context. Product-specific efficacy studies were not identified in the supplied material, so those publications do not establish efficacy of the marketed ForcusGenius™ product.": [
+    "所提供文献提供独立科学背景。资料中未发现产品特定疗效研究，因此这些论文不能确立上市 ForcusGenius™ 产品的疗效。",
+    "La biblioteca aporta contexto científico independiente. No se identificaron estudios específicos de eficacia, por lo que las publicaciones no establecen la eficacia del producto ForcusGenius™ comercializado."
+  ],
+  "Review research context": [
+    "查看研究背景",
+    "Revisar el contexto científico"
+  ],
+  "Can I assume the product is available in every market?": [
+    "可以认为产品在所有市场均可使用吗？",
+    "¿Está disponible el producto en todos los mercados?"
+  ],
+  "No. Market documentation must be checked for the specific product, intended use and country. Contact YIWEI MEDICAL to confirm the relevant documentation and availability.": [
+    "不可以。市场文件必须按具体产品、预期用途与国家核查。请联系医未医疗确认适用文件和供应情况。",
+    "No. La documentación debe verificarse para el producto, uso previsto y país específicos. Contacte con YIWEI MEDICAL para confirmar los documentos y la disponibilidad."
+  ],
+  "Review market records": [
+    "查看市场记录",
+    "Revisar registros de mercado"
+  ],
+  "Founder & CEO": [
+    "创始人兼首席执行官",
+    "Fundador y director ejecutivo"
+  ],
+  "Scientific vision & product development": [
+    "科学愿景与产品开发",
+    "Visión científica y desarrollo de productos"
+  ],
+  "Neuroimaging expertise at the heart of YIWEI’s product development.": [
+    "以神经影像专业能力支撑医未产品开发。",
+    "La experiencia en neuroimagen impulsa el desarrollo de productos de YIWEI."
+  ],
+  "Silun leads YIWEI’s scientific vision, R&D and product development. His experience includes a Senior Scientist role at Emory University and radiology at Peking University People’s Hospital.": [
+    "Silun 负责医未的科学愿景、研发和产品开发。他曾任埃默里大学高级科学家，并具有北京大学人民医院放射科工作经历。",
+    "Silun dirige la visión científica, la I+D y el desarrollo de productos de YIWEI. Su experiencia incluye el cargo de científico sénior en Emory University y radiología en Peking University People’s Hospital."
+  ],
+  "Chief Financial Officer": [
+    "首席财务官",
+    "Director financiero"
+  ],
+  "Capital markets & finance": [
+    "资本市场与财务",
+    "Mercados de capitales y finanzas"
+  ],
+  "International finance experience supporting company growth.": [
+    "以国际金融经验支持企业成长。",
+    "Experiencia financiera internacional que apoya el crecimiento de la empresa."
+  ],
+  "Wu brings more than 20 years of experience in international capital markets. Previous roles include Managing Director at Galaxy International and Executive Director at BOC International.": [
+    "Wu 拥有逾20年国际资本市场经验，曾任银河国际董事总经理和中银国际执行董事。",
+    "Wu aporta más de 20 años de experiencia en mercados internacionales de capitales. Fue director general de Galaxy International y director ejecutivo de BOC International."
+  ],
+  "BD & IR Director": [
+    "业务发展与投资者关系总监",
+    "Director de desarrollo de negocio y relaciones con inversores"
+  ],
+  "Business development & investor relations": [
+    "业务发展与投资者关系",
+    "Desarrollo de negocio y relaciones con inversores"
+  ],
+  "Experience spanning consulting, investment and financing.": [
+    "拥有咨询、投资与融资经验。",
+    "Experiencia en consultoría, inversión y financiación."
+  ],
+  "Junjia focuses on business development, corporate governance and financing. His background includes more than nine years of experience in consulting, investment and financing, including prior experience at Deloitte.": [
+    "Junjia 负责业务发展、公司治理与融资，拥有逾9年咨询、投资和融资经验，曾任职德勤。",
+    "Junjia se centra en desarrollo de negocio, gobierno corporativo y financiación. Aporta más de nueve años en consultoría, inversión y financiación, incluida experiencia en Deloitte."
+  ],
+  "Sales Director": [
+    "销售总监",
+    "Director comercial"
+  ],
+  "China commercialization": [
+    "中国市场商业化",
+    "Comercialización en China"
+  ],
+  "Medical imaging experience connecting products with clinical settings.": [
+    "以医学影像经验衔接产品与临床场景。",
+    "Experiencia en imagen médica que conecta productos con entornos clínicos."
+  ],
+  "Cheng brings more than 15 years of medical imaging sales experience, including roles at Siemens and medical imaging AI companies. His work includes hospital networks and distributor development.": [
+    "Cheng 拥有逾15年医学影像销售经验，曾任职西门子及医学影像 AI 企业，工作涵盖医院网络与经销商拓展。",
+    "Cheng aporta más de 15 años de ventas de imagen médica, con puestos en Siemens y empresas de IA médica. Su trabajo incluye redes hospitalarias y desarrollo de distribuidores."
+  ],
+  "GM, International Business": [
+    "国际业务总经理",
+    "Directora general de negocio internacional"
+  ],
+  "International business": [
+    "国际业务",
+    "Negocio internacional"
+  ],
+  "Healthcare leadership experience supporting YIWEI’s international presence.": [
+    "以医疗行业管理经验支持医未国际布局。",
+    "Experiencia directiva sanitaria que apoya la presencia internacional de YIWEI."
+  ],
+  "Lisa leads international business. Her previous roles include CFO and CBO at Zhaoke Ophthalmology, President of EXUMA Biotech and CFO of ACEA Therapeutics. Her background also includes Goldman Sachs and McKinsey.": [
+    "Lisa 负责国际业务，曾任兆科眼科 CFO 与 CBO、EXUMA Biotech 总裁和 ACEA Therapeutics CFO，并曾任职高盛与麦肯锡。",
+    "Lisa dirige el negocio internacional. Fue CFO y CBO de Zhaoke Ophthalmology, presidenta de EXUMA Biotech y CFO de ACEA Therapeutics. También trabajó en Goldman Sachs y McKinsey."
+  ],
+  "Medical Imaging Advisor": [
+    "医学影像顾问",
+    "Asesor de imagen médica"
+  ],
+  "Clinical imaging & translation": [
+    "临床影像与转化",
+    "Imagen clínica y traslación"
+  ],
+  "Diagnostic radiology and advanced imaging at the National University of Singapore.": [
+    "新加坡国立大学诊断放射学与先进影像专业经验。",
+    "Experiencia en radiología diagnóstica e imagen avanzada en la National University of Singapore."
+  ],
+  "Professor Khong brings expertise from her roles as Director of CIRC and Professor of Diagnostic Radiology at the National University of Singapore. Her expertise includes hybrid molecular imaging, advanced MRI and clinical translation.": [
+    "Khong 教授曾任新加坡国立大学 CIRC 主任及诊断放射学教授，专长包括混合分子影像、先进 MRI 和临床转化。",
+    "La profesora Khong aporta experiencia como directora de CIRC y profesora de radiología diagnóstica en la National University of Singapore, en imagen molecular híbrida, RM avanzada y traslación clínica."
+  ],
+  "Molecular MRI & deep learning": [
+    "分子 MRI 与深度学习",
+    "RM molecular y aprendizaje profundo"
+  ],
+  "Radiology and molecular imaging expertise at Emory University.": [
+    "埃默里大学放射学与分子影像专业经验。",
+    "Experiencia en radiología e imagen molecular en Emory University."
+  ],
+  "Professor Mao brings expertise from his roles as Professor of Radiology at Emory University and Director of LFMI&N. His areas of expertise include targeted molecular MRI and deep learning algorithms.": [
+    "Mao 教授曾任埃默里大学放射学教授及 LFMI&N 主任，专长包括靶向分子 MRI 和深度学习算法。",
+    "El profesor Mao aporta experiencia como profesor de radiología en Emory University y director de LFMI&N, con especialización en RM molecular dirigida y algoritmos de aprendizaje profundo."
+  ],
+  "Neuroscience Advisor": [
+    "脑科学顾问",
+    "Asesor de neurociencia"
+  ],
+  "Neural circuits & brain plasticity": [
+    "神经环路与脑可塑性",
+    "Circuitos neuronales y plasticidad cerebral"
+  ],
+  "Brain plasticity research at IMCB, A*STAR.": [
+    "新加坡 A*STAR IMCB 脑可塑性研究经验。",
+    "Investigación en plasticidad cerebral en IMCB, A*STAR."
+  ],
+  "Dr. Fu brings expertise as Senior Principal Investigator and Head of Brain Plasticity at the Institute of Molecular and Cell Biology, A*STAR. His research focuses on neural circuits and brain plasticity.": [
+    "Fu 博士曾任新加坡 A*STAR 分子与细胞生物学研究所高级首席研究员和脑可塑性负责人，研究聚焦神经环路与脑可塑性。",
+    "El doctor Fu aporta experiencia como investigador principal sénior y responsable de plasticidad cerebral en IMCB, A*STAR. Su investigación se centra en circuitos neuronales y plasticidad cerebral."
+  ],
+  "Synaptic plasticity & brain aging": [
+    "突触可塑性与脑老化",
+    "Plasticidad sináptica y envejecimiento cerebral"
+  ],
+  "Brain science expertise at Zhejiang University.": [
+    "浙江大学脑科学专业经验。",
+    "Experiencia en neurociencia en Zhejiang University."
+  ],
+  "Professor Ma brings expertise as Vice Dean of the School of Brain Science at Zhejiang University. His research interests include synaptic plasticity, brain aging and brain diseases.": [
+    "Ma 教授曾任浙江大学脑科学学院副院长，研究方向包括突触可塑性、脑老化与脑疾病。",
+    "El profesor Ma aporta experiencia como vicedecano de la escuela de neurociencia de Zhejiang University. Investiga plasticidad sináptica, envejecimiento y enfermedades cerebrales."
+  ],
+  "AI & Algorithms": [
+    "人工智能与算法",
+    "IA y algoritmos"
+  ],
+  "AI algorithms & quantitative MRI": [
+    "AI 算法与定量 MRI",
+    "Algoritmos de IA y RM cuantitativa"
+  ],
+  "Quantitative MRI and AI research at Zhejiang University.": [
+    "浙江大学定量 MRI 与 AI 研究经验。",
+    "Investigación de RM cuantitativa e IA en Zhejiang University."
+  ],
+  "Li Zhao is a core member of the algorithm team and a Research Professor at Zhejiang University. His expertise includes AI algorithms, quantitative MRI, brain perfusion and neurodegeneration.": [
+    "Li Zhao 是算法团队核心成员、浙江大学研究教授，专长包括 AI 算法、定量 MRI、脑灌注与神经退行性变。",
+    "Li Zhao es miembro principal del equipo de algoritmos y profesor de investigación en Zhejiang University. Su experiencia incluye IA, RM cuantitativa, perfusión cerebral y neurodegeneración."
+  ],
+  "International Strategy Advisor": [
+    "国际战略顾问",
+    "Asesora de estrategia internacional"
+  ],
+  "Singapore & international strategy": [
+    "新加坡与国际战略",
+    "Estrategia en Singapur e internacional"
+  ],
+  "Leadership experience across healthcare, finance and education.": [
+    "拥有医疗、金融与教育领域管理经验。",
+    "Experiencia directiva en sanidad, finanzas y educación."
+  ],
+  "Karen previously served as Deputy CEO of SingHealth and Singapore General Hospital. She brings experience across public and private organizations in healthcare, finance and education.": [
+    "Karen 曾任新加坡保健服务集团及新加坡中央医院副首席执行官，拥有医疗、金融和教育领域公私机构经验。",
+    "Karen fue subdirectora ejecutiva de SingHealth y Singapore General Hospital. Aporta experiencia en organizaciones públicas y privadas de sanidad, finanzas y educación."
+  ],
+  "Start With People": [
+    "以人为本",
+    "Comenzar por las personas"
+  ],
+  "We design around the needs of patients, families, and healthcare professionals. Technology should be understandable, practical, and relevant to everyday care.": [
+    "我们围绕患者、家庭和医疗专业人员的需求设计。技术应易于理解、实用，并与日常照护相关。",
+    "Diseñamos en torno a pacientes, familias y profesionales. La tecnología debe ser comprensible, práctica y pertinente para la atención cotidiana."
+  ],
+  "Let Evidence Guide Innovation": [
+    "让证据指导创新",
+    "Que la evidencia guíe la innovación"
+  ],
+  "We value rigorous research and transparent evaluation. Each product should be assessed against its intended use, with clear communication of the evidence and its limitations.": [
+    "我们重视严谨研究和透明评估。每个产品都应依据预期用途评估，清晰说明证据及其局限。",
+    "Valoramos la investigación rigurosa y la evaluación transparente. Cada producto debe evaluarse según su uso previsto, comunicando claramente la evidencia y sus limitaciones."
+  ],
+  "Make Insights Understandable": [
+    "让信息易于理解",
+    "Hacer comprensible la información"
+  ],
+  "Meaningful information must be easy to interpret. We aim to present complex imaging and cognitive data through clear visualizations and structured reports.": [
+    "有意义的信息应易于解读。我们以清晰可视化和结构化报告呈现复杂影像与认知数据。",
+    "La información útil debe ser fácil de interpretar. Presentamos datos complejos de imagen y cognición mediante visualizaciones claras e informes estructurados."
+  ],
+  "Explore the Brain Health Report": [
+    "查看脑健康报告",
+    "Ver el informe de salud cerebral"
+  ],
+  "Build Through Collaboration": [
+    "通过合作共建",
+    "Construir mediante la colaboración"
+  ],
+  "Advancing brain health requires shared expertise. We welcome collaboration with clinicians, researchers, healthcare organizations, and technology partners to address real-world needs.": [
+    "推进脑健康需要共享专业知识。我们欢迎与医生、研究人员、医疗机构和技术伙伴合作，解决实际需求。",
+    "Impulsar la salud cerebral requiere experiencia compartida. Colaboramos con profesionales, investigadores, organizaciones sanitarias y socios tecnológicos para responder a necesidades reales."
+  ],
+  "Discuss collaboration": [
+    "讨论合作",
+    "Comentar una colaboración"
+  ],
+  "Design for Trust": [
+    "以信任为设计基础",
+    "Diseñar para la confianza"
+  ],
+  "Privacy, responsible data use, and clear communication are central to our approach. We believe trust must be built into both the technology and the experience of using it.": [
+    "隐私、负责任的数据使用和清晰沟通是我们方法的核心。我们认为，信任必须融入技术及其使用体验。",
+    "La privacidad, el uso responsable de datos y la comunicación clara son esenciales. La confianza debe integrarse en la tecnología y en la experiencia de uso."
+  ],
+  "Talk with our team": [
+    "与团队交流",
+    "Hablar con nuestro equipo"
+  ],
+  "AI-Powered Brain Imaging": [
+    "AI 脑影像",
+    "Imagen cerebral con IA"
+  ],
+  "Our brain imaging solutions support the analysis of neurological imaging data and the presentation of quantitative findings, helping healthcare professionals incorporate structured information into their clinical workflows.": [
+    "我们的脑影像方案支持神经影像数据分析和定量发现呈现，帮助医疗专业人员将结构化信息纳入临床流程。",
+    "Nuestras soluciones apoyan el análisis de neuroimagen y la presentación de hallazgos cuantitativos, ayudando a incorporar información estructurada a los flujos clínicos."
+  ],
+  "Cognitive Assessment": [
+    "认知评估",
+    "Evaluación cognitiva"
+  ],
+  "Our assessment technologies combine computerized tasks and eye-tracking measures to characterize cognitive performance and generate structured reports for professional review.": [
+    "我们的评估技术结合计算机化任务与眼动测量，刻画认知表现并生成结构化报告供专业复核。",
+    "Combinamos tareas informatizadas y mediciones oculares para caracterizar el rendimiento cognitivo y generar informes estructurados para revisión profesional."
+  ],
+  "Explore cognitive assessment": [
+    "了解认知评估",
+    "Explorar la evaluación cognitiva"
+  ],
+  "VR and Tablet-Based Cognitive Training": [
+    "VR 与平板认知训练",
+    "Entrenamiento cognitivo con RV y tabletas"
+  ],
+  "Our digital training solutions use immersive and interactive activities to engage users in structured cognitive exercises, with performance data to support progress monitoring.": [
+    "我们的数字训练方案通过沉浸式和互动活动引导用户开展结构化认知练习，以表现数据支持进展监测。",
+    "Nuestras soluciones utilizan actividades inmersivas e interactivas para ejercicios cognitivos estructurados, con datos de desempeño para supervisar el progreso."
+  ],
+  "Explore digital training": [
+    "了解数字训练",
+    "Explorar el entrenamiento digital"
+  ],
+  "Brain Health and Healthy Aging": [
+    "脑健康与健康老龄化",
+    "Salud cerebral y envejecimiento saludable"
+  ],
+  "We bring assessment findings together in clear brain health reports, supporting discussions about cognitive function, ongoing monitoring, and healthy aging.": [
+    "我们将评估发现整合为清晰的脑健康报告，支持认知功能、持续监测和健康老龄化相关讨论。",
+    "Reunimos los hallazgos en informes claros para conversar sobre función cognitiva, seguimiento continuo y envejecimiento saludable."
+  ],
+  "Structure": [
+    "结构",
+    "Estructura"
+  ],
+  "Volume (mL)": [
+    "体积（mL）",
+    "Volumen (mL)"
+  ],
+  "ICV (%)": [
+    "颅内容积占比（%）",
+    "VIC (%)"
+  ],
+  "Source reference (%)": [
+    "来源参考区间（%）",
+    "Referencia fuente (%)"
+  ],
+  "Review": [
+    "复核",
+    "Revisar"
+  ],
+  "Outside source range": [
+    "超出来源区间",
+    "Fuera del intervalo fuente"
+  ],
+  "Within source range": [
+    "位于来源区间",
+    "Dentro del intervalo fuente"
+  ],
+  "ICV = intracranial volume. Source reference intervals are model-specific.": [
+    "ICV 为颅内容积。来源参考区间与具体模型相关。",
+    "ICV es el volumen intracraneal. Los intervalos fuente son específicos del modelo."
+  ],
+  "Brain aging": [
+    "脑老化",
+    "Envejecimiento cerebral"
+  ],
+  "55.7 years": [
+    "55.7 岁",
+    "55,7 años"
+  ],
+  "MRI-derived model estimate": [
+    "基于 MRI 的模型估计",
+    "Estimación del modelo basada en RM"
+  ],
+  "Cognition-related structure": [
+    "认知相关结构",
+    "Estructuras relacionadas con la cognición"
+  ],
+  "7 regions": [
+    "7 个脑区",
+    "7 regiones"
+  ],
+  "Two measurements outside source ranges": [
+    "两项测量超出来源区间",
+    "Dos mediciones fuera de los intervalos fuente"
+  ],
+  "Ventricular structure": [
+    "脑室结构",
+    "Estructura ventricular"
+  ],
+  "4 regions": [
+    "4 个区域",
+    "4 regiones"
+  ],
+  "Right lateral ventricle requires review": [
+    "右侧脑室需复核",
+    "El ventrículo lateral derecho requiere revisión"
+  ],
+  "Cerebellar structure": [
+    "小脑结构",
+    "Estructura cerebelosa"
+  ],
+  "Total cerebellar volume": [
+    "小脑总体积",
+    "Volumen cerebeloso total"
+  ],
+  "White-matter findings": [
+    "白质发现",
+    "Hallazgos de sustancia blanca"
+  ],
+  "22 source-reported lesion candidates": [
+    "来源报告的22个候选病灶",
+    "22 lesiones candidatas notificadas en la fuente"
+  ],
+  "Vascular candidates": [
+    "血管候选发现",
+    "Hallazgos vasculares candidatos"
+  ],
+  "Aneurysm / microbleed candidates": [
+    "动脉瘤 / 微出血候选发现",
+    "Candidatos a aneurisma / microhemorragia"
+  ],
+  "YIWEI MEDICAL / BRAIN HEALTH ANALYTICS": [
+    "医未医疗 / 脑健康分析",
+    "YIWEI MEDICAL / ANÁLISIS DE SALUD CEREBRAL"
+  ],
+  "DR.BRAIN™ / MRI INTELLIGENCE": [
+    "DR.BRAIN™ / MRI 智能分析",
+    "DR.BRAIN™ / INTELIGENCIA EN RM"
+  ],
+  "AI Brain Health": [
+    "AI 脑健康",
+    "Salud cerebral con IA"
+  ],
+  "& Longevity": [
+    "与长寿",
+    "Y longevidad"
+  ],
+  "DE-IDENTIFIED SAMPLE": [
+    "去标识示例",
+    "EJEMPLO DESIDENTIFICADO"
+  ],
+  "Case 001 · Male ·": [
+    "案例001 · 男性 ·",
+    "Caso 001 · Varón ·"
+  ],
+  "Scan: 20 March 2026": [
+    "扫描：2026年3月20日",
+    "Estudio: 20 de marzo de 2026"
+  ],
+  "Draft for clinician review": [
+    "供医生审核的草稿",
+    "Borrador para revisión clínica"
+  ],
+  "Report modules": [
+    "报告模块",
+    "Módulos del informe"
+  ],
+  "A structured brain health profile": [
+    "结构化脑健康画像",
+    "Un perfil estructurado de salud cerebral"
+  ],
+  "Chronological age": [
+    "实际年龄",
+    "Edad cronológica"
+  ],
+  "AI-estimated brain age": [
+    "AI 估计脑龄",
+    "Edad cerebral estimada por IA"
+  ],
+  "Brain-age gap": [
+    "脑龄差",
+    "Diferencia de edad cerebral"
+  ],
+  "WMH volume": [
+    "白质高信号体积",
+    "Volumen de HSB"
+  ],
+  "Source measurements for clinician review. No new image processing or clinical diagnosis has been performed.": [
+    "来源测量供医生复核。未开展新的影像处理或临床诊断。",
+    "Mediciones fuente para revisión clínica. No se ha realizado nuevo procesamiento de imagen ni diagnóstico clínico."
+  ],
+  "Brain age, in context": [
+    "结合背景理解脑龄",
+    "La edad cerebral en contexto"
+  ],
+  "Predicted brain age": [
+    "预测脑龄",
+    "Edad cerebral predicha"
+  ],
+  "Predicted − chronological": [
+    "预测年龄 − 实际年龄",
+    "Edad predicha − cronológica"
+  ],
+  "Shared visual scale: 0–100 years.": [
+    "统一可视化刻度：0–100岁。",
+    "Escala visual común: 0–100 años."
+  ],
+  "A lower model estimate alone does not establish better cognition, lower dementia risk or biological rejuvenation. Brain age is not a lifespan forecast.": [
+    "仅凭较低模型估计不能证明认知更好、痴呆风险更低或生物学年轻化。脑龄不是寿命预测。",
+    "Una estimación menor no demuestra mejor cognición, menor riesgo de demencia ni rejuvenecimiento biológico. La edad cerebral no predice la esperanza de vida."
+  ],
+  "Source and model notes": [
+    "来源与模型说明",
+    "Notas de fuente y modelo"
+  ],
+  "The source uses 59.0 / 55.7 years in its case identity, executive summary and module narrative. Its decorative age graphic shows 62.0 / 54.1 years and requires correction.": [
+    "来源在病例信息、摘要及模块文字中使用59.0 / 55.7岁，装饰性年龄图显示62.0 / 54.1岁，需更正。",
+    "La fuente utiliza 59,0 / 55,7 años en la identidad, el resumen y el texto. El gráfico decorativo muestra 62,0 / 54,1 años y requiere corrección."
+  ],
+  "Model version, prediction interval, bias correction and international calibration were not supplied.": [
+    "未提供模型版本、预测区间、偏倚校正和国际校准信息。",
+    "No se aportaron versión del modelo, intervalo de predicción, corrección de sesgo ni calibración internacional."
+  ],
+  "Cognition-related regional structure": [
+    "认知相关脑区结构",
+    "Estructura regional relacionada con la cognición"
+  ]
+}

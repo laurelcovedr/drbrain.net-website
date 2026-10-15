@@ -1,3 +1,4 @@
+/** @jsxImportSource @/lib/localized-jsx */
 'use client';
 import {useState} from 'react';
 import {BrainHealthDocumentPage} from '@/components/brain-health-document';

@@ -1,3 +1,4 @@
+/** @jsxImportSource @/lib/localized-jsx */
 'use client';
 import Link from '@/components/site-link';
 import {Tabs,TabsList,TabsTrigger,TabsContent} from '@/components/ui/tabs';

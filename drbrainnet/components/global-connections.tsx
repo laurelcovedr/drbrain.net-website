@@ -1,3 +1,5 @@
+/** @jsxImportSource @/lib/localized-jsx */
+'use client';
 import Link from '@/components/site-link';
 import {organizationMarks,type OrganizationMark} from '@/lib/yiwei-organizations';
 

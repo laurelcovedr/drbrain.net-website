@@ -1,3 +1,4 @@
+/** @jsxImportSource @/lib/localized-jsx */
 'use client';
 import Link from '@/components/site-link';
 import {FileText,ExternalLink} from 'lucide-react';

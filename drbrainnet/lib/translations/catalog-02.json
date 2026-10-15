@@ -1,0 +1,946 @@
+{
+  "03 / CLINICAL EVIDENCE": [
+    "03 / 临床证据",
+    "03 / EVIDENCIA CLÍNICA"
+  ],
+  "Research relevant to": [
+    "相关研究：",
+    "Investigación relacionada con"
+  ],
+  "Independent scientific context. Product-specific efficacy studies were not identified in the supplied material.": [
+    "独立科学背景。所提供资料中未发现产品特定的疗效研究。",
+    "Contexto científico independiente. No se identificaron estudios de eficacia específicos del producto en el material aportado."
+  ],
+  "Clinical studies and related research on screening and imaging components; not validation of the full dementia-care pathway.": [
+    "针对筛查及影像组件的临床与相关研究，不代表整条认知障碍照护路径已获验证。",
+    "Estudios clínicos e investigación sobre componentes de cribado e imagen; no validan toda la vía de atención de la demencia."
+  ],
+  "Open a study to review its findings and evidence scope.": [
+    "打开研究查看结果及证据适用范围。",
+    "Abra un estudio para revisar sus resultados y el alcance de la evidencia."
+  ],
+  "Open the complete product evidence page": [
+    "打开完整产品证据页",
+    "Abrir la página completa de evidencia del producto"
+  ],
+  "04 / REGISTRATIONS": [
+    "04 / 注册信息",
+    "04 / REGISTROS"
+  ],
+  "Documented market presence.": [
+    "有文件记录的市场布局。",
+    "Presencia documentada en los mercados."
+  ],
+  "05 / RESOURCES": [
+    "05 / 资料",
+    "05 / RECURSOS"
+  ],
+  "Explore the material.": [
+    "查看资料。",
+    "Explorar el material."
+  ],
+  "English Brain Doctor report": [
+    "英文脑医生报告",
+    "Informe Brain Doctor en inglés"
+  ],
+  "Product overview": [
+    "产品概览",
+    "Resumen del producto"
+  ],
+  "Supplied child-development document; source branding may differ.": [
+    "所提供的儿童发展文件；原始品牌名称可能不同。",
+    "Documento aportado sobre desarrollo infantil; la marca de origen puede diferir."
+  ],
+  "Supplied product document.": [
+    "所提供的产品文件。",
+    "Documento del producto proporcionado."
+  ],
+  "Interactive English sample report.": [
+    "英文交互示例报告。",
+    "Informe de ejemplo interactivo en inglés."
+  ],
+  "Explore report": [
+    "查看报告",
+    "Explorar el informe"
+  ],
+  "Visit website": [
+    "访问网站",
+    "Visitar el sitio web"
+  ],
+  "Original product website": [
+    "原始产品网站",
+    "Sitio web original del producto"
+  ],
+  "Original YIWEI product information.": [
+    "医未产品原始信息。",
+    "Información original de productos YIWEI."
+  ],
+  "Visit source website": [
+    "访问来源网站",
+    "Visitar el sitio de origen"
+  ],
+  "EVIDENCE BY SOLUTION": [
+    "按方案查看证据",
+    "EVIDENCIA POR SOLUCIÓN"
+  ],
+  "Choose a care pathway.": [
+    "选择照护路径。",
+    "Elija una vía asistencial."
+  ],
+  "research references": [
+    "篇研究文献",
+    "referencias científicas"
+  ],
+  "Four product collections": [
+    "四组产品研究集",
+    "Cuatro colecciones por producto"
+  ],
+  "Independent research context": [
+    "独立研究背景",
+    "Contexto de investigación independiente"
+  ],
+  "RESEARCH, WITH CONTEXT": [
+    "结合背景解读研究",
+    "INVESTIGACIÓN EN CONTEXTO"
+  ],
+  "clinical evidence.": [
+    "临床证据。",
+    "evidencia clínica."
+  ],
+  "Clinical evidence.": [
+    "临床证据。",
+    "Evidencia clínica."
+  ],
+  "Study summaries, findings and original sources.": [
+    "研究摘要、结果与原始来源。",
+    "Resúmenes, resultados y fuentes originales."
+  ],
+  "Explore the research behind each care pathway.": [
+    "了解各照护路径背后的研究。",
+    "Explore la investigación que respalda cada vía asistencial."
+  ],
+  "Explore the": [
+    "了解",
+    "Explorar"
+  ],
+  "Product registrations": [
+    "产品注册信息",
+    "Registros del producto"
+  ],
+  "Listed articles provide independent scientific context. Product-specific clinical efficacy has not been verified in the supplied material.": [
+    "所列论文提供独立科学背景。所提供资料尚未验证产品特定的临床疗效。",
+    "Los artículos aportan contexto científico independiente. El material proporcionado no verifica la eficacia clínica específica del producto."
+  ],
+  "Studies support specific screening and imaging components. Each summary identifies its design and relevance to Dr.Brain™.": [
+    "研究支持特定的筛查和影像组件。各摘要说明研究设计及其与 Dr.Brain™ 的关联。",
+    "Los estudios respaldan componentes específicos de cribado e imagen. Cada resumen indica su diseño y relación con Dr.Brain™."
+  ],
+  "Study institutions are shown as author affiliations, without implying endorsement. Results apply to the studied technology and population.": [
+    "研究机构以作者单位形式展示，不代表背书。结果适用于所研究的技术和人群。",
+    "Las instituciones se muestran como afiliaciones de los autores, sin implicar respaldo. Los resultados se aplican a la tecnología y población estudiadas."
+  ],
+  "Search evidence by title, author, journal or institution": [
+    "按题名、作者、期刊或机构搜索证据",
+    "Buscar evidencia por título, autor, revista o institución"
+  ],
+  "Search studies or institutions…": [
+    "搜索研究或机构…",
+    "Buscar estudios o instituciones…"
+  ],
+  "Clear evidence search": [
+    "清除研究搜索",
+    "Borrar búsqueda"
+  ],
+  "Filter evidence by solution": [
+    "按方案筛选证据",
+    "Filtrar evidencia por solución"
+  ],
+  "Filter research collection": [
+    "筛选研究集",
+    "Filtrar colección de estudios"
+  ],
+  "All references": [
+    "全部文献",
+    "Todas las referencias"
+  ],
+  "YIWEI & product research": [
+    "医未与产品研究",
+    "Investigación de YIWEI y productos"
+  ],
+  "Independent context": [
+    "独立背景",
+    "Contexto independiente"
+  ],
+  "Selected research · Reviewed October 2026": [
+    "精选研究 · 2026年10月审核",
+    "Investigación seleccionada · Revisada en octubre de 2026"
+  ],
+  "No matching articles": [
+    "未找到匹配论文",
+    "No se encontraron artículos"
+  ],
+  "Try another study, institution or solution.": [
+    "请尝试其他研究、机构或方案。",
+    "Pruebe otro estudio, institución o solución."
+  ],
+  "AI & NEUROSCIENCE": [
+    "人工智能与脑科学",
+    "IA Y NEUROCIENCIA"
+  ],
+  "Brain science. Practical technologies.": [
+    "脑科学。实用技术。",
+    "Neurociencia. Tecnologías prácticas."
+  ],
+  "AI-powered brain imaging, cognitive assessment, and VR and tablet-based training.": [
+    "AI 脑影像、认知评估以及 VR 和平板训练。",
+    "Imagen cerebral con IA, evaluación cognitiva y entrenamiento con RV y tabletas."
+  ],
+  "Explore the technology": [
+    "了解技术",
+    "Explorar la tecnología"
+  ],
+  "FROM SCIENCE TO CLINICAL USE": [
+    "从科学到临床应用",
+    "DE LA CIENCIA AL USO CLÍNICO"
+  ],
+  "Measurements need context.": [
+    "测量需要结合背景。",
+    "Las mediciones necesitan contexto."
+  ],
+  "Quality checks and clinical review turn measurements into useful information.": [
+    "质量检查与临床复核，让测量转化为有用的信息。",
+    "Los controles de calidad y la revisión clínica convierten las mediciones en información útil."
+  ],
+  "Explore the reporting experience": [
+    "体验报告",
+    "Explorar los informes"
+  ],
+  "Acquire": [
+    "采集",
+    "Adquirir"
+  ],
+  "Use the required sequences or a suitable task environment.": [
+    "使用所需序列或适合的任务环境。",
+    "Utilice las secuencias necesarias o un entorno de tareas adecuado."
+  ],
+  "Measure": [
+    "测量",
+    "Medir"
+  ],
+  "Generate transparent, module-specific outputs.": [
+    "生成透明、针对模块的输出。",
+    "Genere resultados transparentes y específicos del módulo."
+  ],
+  "Verify": [
+    "核验",
+    "Verificar"
+  ],
+  "Review quality, findings and relevant evidence.": [
+    "复核质量、发现与相关证据。",
+    "Revise la calidad, los hallazgos y la evidencia pertinente."
+  ],
+  "Integrate": [
+    "整合",
+    "Integrar"
+  ],
+  "Bring results into the individual clinical pathway.": [
+    "将结果纳入个体化临床路径。",
+    "Incorpore los resultados a la vía clínica individual."
+  ],
+  "Skip to content": [
+    "跳至正文",
+    "Saltar al contenido"
+  ],
+  "Advancing Brain Health Through Science and AI": [
+    "以脑科学与人工智能推动脑健康",
+    "Impulsamos la salud cerebral con ciencia e IA"
+  ],
+  "Advancing Brain Health": [
+    "推动脑健康",
+    "Impulsamos la salud cerebral"
+  ],
+  "Through Science and AI": [
+    "以科学与人工智能",
+    "Con ciencia e IA"
+  ],
+  "YIWEI MEDICAL / AI & NEUROSCIENCE": [
+    "医未医疗 / 人工智能与脑科学",
+    "YIWEI MEDICAL / IA Y NEUROCIENCIA"
+  ],
+  "We bring together neuroscience, artificial intelligence, and digital technologies to make brain health assessment and care more accessible.": [
+    "我们融合脑科学、人工智能和数字技术，让脑健康评估与照护更加可及。",
+    "Combinamos neurociencia, inteligencia artificial y tecnologías digitales para facilitar el acceso a la evaluación y la atención de la salud cerebral."
+  ],
+  "YIWEI MEDICAL is a technology company focused on brain health. We develop solutions spanning AI-powered brain imaging analysis, cognitive assessment, and digital cognitive training.": [
+    "医未医疗是一家专注于脑健康的科技公司。我们的解决方案涵盖 AI 脑影像分析、认知评估和数字认知训练。",
+    "YIWEI MEDICAL es una empresa tecnológica centrada en la salud cerebral. Desarrollamos soluciones de análisis de imagen cerebral con IA, evaluación cognitiva y entrenamiento cognitivo digital."
+  ],
+  "Build the Future of": [
+    "携手共建",
+    "Construyamos el futuro de"
+  ],
+  "Brain Health With Us": [
+    "脑健康的未来",
+    "La salud cerebral"
+  ],
+  "We welcome conversations with healthcare providers, research institutions, and international distribution partners.": [
+    "欢迎医疗服务机构、科研机构和国际渠道伙伴与我们交流。",
+    "Invitamos a dialogar a proveedores sanitarios, instituciones de investigación y socios de distribución internacionales."
+  ],
+  "Connect with us to advance brain health through science and AI.": [
+    "与我们携手，以科学与人工智能推动脑健康。",
+    "Conecte con nosotros para impulsar la salud cerebral mediante la ciencia y la IA."
+  ],
+  "YIWEI MEDICAL brings together neuroscience, artificial intelligence, and digital technologies to make brain health assessment and care more accessible.": [
+    "医未医疗融合脑科学、人工智能与数字技术，让脑健康评估和照护更加可及。",
+    "YIWEI MEDICAL combina neurociencia, inteligencia artificial y tecnologías digitales para facilitar el acceso a la evaluación y la atención de la salud cerebral."
+  ],
+  "Products": [
+    "产品",
+    "Productos"
+  ],
+  "Technology": [
+    "技术",
+    "Tecnología"
+  ],
+  "Technology overview": [
+    "技术概览",
+    "Resumen tecnológico"
+  ],
+  "All clinical evidence": [
+    "全部临床证据",
+    "Toda la evidencia clínica"
+  ],
+  "About us": [
+    "关于我们",
+    "Sobre nosotros"
+  ],
+  "About YIWEI": [
+    "关于医未",
+    "Sobre YIWEI"
+  ],
+  "Reports": [
+    "报告",
+    "Informes"
+  ],
+  "Brain Health Report": [
+    "脑健康报告",
+    "Informe de salud cerebral"
+  ],
+  "Neurology": [
+    "神经内科",
+    "Neurología"
+  ],
+  "Rehabilitation": [
+    "康复",
+    "Rehabilitación"
+  ],
+  "Radiology": [
+    "放射科",
+    "Radiología"
+  ],
+  "Longevity": [
+    "长寿门诊",
+    "Longevidad"
+  ],
+  "All": [
+    "全部",
+    "Todos"
+  ],
+  "article": [
+    "篇论文",
+    "artículo"
+  ],
+  "articles": [
+    "篇论文",
+    "artículos"
+  ],
+  "Dementia care solution": [
+    "认知障碍照护方案",
+    "Solución para la atención de la demencia"
+  ],
+  "Screening, quantitative brain imaging and guided rehabilitation for dementia care.": [
+    "面向认知障碍照护的筛查、定量脑影像与引导式康复。",
+    "Cribado, imagen cerebral cuantitativa y rehabilitación guiada para la atención de la demencia."
+  ],
+  "Screening": [
+    "筛查",
+    "Cribado"
+  ],
+  "QuickMind eye-tracking and structured cognitive assessment support screening and referral.": [
+    "QuickMind 眼动与结构化认知评估支持筛查及转诊。",
+    "El seguimiento ocular y la evaluación cognitiva estructurada de QuickMind apoyan el cribado y la derivación."
+  ],
+  "Diagnosis": [
+    "诊断",
+    "Diagnóstico"
+  ],
+  "Quantitative MRI and Brain Doctor reports inform clinician-led diagnostic evaluation.": [
+    "定量 MRI 与脑医生报告为医生主导的诊断评估提供信息。",
+    "La RM cuantitativa y los informes Brain Doctor aportan información a la evaluación diagnóstica profesional."
+  ],
+  "QuickMind cognitive and motor practice supports individualized plans in the clinic and at home.": [
+    "QuickMind 认知与运动练习支持院内和居家的个体化计划。",
+    "La práctica cognitiva y motora QuickMind apoya planes individualizados en la clínica y en el hogar."
+  ],
+  "Memory and brain health clinics": [
+    "记忆与脑健康门诊",
+    "Clínicas de memoria y salud cerebral"
+  ],
+  "Community screening programs": [
+    "社区筛查项目",
+    "Programas de cribado comunitario"
+  ],
+  "Cognitive rehabilitation services": [
+    "认知康复服务",
+    "Servicios de rehabilitación cognitiva"
+  ],
+  "Senior care and clinician-guided home care": [
+    "养老照护与医生指导的居家照护",
+    "Atención a mayores y atención domiciliaria guiada por profesionales"
+  ],
+  "Screen: assess cognition and identify the need for further evaluation": [
+    "筛查：评估认知，识别进一步评估的需求",
+    "Cribado: evaluar la cognición e identificar la necesidad de ampliar la evaluación"
+  ],
+  "Diagnose: combine clinical assessment with quantitative imaging and reviewed reports": [
+    "诊断：结合临床评估、定量影像与已复核报告",
+    "Diagnóstico: combinar evaluación clínica, imagen cuantitativa e informes revisados"
+  ],
+  "Rehabilitate: set an individual plan, record practice and review progress": [
+    "康复：制定个体计划、记录训练并回顾进展",
+    "Rehabilitación: establecer un plan individual, registrar la práctica y revisar el progreso"
+  ],
+  "QuickMind overview": [
+    "QuickMind 概览",
+    "Resumen de QuickMind"
+  ],
+  "Screening and rehabilitation module within the Dr.Brain™ solution.": [
+    "Dr.Brain™ 方案中的筛查与康复模块。",
+    "Módulo de cribado y rehabilitación de la solución Dr.Brain™."
+  ],
+  "QuickMind home care": [
+    "QuickMind 居家照护",
+    "Atención domiciliaria QuickMind"
+  ],
+  "Explore the supported home configuration.": [
+    "了解所支持的居家配置。",
+    "Explore la configuración domiciliaria disponible."
+  ],
+  "Stroke care solution": [
+    "卒中照护方案",
+    "Solución para la atención del ictus"
+  ],
+  "AI-assisted brain imaging for stroke assessment and clinical review.": [
+    "面向卒中评估与临床复核的 AI 辅助脑影像。",
+    "Imagen cerebral asistida por IA para evaluar el ictus y apoyar la revisión clínica."
+  ],
+  "Non-contrast CT": [
+    "非增强 CT",
+    "TC sin contraste"
+  ],
+  "Hemorrhage identification, volume analysis and module-specific ASPECTS assessment.": [
+    "出血识别、体积分析与模块特定的 ASPECTS 评估。",
+    "Identificación de hemorragias, análisis de volumen y evaluación ASPECTS específica del módulo."
+  ],
+  "Vascular analysis": [
+    "血管分析",
+    "Análisis vascular"
+  ],
+  "Vessel reconstruction and analysis of occlusion, stenosis and vascular findings.": [
+    "血管重建与闭塞、狭窄等血管发现分析。",
+    "Reconstrucción vascular y análisis de oclusiones, estenosis y hallazgos vasculares."
+  ],
+  "Perfusion assessment": [
+    "灌注评估",
+    "Evaluación de perfusión"
+  ],
+  "Core, penumbra and mismatch measurements from supported CT or MR imaging.": [
+    "通过支持的 CT 或 MR 影像测量核心区、半暗带与不匹配区域。",
+    "Mediciones del núcleo, la penumbra y el desajuste a partir de imágenes de TC o RM compatibles."
+  ],
+  "Stroke centers and emergency pathways": [
+    "卒中中心与急诊流程",
+    "Centros de ictus y circuitos de urgencias"
+  ],
+  "Radiology departments": [
+    "放射科",
+    "Servicios de radiología"
+  ],
+  "Multidisciplinary stroke review": [
+    "卒中多学科复核",
+    "Revisión multidisciplinar del ictus"
+  ],
+  "Perfusion-imaging research": [
+    "灌注影像研究",
+    "Investigación de imagen de perfusión"
+  ],
+  "Import supported CT or MR imaging": [
+    "导入支持的 CT 或 MR 影像",
+    "Importar imágenes de TC o RM compatibles"
+  ],
+  "Generate module-specific measurements": [
+    "生成模块特定的测量结果",
+    "Generar mediciones específicas del módulo"
+  ],
+  "Review images, maps and segmentation": [
+    "复核图像、参数图与分割结果",
+    "Revisar imágenes, mapas y segmentaciones"
+  ],
+  "Use verified results in the clinical pathway": [
+    "将已核验结果用于临床路径",
+    "Utilizar resultados verificados en la vía clínica"
+  ],
+  "Autism support solution": [
+    "自闭症支持方案",
+    "Solución de apoyo al autismo"
+  ],
+  "Autism · VR + tablet": [
+    "自闭症 · VR + 平板",
+    "Autismo · RV + tableta"
+  ],
+  "VR and tablet practice for social attention and developmental skills.": [
+    "面向社会性注意与发展技能的 VR 和平板练习。",
+    "Práctica con RV y tabletas para la atención social y las habilidades del desarrollo."
+  ],
+  "Social-attention tasks": [
+    "社会性注意任务",
+    "Tareas de atención social"
+  ],
+  "Gaze activities examine social cues, where appropriate for the child.": [
+    "在适合儿童的情况下，通过眼动活动观察对社会线索的反应。",
+    "Las actividades de mirada examinan las señales sociales cuando resultan adecuadas para el niño."
+  ],
+  "Structured skill practice": [
+    "结构化技能练习",
+    "Práctica estructurada de habilidades"
+  ],
+  "VR and tablet activities support selected developmental goals.": [
+    "VR 与平板活动支持选定的发展目标。",
+    "Las actividades de RV y tableta apoyan objetivos de desarrollo seleccionados."
+  ],
+  "Family participation": [
+    "家庭参与",
+    "Participación familiar"
+  ],
+  "Caregivers and clinicians review training records and adapt the plan.": [
+    "照护者与医生共同回顾训练记录并调整计划。",
+    "Cuidadores y profesionales revisan los registros y adaptan el plan."
+  ],
+  "Developmental pediatrics": [
+    "发育行为儿科",
+    "Pediatría del desarrollo"
+  ],
+  "Autism rehabilitation services": [
+    "自闭症康复服务",
+    "Servicios de rehabilitación del autismo"
+  ],
+  "Individualized family-supported practice": [
+    "家庭支持的个体化练习",
+    "Práctica individualizada con apoyo familiar"
+  ],
+  "Social-attention research": [
+    "社会性注意研究",
+    "Investigación de la atención social"
+  ],
+  "Define individual developmental goals": [
+    "确定个体发展目标",
+    "Definir objetivos individuales de desarrollo"
+  ],
+  "Choose tolerable, age-appropriate activities": [
+    "选择可耐受、适龄的活动",
+    "Elegir actividades tolerables y adecuadas a la edad"
+  ],
+  "Monitor gaze, task responses and engagement": [
+    "监测眼动、任务反应与参与情况",
+    "Supervisar la mirada, las respuestas y la participación"
+  ],
+  "Review progress within the broader care plan": [
+    "在整体照护计划中回顾进展",
+    "Revisar el progreso dentro del plan general de atención"
+  ],
+  "ADHD support solution": [
+    "ADHD 支持方案",
+    "Solución de apoyo al TDAH"
+  ],
+  "ADHD · VR + tablet": [
+    "ADHD · VR + 平板",
+    "TDAH · RV + tableta"
+  ],
+  "Guided VR and tablet practice for attention and executive function.": [
+    "针对注意力与执行功能的引导式 VR 和平板练习。",
+    "Práctica guiada con RV y tabletas para la atención y las funciones ejecutivas."
+  ],
+  "Focused attention tasks": [
+    "专注力任务",
+    "Tareas de atención focalizada"
+  ],
+  "Sustained-attention practice with controlled distractors.": [
+    "在可控干扰下进行持续性注意练习。",
+    "Práctica de atención sostenida con distractores controlados."
+  ],
+  "Adaptive practice": [
+    "自适应练习",
+    "Práctica adaptativa"
+  ],
+  "Clinician-selected tasks with adjustable difficulty.": [
+    "由医生选择任务，难度可调。",
+    "Tareas seleccionadas por profesionales con dificultad ajustable."
+  ],
+  "Measurable sessions": [
+    "可量化训练",
+    "Sesiones cuantificables"
+  ],
+  "Responses, reaction times and errors support progress review.": [
+    "通过反应、反应时间和错误情况支持进展回顾。",
+    "Las respuestas, los tiempos de reacción y los errores apoyan la revisión del progreso."
+  ],
+  "Child development and rehabilitation clinics": [
+    "儿童发展与康复门诊",
+    "Clínicas de desarrollo y rehabilitación infantil"
+  ],
+  "Pediatric neurology services": [
+    "小儿神经科服务",
+    "Servicios de neurología pediátrica"
+  ],
+  "Clinician-guided family training": [
+    "医生指导的家庭训练",
+    "Entrenamiento familiar guiado por profesionales"
+  ],
+  "Attention and learning-support programs": [
+    "注意力与学习支持项目",
+    "Programas de apoyo a la atención y el aprendizaje"
+  ],
+  "Review the child’s clinical assessment": [
+    "回顾儿童的临床评估",
+    "Revisar la evaluación clínica del niño"
+  ],
+  "Select appropriate tasks and difficulty": [
+    "选择合适的任务与难度",
+    "Seleccionar tareas y dificultad adecuadas"
+  ],
+  "Record practice and tolerability": [
+    "记录训练与耐受情况",
+    "Registrar la práctica y la tolerabilidad"
+  ],
+  "Review task performance with family and clinician": [
+    "与家庭及医生共同回顾任务表现",
+    "Revisar el desempeño con la familia y el profesional"
+  ],
+  "Care settings": [
+    "应用场景",
+    "Entornos asistenciales"
+  ],
+  "Brain science & technology": [
+    "脑科学与技术",
+    "Neurociencia y tecnología"
+  ],
+  "Global registrations & compliance": [
+    "全球注册与合规",
+    "Registros y conformidad globales"
+  ],
+  "Clinical evidence:": [
+    "临床证据：",
+    "Evidencia clínica:"
+  ],
+  "Brain Doctor Report": [
+    "脑医生报告",
+    "Informe Brain Doctor"
+  ],
+  "Our solutions": [
+    "我们的方案",
+    "Nuestras soluciones"
+  ],
+  "Brain Doctor reports": [
+    "脑医生报告",
+    "Informes Brain Doctor"
+  ],
+  "About YIWEI MEDICAL": [
+    "关于医未医疗",
+    "Sobre YIWEI MEDICAL"
+  ],
+  "Connect with YIWEI MEDICAL": [
+    "联系医未医疗",
+    "Contactar con YIWEI MEDICAL"
+  ],
+  "Quantitative imaging AI": [
+    "定量影像 AI",
+    "IA de imagen cuantitativa"
+  ],
+  "Structure · Vessels · Perfusion": [
+    "结构 · 血管 · 灌注",
+    "Estructura · Vasos · Perfusión"
+  ],
+  "Quantitative imaging findings, structured for professional review and clinical workflows.": [
+    "结构化呈现定量影像发现，支持专业复核和临床流程。",
+    "Hallazgos cuantitativos de imagen estructurados para revisión profesional y flujos clínicos."
+  ],
+  "Supported CT, CTA, CT perfusion and MR sequences, depending on the module.": [
+    "根据模块支持 CT、CTA、CT 灌注及 MR 序列。",
+    "TC, angio-TC, perfusión por TC y secuencias de RM compatibles, según el módulo."
+  ],
+  "Regional measurements, vascular views and perfusion maps, with module-specific review.": [
+    "脑区测量、血管视图与灌注图，按模块进行复核。",
+    "Mediciones regionales, vistas vasculares y mapas de perfusión con revisión específica del módulo."
+  ],
+  "Brain structure": [
+    "脑结构",
+    "Estructura cerebral"
+  ],
+  "Dr.Brain™ quantifies regional MRI structure, including cognition-related regions and white-matter findings.": [
+    "Dr.Brain™ 量化脑区 MRI 结构，包括认知相关脑区和白质发现。",
+    "Dr.Brain™ cuantifica estructuras regionales de RM, incluidas regiones relacionadas con la cognición y hallazgos de sustancia blanca."
+  ],
+  "Stroke imaging": [
+    "卒中影像",
+    "Imagen del ictus"
+  ],
+  "RealNow™ brings together CT, vascular and perfusion analysis within the stroke-care pathway.": [
+    "RealNow™ 在卒中照护路径中整合 CT、血管与灌注分析。",
+    "RealNow™ integra análisis de TC, vascular y perfusión en la vía de atención del ictus."
+  ],
+  "English reporting": [
+    "英文报告",
+    "Informes en inglés"
+  ],
+  "Brain Doctor organizes source measurements, reference intervals and review notes in an English report.": [
+    "脑医生以英文报告整理原始测量、参考区间和复核说明。",
+    "Brain Doctor organiza mediciones fuente, intervalos de referencia y notas de revisión en un informe en inglés."
+  ],
+  "Generate the supported module’s measurements and maps.": [
+    "生成支持模块的测量与参数图。",
+    "Genere mediciones y mapas del módulo compatible."
+  ],
+  "Review segmentation and findings with the original images.": [
+    "结合原始影像复核分割与发现。",
+    "Revise la segmentación y los hallazgos junto con las imágenes originales."
+  ],
+  "Integrate verified results with the clinical assessment.": [
+    "将已核验结果与临床评估整合。",
+    "Integre los resultados verificados con la evaluación clínica."
+  ],
+  "Imaging capabilities and regulatory scope differ by module and market. RealNow™’s US FDA 510(k) clearance covers CT perfusion; it does not establish clearance of every imaging module.": [
+    "影像能力与监管范围因模块和市场而异。RealNow™ 的美国 FDA 510(k) 许可涵盖 CT 灌注，不代表所有影像模块均获许可。",
+    "Las capacidades y el alcance regulatorio varían según el módulo y el mercado. La autorización FDA 510(k) de RealNow™ cubre la perfusión por TC; no implica autorización de todos los módulos."
+  ],
+  "Eye-tracking measurement": [
+    "眼动测量",
+    "Medición del seguimiento ocular"
+  ],
+  "Gaze · Cognitive tasks · Research": [
+    "眼动 · 认知任务 · 研究",
+    "Mirada · Tareas cognitivas · Investigación"
+  ],
+  "Computerized tasks and eye-tracking measures to characterize cognitive performance.": [
+    "通过计算机化任务和眼动测量刻画认知表现。",
+    "Tareas informatizadas y mediciones oculares para caracterizar el rendimiento cognitivo."
+  ],
+  "A controlled task environment, suitable equipment and participant engagement.": [
+    "可控的任务环境、适当的设备和受试者参与。",
+    "Un entorno controlado, equipos adecuados y participación de la persona."
+  ],
+  "Task-specific gaze and response data for assessment and clinical review.": [
+    "提供任务特定的眼动与反应数据，用于评估和临床复核。",
+    "Datos de mirada y respuesta específicos de la tarea para evaluación y revisión clínica."
+  ],
+  "Structured assessment": [
+    "结构化评估",
+    "Evaluación estructurada"
+  ],
+  "QuickMind eye-tracking assessment sits within the screening stage of the Dr.Brain™ dementia-care solution.": [
+    "QuickMind 眼动评估属于 Dr.Brain™ 认知障碍照护方案的筛查阶段。",
+    "La evaluación ocular QuickMind forma parte del cribado en la solución Dr.Brain™ para la demencia."
+  ],
+  "Gaze as a data stream": [
+    "以眼动作为数据来源",
+    "La mirada como fuente de datos"
+  ],
+  "Controlled cognitive tasks provide gaze and response measurements for the studied assessment approach.": [
+    "受控认知任务提供眼动与反应测量，用于所研究的评估方法。",
+    "Las tareas cognitivas controladas aportan mediciones de mirada y respuesta para el método de evaluación estudiado."
+  ],
+  "Research in context": [
+    "结合背景解读研究",
+    "Investigación en contexto"
+  ],
+  "The VECA study evaluates VR, eye tracking and machine learning. Each study summary identifies its population and limitations.": [
+    "VECA 研究评估 VR、眼动与机器学习。各研究摘要均说明人群及局限。",
+    "El estudio VECA evalúa RV, seguimiento ocular y aprendizaje automático. Cada resumen identifica la población y sus limitaciones."
+  ],
+  "Prepare a suitable task environment.": [
+    "准备适当的任务环境。",
+    "Prepare un entorno de tareas adecuado."
+  ],
+  "Complete the structured cognitive activities.": [
+    "完成结构化认知活动。",
+    "Complete las actividades cognitivas estructuradas."
+  ],
+  "Review task performance and measurement quality.": [
+    "复核任务表现与测量质量。",
+    "Revise el rendimiento y la calidad de la medición."
+  ],
+  "Use the assessment alongside the clinical history and further evaluation.": [
+    "结合病史及进一步评估使用结果。",
+    "Utilice la evaluación junto con la historia clínica y pruebas adicionales."
+  ],
+  "Screening supports referral and further evaluation. Results from a research model do not establish international diagnostic performance or equivalence to every marketed version.": [
+    "筛查支持转诊及进一步评估。研究模型的结果不能确立国际诊断表现，也不能证明与所有上市版本等同。",
+    "El cribado apoya la derivación y evaluaciones adicionales. Los resultados de un modelo de investigación no establecen rendimiento diagnóstico internacional ni equivalencia con todas las versiones comercializadas."
+  ],
+  "View the QuickMind overview": [
+    "查看 QuickMind 概览",
+    "Ver el resumen de QuickMind"
+  ],
+  "VR · Tablet · Individualized practice": [
+    "VR · 平板 · 个体化练习",
+    "RV · Tableta · Práctica individualizada"
+  ],
+  "Immersive VR and interactive tablet activities for cognitive training and progress monitoring.": [
+    "沉浸式 VR 与互动平板活动，用于认知训练及进展监测。",
+    "Actividades inmersivas de RV e interactivas de tableta para entrenamiento cognitivo y seguimiento del progreso."
+  ],
+  "An individual care plan, appropriate activities and a tolerable training setting.": [
+    "个体照护计划、适当活动及可耐受的训练环境。",
+    "Un plan individual, actividades adecuadas y un entorno de entrenamiento tolerable."
+  ],
+  "Session records and task performance for clinician and caregiver progress review.": [
+    "通过训练记录与任务表现，供医生及照护者回顾进展。",
+    "Registros de sesiones y desempeño para que profesionales y cuidadores revisen el progreso."
+  ],
+  "Cognitive practice": [
+    "认知练习",
+    "Práctica cognitiva"
+  ],
+  "QuickMind supports cognitive and motor practice within Dr.Brain™’s rehabilitation pathway.": [
+    "QuickMind 在 Dr.Brain™ 康复路径中支持认知与运动练习。",
+    "QuickMind apoya la práctica cognitiva y motora en la vía de rehabilitación de Dr.Brain™."
+  ],
+  "Developmental activities": [
+    "发展技能活动",
+    "Actividades del desarrollo"
+  ],
+  "AutismShield™ uses VR and tablet activities for selected social-attention and developmental goals.": [
+    "AutismShield™ 通过 VR 和平板活动支持选定的社会性注意与发展目标。",
+    "AutismShield™ utiliza actividades de RV y tableta para objetivos seleccionados de atención social y desarrollo."
+  ],
+  "Attention practice": [
+    "注意力练习",
+    "Práctica de atención"
+  ],
+  "ForcusGenius™ provides clinician-guided attention and executive-function tasks, with session data for review.": [
+    "ForcusGenius™ 提供医生指导的注意力与执行功能任务，并记录训练数据以供回顾。",
+    "ForcusGenius™ ofrece tareas de atención y funciones ejecutivas guiadas por profesionales, con datos de sesiones para revisión."
+  ],
+  "Define goals with the clinician and family.": [
+    "与医生和家庭共同确定目标。",
+    "Defina los objetivos con el profesional y la familia."
+  ],
+  "Select activities, difficulty and an appropriate setting.": [
+    "选择活动、难度和适当环境。",
+    "Seleccione actividades, dificultad y un entorno adecuado."
+  ],
+  "Record practice, task responses and tolerability.": [
+    "记录练习、任务反应与耐受情况。",
+    "Registre la práctica, las respuestas y la tolerabilidad."
+  ],
+  "Review progress and adapt the individual plan.": [
+    "回顾进展并调整个体计划。",
+    "Revise el progreso y adapte el plan individual."
+  ],
+  "Training records support progress review. Product-specific treatment outcomes and home-care availability should be assessed for the relevant device, indication and market.": [
+    "训练记录支持进展回顾。具体治疗结局与居家使用供应情况，应按器械、适应范围和市场评估。",
+    "Los registros apoyan la revisión del progreso. Los resultados terapéuticos y la disponibilidad domiciliaria deben evaluarse según el dispositivo, la indicación y el mercado."
+  ],
+  "Cognition and stroke care.": [
+    "认知与卒中照护。",
+    "Atención cognitiva y del ictus."
+  ],
+  "Connect cognitive assessment and quantitative imaging with clinician-led neurological evaluation.": [
+    "将认知评估和定量影像与医生主导的神经系统评估相连接。",
+    "Conecte la evaluación cognitiva y la imagen cuantitativa con la evaluación neurológica profesional."
+  ],
+  "Product use example · Hospital cognitive assessment in Thailand": [
+    "产品使用示例 · 泰国医院认知评估",
+    "Ejemplo de uso · Evaluación cognitiva hospitalaria en Tailandia"
+  ],
+  "QuickMind cognitive screening, regional MRI review and individualized rehabilitation.": [
+    "QuickMind 认知筛查、区域 MRI 复核与个体化康复。",
+    "Cribado cognitivo QuickMind, revisión regional de RM y rehabilitación individualizada."
+  ],
+  "CT, vascular and perfusion outputs for multidisciplinary stroke assessment.": [
+    "为卒中多学科评估提供 CT、血管和灌注结果。",
+    "Resultados de TC, vasculares y de perfusión para la evaluación multidisciplinar del ictus."
+  ],
+  "Assess cognition and clinical history.": [
+    "评估认知并了解病史。",
+    "Evalúe la cognición y la historia clínica."
+  ],
+  "Review supported imaging and quantitative findings.": [
+    "复核支持的影像及定量发现。",
+    "Revise las imágenes compatibles y los hallazgos cuantitativos."
+  ],
+  "Set the care plan and arrange follow-up.": [
+    "制定照护计划并安排随访。",
+    "Establezca el plan de atención y el seguimiento."
+  ],
+  "Screening and image analysis support clinical evaluation. Device availability and intended use vary by module and market.": [
+    "筛查与影像分析支持临床评估。器械供应和预期用途因模块和市场而异。",
+    "El cribado y el análisis de imagen apoyan la evaluación clínica. La disponibilidad y el uso previsto varían según el módulo y el mercado."
+  ],
+  "Immersive, individualized practice.": [
+    "沉浸式、个体化练习。",
+    "Práctica inmersiva e individualizada."
+  ],
+  "Use VR and tablet activities within a clinician-selected plan, with session data for progress review.": [
+    "在医生选定计划中使用 VR 与平板活动，通过训练数据回顾进展。",
+    "Utilice RV y tabletas dentro de un plan seleccionado por el profesional, con datos para revisar el progreso."
+  ],
+  "Product use example · Original YIWEI clinic rehabilitation photo": [
+    "产品使用示例 · 医未原始门诊康复照片",
+    "Ejemplo de uso · Foto original de rehabilitación clínica de YIWEI"
+  ],
+  "QuickMind cognitive and motor practice in facilities, with supported home continuation.": [
+    "机构内的 QuickMind 认知和运动练习，可在支持下延续至家庭。",
+    "Práctica cognitiva y motora QuickMind en centros, con continuidad domiciliaria asistida."
+  ],
+  "VR and tablet activities for social attention and selected developmental goals.": [
+    "面向社会性注意与选定发展目标的 VR 和平板活动。",
+    "Actividades de RV y tableta para atención social y objetivos de desarrollo seleccionados."
+  ],
+  "Attention and executive-function tasks with adjustable difficulty.": [
+    "难度可调的注意力与执行功能任务。",
+    "Tareas de atención y funciones ejecutivas con dificultad ajustable."
+  ],
+  "Define goals and select appropriate activities.": [
+    "确定目标并选择适当活动。",
+    "Defina objetivos y seleccione actividades adecuadas."
+  ],
+  "Guide practice and record responses and tolerability.": [
+    "指导练习，记录反应与耐受情况。",
+    "Guíe la práctica y registre las respuestas y la tolerabilidad."
+  ],
+  "Review progress and adapt the next session.": [
+    "回顾进展并调整下一次训练。",
+    "Revise el progreso y adapte la siguiente sesión."
+  ],
+  "Tasks and home configurations follow the individual care plan. Screening research does not establish rehabilitation efficacy; product-specific treatment evidence requires review.": [
+    "任务和居家配置遵循个体照护计划。筛查研究不代表康复疗效，需审查产品特定的治疗证据。",
+    "Las tareas y configuraciones domiciliarias siguen el plan individual. La investigación de cribado no establece eficacia rehabilitadora; la evidencia terapéutica específica requiere revisión."
+  ],
+  "Imaging with quantitative context.": [
+    "以定量信息补充影像。",
+    "Imagen con contexto cuantitativo."
+  ],
+  "Bring structural MRI, vascular views and perfusion maps into specialist image review.": [
+    "将结构 MRI、血管视图与灌注图纳入专科影像复核。",
+    "Integre RM estructural, vistas vasculares y mapas de perfusión en la revisión especializada."
+  ],
+  "Product workflow example · Original RealNow™ perfusion interface": [
+    "产品流程示例 · RealNow™ 原始灌注界面",
+    "Ejemplo de flujo · Interfaz original de perfusión RealNow™"
+  ],
+  "Regional MRI measurements and structure-related findings for radiologist review.": [
+    "区域 MRI 测量与结构相关发现，供放射科医生复核。",
+    "Mediciones regionales de RM y hallazgos estructurales para revisión radiológica."
+  ]
+}

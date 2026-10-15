@@ -1,4 +1,7 @@
+/** @jsxImportSource @/lib/localized-jsx */
 'use client';
+import {useLocale} from '@/components/locale-provider';
+import {localizedHref} from '@/lib/i18n';
 import {useState} from 'react';
 import Link from '@/components/site-link';
 import {Breadcrumb} from '@/components/site-navigation';
@@ -27,9 +30,9 @@ export function ProductRegistrations({slug}:{slug:string}){
 }
 
 export function GlobalRegistrationsPage({initialMarket='all',initialSolution='all'}:{initialMarket?:string;initialSolution?:string}){
- const market=regulatoryRegions.some(r=>r.id===initialMarket)?initialMarket:'all';
+ const locale=useLocale();const market=regulatoryRegions.some(r=>r.id===initialMarket)?initialMarket:'all';
  const solution=initialSolution==='infrastructure'||products.some(p=>p.slug===initialSolution)?initialSolution:'all';
- const changeFilters=(nextMarket:string,nextSolution:string)=>{const query=new URLSearchParams();if(nextMarket!=='all')query.set('market',nextMarket);if(nextSolution!=='all')query.set('solution',nextSolution);window.location.assign('/about/global-registrations'+(query.size?'?'+query.toString():''))};
+ const changeFilters=(nextMarket:string,nextSolution:string)=>{const query=new URLSearchParams();if(nextMarket!=='all')query.set('market',nextMarket);if(nextSolution!=='all')query.set('solution',nextSolution);window.location.assign(localizedHref('/about/global-registrations'+(query.size?'?'+query.toString():''),locale))};
  const [record,setRecord]=useState<RegulatoryRecord|null>(null);const [expanded,setExpanded]=useState(false);
  const primary=regulatoryRecords.filter(r=>!r.supporting);
  const list=primary.filter(r=>(market==='all'||r.region===market)&&(solution==='all'||(solution==='infrastructure'?!r.products.length:r.products.includes(solution))));

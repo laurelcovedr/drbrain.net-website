@@ -1,3 +1,4 @@
+/** @jsxImportSource @/lib/localized-jsx */
 'use client';
 import {useState,type FormEvent} from 'react';
 import {Mail} from 'lucide-react';
