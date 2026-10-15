@@ -18,6 +18,9 @@ class Page(HTMLParser):
         self.script = False
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
+        assert tag not in {'img','iframe','object','embed','video','audio','image','use','foreignobject'}, 'Unapproved resource element'
+        assert not any(k.lower().startswith('on') for k in a), 'Inline event handler prohibited'
+        assert not any(k.lower() in {'src','srcset','xlink:href'} for k in a), 'External asset reference prohibited'
         if tag == 'h1': self.h1 += 1
         if tag == 'link' and a.get('rel') == 'canonical': self.canon.append(a['href'])
         if tag == 'meta' and a.get('name') == 'robots': self.robots.append(a['content'])
@@ -43,6 +46,8 @@ def validate(root=ROOT):
     expected |= {((r.strip('/')+'/') if r != '/' else '')+'index.html' for r in routes}
     actual = {p.relative_to(root/'dist').as_posix() for p in (root/'dist').rglob('*') if p.is_file()}
     assert actual == expected, 'Unexpected or missing build files: '+str(actual ^ expected)
+    css = (root/'dist/style.css').read_text()
+    assert not re.search(r'url\s*\(|@import',css,re.I), 'Remote or embedded CSS assets prohibited'
     count = 0
     for route in routes:
         raw = (root/'dist'/route.strip('/')/'index.html').read_text()
@@ -68,7 +73,7 @@ def validate(root=ROOT):
                     a = item['item']
                     assert a['abstract'] in visible and a['description'] in visible
         for href in p.links:
-            assert href in routes or href.startswith('https://doi.org/'), 'Unapproved target '+href
+            assert href == '#main' or href in routes or href.startswith('https://doi.org/'), 'Unapproved target '+href
     assert count == 16
     urls = {e.text for e in ET.parse(root/'dist/sitemap.xml').findall('.//{*}loc')}
     assert urls == {origin+r for r in routes}

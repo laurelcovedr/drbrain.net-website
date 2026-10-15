@@ -7,6 +7,7 @@ permissions:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -18,3 +19,14 @@ jobs:
       - run: node public-candidate/build.mjs
       - run: python public-candidate/validate.py
       - run: python public-candidate/test.py
+      - run: npm ci --prefix public-candidate --ignore-scripts
+      - run: npx --prefix public-candidate playwright install --with-deps chromium
+      - run: npm run test:browser --prefix public-candidate
+      - name: Save isolated candidate screenshots and browser results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: isolated-candidate-browser-review
+          path: public-candidate/browser-results/
+          if-no-files-found: warn
+          retention-days: 14
