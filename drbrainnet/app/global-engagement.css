@@ -64,3 +64,6 @@
 .article-source-links{display:flex;gap:12px 24px;flex-wrap:wrap;margin-top:15px}
 .article-source-links>a{display:inline-flex;align-items:center;gap:7px;color:#075abe;font-size:.8125rem;text-decoration:underline;text-underline-offset:4px}
 .article-source-links>a:hover{color:#033b7c}
+
+/* Prevent the tab underline from creating a vertical scrollbar. */
+.filter-tabs,.detail-tabs,.contact-tabs{overflow-y:hidden}

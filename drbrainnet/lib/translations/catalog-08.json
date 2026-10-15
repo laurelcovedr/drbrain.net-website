@@ -1,0 +1,142 @@
+{
+  "Close": [
+    "关闭",
+    "Cerrar"
+  ],
+  "study participants": [
+    "研究参与者",
+    "participantes del estudio"
+  ],
+  "correlation with MoCA": [
+    "与 MoCA 的相关性",
+    "correlación con MoCA"
+  ],
+  "reported sensitivity": [
+    "报告的敏感度",
+    "sensibilidad notificada"
+  ],
+  "reported specificity": [
+    "报告的特异度",
+    "especificidad notificada"
+  ],
+  "77 early-AD + 58 control participants": [
+    "77名早期AD患者 + 58名对照",
+    "77 pacientes con Alzheimer temprano + 58 controles"
+  ],
+  "combined-model AUC": [
+    "联合模型 AUC",
+    "AUC del modelo combinado"
+  ],
+  "hippocampal-volume AUC": [
+    "海马体积 AUC",
+    "AUC del volumen hipocampal"
+  ],
+  "Chinese MRI datasets": [
+    "中国 MRI 数据集",
+    "conjuntos chinos de RM"
+  ],
+  "174 CT + 420 MR cases": [
+    "174例CT + 420例MR病例",
+    "174 casos TC + 420 casos RM"
+  ],
+  "volume agreement, ICC": [
+    "体积一致性，ICC",
+    "concordancia de volumen, ICC"
+  ],
+  "CT / MR triage concordance": [
+    "CT / MR 分诊一致率",
+    "concordancia de triaje TC / RM"
+  ],
+  "community participants, age 65+": [
+    "65岁以上社区参与者",
+    "participantes comunitarios de 65 años o más"
+  ],
+  "MLP model AUC": [
+    "MLP 模型 AUC",
+    "AUC del modelo MLP"
+  ],
+  "postmortem tissue cases": [
+    "尸后组织病例",
+    "casos de tejido post mortem"
+  ],
+  "Alzheimer’s / control cases": [
+    "阿尔茨海默病 / 对照病例",
+    "casos de Alzheimer / controles"
+  ],
+  "clinical MRI cases": [
+    "临床 MRI 病例",
+    "casos clínicos de RM"
+  ],
+  "open evaluation datasets": [
+    "开放评估数据集",
+    "conjuntos abiertos de evaluación"
+  ],
+  "clinical case": [
+    "临床病例",
+    "caso clínico"
+  ],
+  "healthy scans for measurement comparison": [
+    "用于测量比较的健康扫描",
+    "estudios sanos para comparar mediciones"
+  ],
+  "Alzheimer’s cases + controls": [
+    "阿尔茨海默病病例 + 对照",
+    "casos de Alzheimer + controles"
+  ],
+  "probable Alzheimer’s disease cases": [
+    "很可能阿尔茨海默病病例",
+    "casos de probable Alzheimer"
+  ],
+  "mild / moderate / severe groups": [
+    "轻度 / 中度 / 重度组",
+    "grupos leve / moderado / grave"
+  ],
+  "retrospective clinical cases": [
+    "回顾性临床病例",
+    "casos clínicos retrospectivos"
+  ],
+  "Alzheimer’s / FTLD cases": [
+    "阿尔茨海默病 / 额颞叶变性病例",
+    "casos de Alzheimer / degeneración frontotemporal"
+  ],
+  "participants per clinical group": [
+    "每个临床组参与者",
+    "participantes por grupo clínico"
+  ],
+  "volunteers, age 51–82": [
+    "51–82岁志愿者",
+    "voluntarios de 51–82 años"
+  ],
+  "cognitive subtests": [
+    "认知分测试",
+    "subpruebas cognitivas"
+  ],
+  "automated vs manual scoring, r": [
+    "自动与手工评分相关系数r",
+    "puntuación automática frente a manual, r"
+  ],
+  "acute-stroke cases": [
+    "急性卒中病例",
+    "casos de ictus agudo"
+  ],
+  "RealNow™ vs reference, ICC": [
+    "RealNow™与参考的一致性ICC",
+    "RealNow™ frente a referencia, ICC"
+  ],
+  "reported RealNow™ AUC": [
+    "报告的 RealNow™ AUC",
+    "AUC notificada de RealNow™"
+  ],
+  "participants with paired MRI / PET": [
+    "具有配对MRI / PET的参与者",
+    "participantes con RM / PET pareadas"
+  ],
+  "amyloid-status accuracy, external sets": [
+    "外部数据集淀粉样蛋白状态准确率",
+    "precisión del estado amiloide en conjuntos externos"
+  ],
+  "of": [
+    "/",
+    "de"
+  ]
+}

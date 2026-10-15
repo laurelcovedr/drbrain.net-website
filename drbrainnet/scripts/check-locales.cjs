@@ -12,11 +12,12 @@ for(const p of seoPages.filter(p=>!p.legacy)){
  const content=html.replace(/<details class="language-menu"[\s\S]*?<\/details>/g,'');
  for(const m of content.matchAll(/href="(\/(?!\/)[^"?#]*)/g)){if(/^\/(products|technology|evidence|care-settings|reports|about|contact)(\/|$)/.test(m[1])){assert.fail('unlocalized internal link '+m[1]+' on '+locale+p.path);}}
  if(p.path==='/'){assert(html.includes(locale==='zh'?'推动脑健康':'Impulsamos la salud cerebral'));assert(html.includes(locale==='zh'?'四大聚焦方案':'Cuatro soluciones específicas'));}
+ if(p.path==='/evidence'){assert(html.includes(locale==='zh'?'按方案筛选证据':'Filtrar evidencia por solución'));assert(!html.includes('aria-label="Filter evidence by solution"'));}
  if(p.path==='/contact')for(const attr of ['name="name"','name="email"','name="message"','required=""'])assert(html.includes(attr),'form contract changed');
  count++;}
 }
 assert.equal(i18n.localizedHref('/products/dr-brain?source=qa#questions','es'),'/es/products/dr-brain?source=qa#questions');assert.equal(i18n.localizedHref('/resources/research/veca.pdf','zh'),'/resources/research/veca.pdf');assert.equal(i18n.localizedHref('https://example.com','zh'),'https://example.com');
 for(const value of missing)assert(preserved.has(value),'Untranslated user-facing text: '+value);
 const {products,articles}=require('../lib/yiwei-data.ts');const {productQuestions}=require('../lib/yiwei-faq.ts');
-for(const locale of ['zh','es']){for(const a of articles)for(const key of ['title','summary','limits'])assert.notEqual(i18n.translate(a[key],locale),a[key],'Untranslated research '+a.id+' '+key);for(const p of products){assert.notEqual(i18n.translate(p.description,locale),p.description);for(const q of productQuestions[p.slug])for(const key of ['question','answer'])assert.notEqual(i18n.translate(q[key],locale),q[key]);}}
+for(const locale of ['zh','es']){for(const a of articles){for(const key of ['title','summary','limits'])assert.notEqual(i18n.translate(a[key],locale),a[key],'Untranslated research '+a.id+' '+key);for(const metric of a.metrics||[])assert.notEqual(i18n.translate(metric.label,locale),metric.label,'Untranslated study metric '+a.id);}for(const p of products){assert.notEqual(i18n.translate(p.description,locale),p.description);for(const q of productQuestions[p.slug])for(const key of ['question','answer'])assert.notEqual(i18n.translate(q[key],locale),q[key]);}}
 fs.writeFileSync('/tmp/untranslated.json',JSON.stringify([...missing],null,2));console.log(JSON.stringify({localized_pages_checked:count,same_dom_and_classes:true,form_contract_preserved:true,preserved_names_and_identifiers:missing.size,untranslated_editorial_texts:0}));

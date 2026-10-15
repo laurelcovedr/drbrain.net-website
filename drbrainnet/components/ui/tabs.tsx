@@ -1,6 +1,8 @@
 "use client"
 
 import * as React from "react"
+import {useLocale} from "@/components/locale-provider"
+import {translate} from "@/lib/i18n"
 import { cva, type VariantProps } from "class-variance-authority"
 import { Tabs as TabsPrimitive } from "radix-ui"
 
@@ -46,12 +48,14 @@ function TabsList({
   ...props
 }: React.ComponentProps<typeof TabsPrimitive.List> &
   VariantProps<typeof tabsListVariants>) {
+  const locale=useLocale();
   return (
     <TabsPrimitive.List
       data-slot="tabs-list"
       data-variant={variant}
       className={cn(tabsListVariants({ variant }), className)}
       {...props}
+      aria-label={props["aria-label"]?translate(props["aria-label"],locale):undefined}
     />
   )
 }

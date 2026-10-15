@@ -1,6 +1,8 @@
 "use client"
 
 import * as React from "react"
+import {useLocale} from "@/components/locale-provider"
+import {translate} from "@/lib/i18n"
 import { CheckIcon, ChevronDownIcon, ChevronUpIcon } from "lucide-react"
 import { Select as SelectPrimitive } from "radix-ui"
 
@@ -32,6 +34,7 @@ function SelectTrigger({
 }: React.ComponentProps<typeof SelectPrimitive.Trigger> & {
   size?: "sm" | "default"
 }) {
+  const locale=useLocale();
   return (
     <SelectPrimitive.Trigger
       data-slot="select-trigger"
@@ -41,6 +44,7 @@ function SelectTrigger({
         className
       )}
       {...props}
+      aria-label={props["aria-label"]?translate(props["aria-label"],locale):undefined}
     >
       {children}
       <SelectPrimitive.Icon asChild>
