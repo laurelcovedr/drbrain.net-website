@@ -1,0 +1,39 @@
+{
+  "base": "http://127.0.0.1:3100",
+  "widths": [
+    768
+  ],
+  "source": null,
+  "runtime": "Next.js 16.3.4 local development preview",
+  "mobile": true,
+  "touch": true,
+  "pages": [],
+  "interactions": [
+    {
+      "name": "en-768 search and dialog",
+      "passed": true
+    },
+    {
+      "name": "en-768 report pagination",
+      "passed": true
+    },
+    {
+      "name": "zh-768 search and dialog",
+      "passed": true
+    },
+    {
+      "name": "zh-768 report pagination",
+      "passed": true
+    },
+    {
+      "name": "es-768 search and dialog",
+      "passed": true
+    },
+    {
+      "name": "es-768 report pagination",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "browser": "153.0.8010.0"
+}

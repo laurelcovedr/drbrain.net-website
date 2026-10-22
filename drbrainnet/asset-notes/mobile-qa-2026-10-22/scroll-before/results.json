@@ -1,0 +1,74 @@
+{
+  "base": "http://127.0.0.1:3100",
+  "widths": [
+    360,
+    375,
+    390,
+    768
+  ],
+  "pages": [],
+  "interactions": [
+    {
+      "name": "en-360 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "zh-360 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "es-360 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "en-375 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "zh-375 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "es-375 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "en-390 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "zh-390 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "es-390 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "en-768 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "zh-768 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    },
+    {
+      "name": "es-768 search and dialog",
+      "passed": false,
+      "error": "close button must remain reachable after scrolling the study"
+    }
+  ],
+  "errors": [],
+  "browser": "153.0.8010.0"
+}
