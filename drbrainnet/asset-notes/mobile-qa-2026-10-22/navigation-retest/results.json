@@ -1,0 +1,66 @@
+{
+  "base": "http://127.0.0.1:3100",
+  "widths": [
+    360,
+    375,
+    390,
+    768
+  ],
+  "source": null,
+  "runtime": "Next.js 16.3.4 local development preview",
+  "mobile": true,
+  "touch": true,
+  "pages": [],
+  "interactions": [
+    {
+      "name": "en-375 navigation",
+      "passed": true
+    },
+    {
+      "name": "en-360 navigation",
+      "passed": true
+    },
+    {
+      "name": "zh-360 navigation",
+      "passed": true
+    },
+    {
+      "name": "zh-375 navigation",
+      "passed": true
+    },
+    {
+      "name": "es-375 navigation",
+      "passed": true
+    },
+    {
+      "name": "es-360 navigation",
+      "passed": true
+    },
+    {
+      "name": "en-768 navigation",
+      "passed": true
+    },
+    {
+      "name": "en-390 navigation",
+      "passed": true
+    },
+    {
+      "name": "zh-768 navigation",
+      "passed": true
+    },
+    {
+      "name": "zh-390 navigation",
+      "passed": true
+    },
+    {
+      "name": "es-768 navigation",
+      "passed": true
+    },
+    {
+      "name": "es-390 navigation",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "browser": "153.0.8010.0"
+}
