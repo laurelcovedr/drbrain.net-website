@@ -4,6 +4,7 @@ import {careSettings} from './yiwei-care-settings';
 export type NavigationEntry = {slug:string;label:string;description:string};
 export type NavigationSection = {slug:string;label:string;overview:string;children:NavigationEntry[]};
 export const navigation:NavigationSection[] = [
+  {slug:'care-settings',label:'Care Settings',overview:'All care settings',children:careSettings.map(s=>({slug:s.slug,label:s.label,description:s.focus}))},
   {slug:'products',label:'Products',overview:'All solutions',children:products.map(p=>({slug:p.slug,label:p.name,description:p.subtitle}))},
   {slug:'technology',label:'Technology',overview:'Technology overview',children:[
     {slug:'imaging-ai',label:'Imaging AI',description:'Quantitative structure, vascular and perfusion analysis'},
@@ -11,7 +12,6 @@ export const navigation:NavigationSection[] = [
     {slug:'digital-rehabilitation',label:'Digital rehabilitation',description:'Clinician-guided VR and tablet practice'},
   ]},
   {slug:'evidence',label:'Clinical evidence',overview:'All clinical evidence',children:products.map(p=>({slug:p.slug,label:p.name,description:p.subtitle}))},
-  {slug:'care-settings',label:'Care Settings',overview:'All care settings',children:careSettings.map(s=>({slug:s.slug,label:s.label,description:s.focus}))},
   {slug:'about',label:'About us',overview:'About YIWEI',children:[
     {slug:'company',label:'Company profile',description:'Brain science, AI and clinical collaboration'},
     {slug:'global-in-practice',label:'Global in practice',description:'Original field photos across nine markets and regions'},

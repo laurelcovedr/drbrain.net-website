@@ -138,5 +138,29 @@
   "of": [
     "/",
     "de"
+  ],
+  "Request a demo": [
+    "预约演示",
+    "Solicitar una demostración"
+  ],
+  "Request a demo.": [
+    "预约演示。",
+    "Solicitar una demostración."
+  ],
+  "Explore care settings": [
+    "探索临床应用场景",
+    "Explorar entornos asistenciales"
+  ],
+  "Related care settings": [
+    "相关临床场景",
+    "Entornos asistenciales relacionados"
+  ],
+  "Care setting": [
+    "临床场景",
+    "Entorno asistencial"
+  ],
+  "Not specified": [
+    "未指定",
+    "Sin especificar"
   ]
 }

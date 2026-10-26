@@ -202,3 +202,9 @@ footer{background:#07172c;color:#b9cfe3}.footer-brand{border-color:#29415a}.foot
 /* Acceptance 2026-10-26: keep captions readable on light product image frames. */
 .product-hero-art.with-photo:not(.imaging-frame) .art-label,
 .product-hero-art.with-photo:not(.imaging-frame) .product-image-caption{color:#526b7c}
+
+/* Keep contextual paths within the existing visual system. */
+.related-care-settings{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 28px}
+.setting-end-links{flex-wrap:wrap}
+
+.contact-field select{width:100%;min-width:0;min-height:48px;border:1px solid #b7ccd9;border-radius:4px;background:#fff;padding:10px 12px;font:inherit;color:#183d56}.contact-field select:focus-visible{outline:2px solid #1476e8;outline-offset:2px}
