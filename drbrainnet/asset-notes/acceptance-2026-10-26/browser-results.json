@@ -1,0 +1,931 @@
+{
+  "date": "2026-10-26",
+  "baseline_version": 28,
+  "published_version": 29,
+  "desktop": [
+    {
+      "failedImages": [],
+      "h1": "Advancing Brain HealthThrough Science and AI",
+      "lang": "en",
+      "path": "/",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Our solutions.",
+      "lang": "en",
+      "path": "/products",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Dr.Brain™Dementia care solution",
+      "lang": "en",
+      "path": "/products/dr-brain",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "RealNow™Stroke care solution",
+      "lang": "en",
+      "path": "/products/realnow",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "AutismShield™Autism support solution",
+      "lang": "en",
+      "path": "/products/autismshield",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "ForcusGenius™ADHD support solution",
+      "lang": "en",
+      "path": "/products/forcus",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Brain science. Practical technologies.",
+      "lang": "en",
+      "path": "/technology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Quantitative imaging AI.",
+      "lang": "en",
+      "path": "/technology/imaging-ai",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Eye-tracking measurement.",
+      "lang": "en",
+      "path": "/technology/eye-tracking",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Digital rehabilitation.",
+      "lang": "en",
+      "path": "/technology/digital-rehabilitation",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Clinical evidence.",
+      "lang": "en",
+      "path": "/evidence",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Dr.Brain™ clinical evidence.",
+      "lang": "en",
+      "path": "/evidence/dr-brain",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "RealNow™ clinical evidence.",
+      "lang": "en",
+      "path": "/evidence/realnow",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "AutismShield™ clinical evidence.",
+      "lang": "en",
+      "path": "/evidence/autismshield",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "ForcusGenius™ clinical evidence.",
+      "lang": "en",
+      "path": "/evidence/forcus",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Care settings.",
+      "lang": "en",
+      "path": "/care-settings",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Neurology Department.",
+      "lang": "en",
+      "path": "/care-settings/neurology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Rehabilitation Department.",
+      "lang": "en",
+      "path": "/care-settings/rehabilitation",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Radiology Department.",
+      "lang": "en",
+      "path": "/care-settings/radiology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Longevity Clinic.",
+      "lang": "en",
+      "path": "/care-settings/longevity",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Advancing Brain HealthThrough Science and AI",
+      "lang": "en",
+      "path": "/about",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "The People AdvancingBrain Health.",
+      "lang": "en",
+      "path": "/about/company",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Real settings.Connected brain care.",
+      "lang": "en",
+      "path": "/about/global-in-practice",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Global reach.Product-specific records.",
+      "lang": "en",
+      "path": "/about/global-registrations",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Contact.",
+      "lang": "en",
+      "path": "/contact",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Brain Doctor reports.",
+      "lang": "en",
+      "path": "/reports",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Brain Health Report.",
+      "lang": "en",
+      "path": "/reports/brain-health",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "推动脑健康以科学与人工智能",
+      "lang": "zh-CN",
+      "path": "/zh",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "我们的解决方案。",
+      "lang": "zh-CN",
+      "path": "/zh/products",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Dr.Brain™认知障碍照护方案",
+      "lang": "zh-CN",
+      "path": "/zh/products/dr-brain",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "RealNow™卒中照护方案",
+      "lang": "zh-CN",
+      "path": "/zh/products/realnow",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "AutismShield™自闭症支持方案",
+      "lang": "zh-CN",
+      "path": "/zh/products/autismshield",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "ForcusGenius™ADHD 支持方案",
+      "lang": "zh-CN",
+      "path": "/zh/products/forcus",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "脑科学。实用技术。",
+      "lang": "zh-CN",
+      "path": "/zh/technology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "定量影像 AI.",
+      "lang": "zh-CN",
+      "path": "/zh/technology/imaging-ai",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "眼动测量.",
+      "lang": "zh-CN",
+      "path": "/zh/technology/eye-tracking",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "数字康复.",
+      "lang": "zh-CN",
+      "path": "/zh/technology/digital-rehabilitation",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "临床证据。",
+      "lang": "zh-CN",
+      "path": "/zh/evidence",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Dr.Brain™ 临床证据。",
+      "lang": "zh-CN",
+      "path": "/zh/evidence/dr-brain",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "RealNow™ 临床证据。",
+      "lang": "zh-CN",
+      "path": "/zh/evidence/realnow",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "AutismShield™ 临床证据。",
+      "lang": "zh-CN",
+      "path": "/zh/evidence/autismshield",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "ForcusGenius™ 临床证据。",
+      "lang": "zh-CN",
+      "path": "/zh/evidence/forcus",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "应用场景。",
+      "lang": "zh-CN",
+      "path": "/zh/care-settings",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "神经内科。",
+      "lang": "zh-CN",
+      "path": "/zh/care-settings/neurology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "康复科。",
+      "lang": "zh-CN",
+      "path": "/zh/care-settings/rehabilitation",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "放射科。",
+      "lang": "zh-CN",
+      "path": "/zh/care-settings/radiology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "长寿门诊。",
+      "lang": "zh-CN",
+      "path": "/zh/care-settings/longevity",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "推动脑健康以科学与人工智能",
+      "lang": "zh-CN",
+      "path": "/zh/about",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "共同推进脑健康。",
+      "lang": "zh-CN",
+      "path": "/zh/about/company",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "真实场景。连接脑健康照护。",
+      "lang": "zh-CN",
+      "path": "/zh/about/global-in-practice",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "全球布局。按产品呈现记录。",
+      "lang": "zh-CN",
+      "path": "/zh/about/global-registrations",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "联系我们。",
+      "lang": "zh-CN",
+      "path": "/zh/contact",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "脑医生报告。",
+      "lang": "zh-CN",
+      "path": "/zh/reports",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "脑健康报告。",
+      "lang": "zh-CN",
+      "path": "/zh/reports/brain-health",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Impulsamos la salud cerebralCon ciencia e IA",
+      "lang": "es",
+      "path": "/es",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Nuestras soluciones.",
+      "lang": "es",
+      "path": "/es/products",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Dr.Brain™Solución para la atención de la demencia",
+      "lang": "es",
+      "path": "/es/products/dr-brain",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "RealNow™Solución para la atención del ictus",
+      "lang": "es",
+      "path": "/es/products/realnow",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "AutismShield™Solución de apoyo al autismo",
+      "lang": "es",
+      "path": "/es/products/autismshield",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "ForcusGenius™Solución de apoyo al TDAH",
+      "lang": "es",
+      "path": "/es/products/forcus",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Neurociencia. Tecnologías prácticas.",
+      "lang": "es",
+      "path": "/es/technology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "IA de imagen cuantitativa.",
+      "lang": "es",
+      "path": "/es/technology/imaging-ai",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Medición del seguimiento ocular.",
+      "lang": "es",
+      "path": "/es/technology/eye-tracking",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Rehabilitación digital.",
+      "lang": "es",
+      "path": "/es/technology/digital-rehabilitation",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Evidencia clínica.",
+      "lang": "es",
+      "path": "/es/evidence",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Evidencia clínica de Dr.Brain™.",
+      "lang": "es",
+      "path": "/es/evidence/dr-brain",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Evidencia clínica de RealNow™.",
+      "lang": "es",
+      "path": "/es/evidence/realnow",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Evidencia clínica de AutismShield™.",
+      "lang": "es",
+      "path": "/es/evidence/autismshield",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Evidencia clínica de ForcusGenius™.",
+      "lang": "es",
+      "path": "/es/evidence/forcus",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Entornos asistenciales.",
+      "lang": "es",
+      "path": "/es/care-settings",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Servicio de neurología.",
+      "lang": "es",
+      "path": "/es/care-settings/neurology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Servicio de rehabilitación.",
+      "lang": "es",
+      "path": "/es/care-settings/rehabilitation",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Servicio de radiología.",
+      "lang": "es",
+      "path": "/es/care-settings/radiology",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Clínica de longevidad.",
+      "lang": "es",
+      "path": "/es/care-settings/longevity",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Impulsamos la salud cerebralCon ciencia e IA",
+      "lang": "es",
+      "path": "/es/about",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Las personas que impulsanLa salud cerebral.",
+      "lang": "es",
+      "path": "/es/about/company",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Entornos reales.Atención cerebral conectada.",
+      "lang": "es",
+      "path": "/es/about/global-in-practice",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Alcance global.Registros por producto.",
+      "lang": "es",
+      "path": "/es/about/global-registrations",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Contacto.",
+      "lang": "es",
+      "path": "/es/contact",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Informes Brain Doctor.",
+      "lang": "es",
+      "path": "/es/reports",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    },
+    {
+      "failedImages": [],
+      "h1": "Informe de salud cerebral.",
+      "lang": "es",
+      "path": "/es/reports/brain-health",
+      "scrollWidth": 1348,
+      "unlabelledControls": [],
+      "width": 1363
+    }
+  ],
+  "contrastRegression": [
+    {
+      "labels": [
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        },
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        }
+      ],
+      "path": "/products/autismshield",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        },
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        }
+      ],
+      "path": "/products/forcus",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        },
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        }
+      ],
+      "path": "/products/dr-brain",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        },
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        }
+      ],
+      "path": "/products/realnow",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        },
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        }
+      ],
+      "path": "/zh/products/autismshield",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        },
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        }
+      ],
+      "path": "/zh/products/forcus",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        },
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        }
+      ],
+      "path": "/zh/products/dr-brain",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        },
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        }
+      ],
+      "path": "/zh/products/realnow",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        },
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        }
+      ],
+      "path": "/es/products/autismshield",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        },
+        {
+          "bg": "rgb(241, 244, 246)",
+          "color": "rgb(82, 107, 124)"
+        }
+      ],
+      "path": "/es/products/forcus",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        },
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        }
+      ],
+      "path": "/es/products/dr-brain",
+      "scrollWidth": 1348,
+      "width": 1363
+    },
+    {
+      "labels": [
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        },
+        {
+          "bg": "rgb(11, 29, 50)",
+          "color": "rgb(223, 234, 240)"
+        }
+      ],
+      "path": "/es/products/realnow",
+      "scrollWidth": 1348,
+      "width": 1363
+    }
+  ],
+  "responsive": {
+    "verified": false,
+    "methodAttempted": "local fixed-width iframe at 390px",
+    "blocker": "sites-preview reports running; browser net::ERR_CONNECTION_REFUSED; API lacks viewport resize"
+  },
+  "interactions": {
+    "keyboardLanguageSwitch": true,
+    "contactPurposeAndProductSelection": true,
+    "nativeInvalidFormValidation": true,
+    "evidenceFilterLocalePreserved": true,
+    "emptyResultsReset": true,
+    "modalEscapeClose": true
+  }
+}
