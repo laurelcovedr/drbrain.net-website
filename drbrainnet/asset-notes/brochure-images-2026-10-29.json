@@ -1,0 +1,123 @@
+[
+  {
+    "id": "adhd-headset",
+    "source": "LumiBrain_ADHD_Product_Manual_Refined.pdf",
+    "page": 1,
+    "xref": 23,
+    "source_sha256": "e250624c6c748d07ad4653423372aa0d76ae8c7d0009a1a0101e60bc48886253",
+    "width": 1233,
+    "height": 1275
+  },
+  {
+    "id": "adhd-training",
+    "source": "LumiBrain_ADHD_Product_Manual_Refined.pdf",
+    "page": 4,
+    "xref": 80,
+    "source_sha256": "e250624c6c748d07ad4653423372aa0d76ae8c7d0009a1a0101e60bc48886253",
+    "width": 1600,
+    "height": 918
+  },
+  {
+    "id": "adhd-care",
+    "source": "LumiBrain_ADHD_Product_Manual_Refined.pdf",
+    "page": 4,
+    "xref": 91,
+    "source_sha256": "e250624c6c748d07ad4653423372aa0d76ae8c7d0009a1a0101e60bc48886253",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "id": "portable-kit",
+    "source": "LumiBrain_ADHD_Product_Manual_Refined.pdf",
+    "page": 6,
+    "xref": 143,
+    "source_sha256": "e250624c6c748d07ad4653423372aa0d76ae8c7d0009a1a0101e60bc48886253",
+    "width": 1551,
+    "height": 1014
+  },
+  {
+    "id": "portable-pro",
+    "source": "LumiBrain_ADHD_Product_Manual_Refined.pdf",
+    "page": 6,
+    "xref": 145,
+    "source_sha256": "e250624c6c748d07ad4653423372aa0d76ae8c7d0009a1a0101e60bc48886253",
+    "width": 1151,
+    "height": 1367
+  },
+  {
+    "id": "clinical-workstation",
+    "source": "LumiBrain_ADHD_Product_Manual_Refined.pdf",
+    "page": 6,
+    "xref": 141,
+    "source_sha256": "e250624c6c748d07ad4653423372aa0d76ae8c7d0009a1a0101e60bc48886253",
+    "width": 1118,
+    "height": 1407
+  },
+  {
+    "id": "home-rehabilitation",
+    "source": "VR_Home_Rehabilitation_Spacing_PRINT.pdf",
+    "page": 1,
+    "xref": 7,
+    "source_sha256": "f167cbfcd0babd54a5de4492569dee55e6ba551a81badb13677dfee7ae4e1baa",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "id": "asd-family",
+    "source": "LumiBrain ASD 彩页.pdf",
+    "page": 1,
+    "xref": 244,
+    "source_sha256": "da861db39619930d0f1b7025177c78c7dcf43cc8b8991cd8c9b2d3d6c022ef5b",
+    "width": 502,
+    "height": 332
+  },
+  {
+    "id": "asd-device",
+    "source": "LumiBrain ASD 彩页.pdf",
+    "page": 1,
+    "xref": 247,
+    "source_sha256": "da861db39619930d0f1b7025177c78c7dcf43cc8b8991cd8c9b2d3d6c022ef5b",
+    "width": 451,
+    "height": 252
+  },
+  {
+    "id": "asd-emotions",
+    "source": "LumiBrain ASD 彩页.pdf",
+    "page": 2,
+    "xref": 184,
+    "source_sha256": "da861db39619930d0f1b7025177c78c7dcf43cc8b8991cd8c9b2d3d6c022ef5b",
+    "width": 500,
+    "height": 284
+  },
+  {
+    "id": "asd-social",
+    "source": "LumiBrain ASD 彩页.pdf",
+    "page": 2,
+    "xref": 185,
+    "source_sha256": "da861db39619930d0f1b7025177c78c7dcf43cc8b8991cd8c9b2d3d6c022ef5b",
+    "width": 478,
+    "height": 297
+  },
+  {
+    "id": "mobile-clinical-unit",
+    "source": "1012 Brain Renew .pdf",
+    "page": 5,
+    "xref": 1037,
+    "source_sha256": "6cb3e6d59d2485343e3405b633d866abaf9f6f2a0b74342a3358549e4b6bcb1c",
+    "width": 900,
+    "height": 1600
+  },
+  {
+    "id": "quickmind-device-range",
+    "source": "QuickMind brochure.pdf",
+    "page": 2,
+    "clip": [
+      29.88110986328125,
+      640.14,
+      1056.5106701660156,
+      928.884
+    ],
+    "width": 1644,
+    "height": 463
+  }
+]

@@ -1,6 +1,8 @@
+import {brochureImages} from './brochure-media';
 export type MediaImage={id:string;src:string;title:string;alt:string;caption:string;source:string;width:number;height:number;illustrative?:boolean;viewport?:{x:number;y:number;width:number;height:number}};
 const image=(id:string,title:string,alt:string,caption:string,source:string,width:number,height:number):MediaImage=>({id,src:'/media/'+id+'.webp',title,alt,caption,source,width,height});
 export const mediaImages:MediaImage[]=[
+ ...brochureImages,
  {id:'autismshield-care-illustration',src:'/media/autismshield-care-illustration.webp',title:'Social-attention practice',alt:'Illustration of a child practicing social cues on a tablet with a therapist, with a VR headset on the table',caption:'An illustrative care scenario for AutismShield™: therapist-guided social-attention practice using a tablet, with VR as a complementary activity format. This is a concept illustration, not an actual product interface.',source:'/products/autismshield',width:1536,height:1024,illustrative:true},
  {id:'bp-quickmind-device',src:'/media/bp/quickmind-device.png',title:'QuickMind assessment system',alt:'QuickMind VR headset, controllers and connected tablet',caption:'Original device illustration from YIWEI’s September 2026 overseas presentation, slide 7.',source:'/products/dr-brain',width:714,height:680},
  {id:'bp-structural-mri',src:'/media/bp/structural-mri.webp',title:'Structural MRI examples',alt:'Sagittal MRI examples showing regional structural patterns',caption:'Original imaging examples from YIWEI’s overseas presentation, slide 11. Illustrative material for clinical review, without an individual diagnosis.',source:'/technology/imaging-ai',width:867,height:355},
@@ -42,7 +44,7 @@ export const productMedia:Record<string,string[]>={
  'autismshield':['autismshield-care-illustration'],
  'forcus':['quickmind-space-game','quickmind-training-scene'],
 };
-export const productCover:Record<string,string>={'dr-brain':'drbrain-mri-views','realnow':'realnow-perfusion','autismshield':'autismshield-care-illustration','forcus':'quickmind-space-game'};
+export const productCover:Record<string,string>={'dr-brain':'drbrain-mri-views','realnow':'realnow-perfusion','autismshield':'brochure-asd-family','forcus':'brochure-adhd-headset'};
 export const technologyMedia:Record<string,string[]>={
  'imaging-ai':['drbrain-mri-views','realnow-perfusion','realnow-vessels'],
  'eye-tracking':['bp-quickmind-device','quickmind-report'],

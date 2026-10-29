@@ -7,7 +7,7 @@ import {getMediaImage} from '@/lib/yiwei-media';
 import {demoHref} from '@/lib/contact-context';
 const tours:Record<string,{title:string;text:string;image?:string}[]>={
  'dr-brain':[
-  {title:'Assess cognition',text:'See the headset and task environment used for clinician-led cognitive assessment.',image:'quickmind-screening'},
+  {title:'Assess cognition',text:'Explore a portable headset and controller configuration from the supplied product brochure.',image:'brochure-portable-kit'},
   {title:'Review quantitative imaging',text:'Explore regional MRI views. Image quality and individual clinical context require specialist review.',image:'drbrain-mri-views'},
   {title:'Review the output',text:'Open the sample Brain Health Report to review the reporting structure with your clinical team.'},
  ],
