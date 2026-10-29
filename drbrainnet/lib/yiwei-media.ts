@@ -47,8 +47,8 @@ export const productMedia:Record<string,string[]>={
 export const productCover:Record<string,string>={'dr-brain':'drbrain-mri-views','realnow':'realnow-perfusion','autismshield':'brochure-asd-family','forcus':'brochure-adhd-headset'};
 export const technologyMedia:Record<string,string[]>={
  'imaging-ai':['drbrain-mri-views','realnow-perfusion','realnow-vessels'],
- 'eye-tracking':['bp-quickmind-device','quickmind-report'],
- 'digital-rehabilitation':['quickmind-home','bp-clinic-practice'],
+ 'eye-tracking':['brochure-portable-kit','brochure-portable-pro','brochure-clinical-workstation'],
+ 'digital-rehabilitation':['brochure-home-rehabilitation','brochure-asd-social','brochure-adhd-training','brochure-clinical-workstation','brochure-mobile-clinical-unit'],
 };
 export const quickmindVideo={src:'/media/quickmind-demonstration.mp4',poster:'/media/quickmind-screening.webp',source:'https://quickmindstore.com/wp-content/uploads/2025/12/video/quickmind.mp4'};
 export const companyLogo={src:'/media/yiwei-logo.png',source:'https://www.drbrain.net/images/logo-w.png',alt:'YIWEI MEDICAL official company logo',width:180,height:68};

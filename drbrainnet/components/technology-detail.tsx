@@ -13,9 +13,9 @@ import {products,articles,type Article} from '@/lib/yiwei-data';
 export function TechnologyDetail({slug,onOpen}:{slug:string;onOpen:(a:Article)=>void}){
   const technology=technologies.find(t=>t.slug===slug)!;
   const related=products.filter(p=>technology.products.includes(p.slug));
-  const visual=getMediaImage(slug==='imaging-ai'?'drbrain-mri-views':slug==='eye-tracking'?'quickmind-screening':'quickmind-home');
+  const visual=getMediaImage(slug==='imaging-ai'?'drbrain-mri-views':slug==='eye-tracking'?'brochure-portable-kit':'brochure-home-rehabilitation');
   return <div className="container section technology-detail"><Breadcrumb section="technology" detail={technology.label}/>
-    <div className="technology-detail-hero"><div className="page-intro"><span className="eyebrow">{technology.kicker}</span><h1>{technology.label}.</h1><p>{technology.summary}</p></div><figure className={"technology-hero-image "+(slug==='imaging-ai'?'imaging-frame':'')}><ProductImage image={visual}/><figcaption>{visual.title} · Original product imagery</figcaption></figure></div>
+    <div className="technology-detail-hero"><div className="page-intro"><span className="eyebrow">{technology.kicker}</span><h1>{technology.label}.</h1><p>{technology.summary}</p></div><figure className={"technology-hero-image "+(slug==='imaging-ai'?'imaging-frame':'')}><ProductImage image={visual} priority/><figcaption>{visual.title}</figcaption></figure></div>
     <div className="technology-io"><div><span className="eyebrow">INPUT</span><p>{technology.input}</p></div><div><span className="eyebrow">OUTPUT FOR REVIEW</span><p>{technology.output}</p></div></div>
     <section className="technology-detail-section"><span className="eyebrow">CAPABILITIES</span><h2>From measurement to care.</h2><div className="feature-grid">{technology.features.map((f,i)=><article key={f.title}><span className="feature-number">0{i+1}</span><h3>{f.title}</h3><p>{f.text}</p></article>)}</div></section>
     <section className="technology-detail-section"><div className="section-heading"><div><span className="eyebrow">CLINICAL WORKFLOW</span><h2>How it fits.</h2></div></div><div className="technology-workflow">{technology.workflow.map((w,i)=><div key={w}><span>0{i+1}</span><p>{w}</p></div>)}</div><div className="report-notice">{technology.note}</div></section>

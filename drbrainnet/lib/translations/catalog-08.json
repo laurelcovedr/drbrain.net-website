@@ -538,5 +538,9 @@
   "Explore a portable headset and controller configuration from the supplied product brochure.": [
     "查看用户提供彩页中的便携式头显与控制器配置。",
     "Explore una configuración portátil de visor y mandos del folleto facilitado."
+  ],
+  "Product configurations and training scenes from supplied brochures. Availability and supported functions depend on the selected device and market.": [
+    "来自产品彩页的设备配置与训练场景。供应情况及支持功能以具体设备和市场为准。",
+    "Configuraciones y escenas de entrenamiento de los folletos proporcionados. La disponibilidad y las funciones dependen del dispositivo y del mercado."
   ]
 }
