@@ -1,4 +1,5 @@
 import {env} from 'cloudflare:workers';
+import {notifyInquiry} from '@/lib/inquiry-notifications';
 import {validateInquiry} from '@/lib/inquiry-validation';
 export async function POST(request:Request){
  const headers={'Cache-Control':'no-store'};
@@ -17,6 +18,7 @@ export async function POST(request:Request){
  const count=await env.DB.prepare('SELECT COUNT(*) AS n FROM inquiries WHERE rate_key=? AND created_at>?').bind(rateKey,Date.now()-3600000).first<{n:number}>();
  if((count?.n||0)>=5)return reply({error:'rate'},429);
  await env.DB.prepare('INSERT INTO inquiries (id,created_at,name,email,organization,role,country,message,purpose,solution,care_setting,locale,rate_key) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)').bind(body.id,Date.now(),body.name,body.email,body.organization,body.role,body.country,body.message,body.purpose,body.solution,body.careSetting,body.locale,rateKey).run();
+ await notifyInquiry(body.id,new URL(request.url).origin).catch(()=>{});
  return reply({id:body.id,status:'received'},201);
  }catch{return reply({error:'unavailable'},503)}
 }

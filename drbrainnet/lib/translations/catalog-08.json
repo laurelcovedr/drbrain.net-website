@@ -258,5 +258,137 @@
   "Virtual Brain cognitive-assessment and training software is documented under the documented MDACS listing.": [
     "Virtual Brain 认知评估与训练软件已有文件所载 MDACS 列名。",
     "El software de evaluación y entrenamiento cognitivo Virtual Brain consta en el listado MDACS documentado."
+  ],
+  "Product quick tour": [
+    "产品快速导览",
+    "Recorrido rápido del producto"
+  ],
+  "Explore original product views. This guided overview does not run an assessment or analyze patient data.": [
+    "浏览产品原始界面。本导览不会执行评估或分析患者数据。",
+    "Explore vistas originales del producto. Este recorrido no realiza evaluaciones ni analiza datos de pacientes."
+  ],
+  "Product tour steps": [
+    "产品导览步骤",
+    "Pasos del recorrido"
+  ],
+  "Assess cognition": [
+    "评估认知功能",
+    "Evaluar la cognición"
+  ],
+  "See the headset and task environment used for clinician-led cognitive assessment.": [
+    "查看医生指导下认知评估所用的头显与任务环境。",
+    "Vea el visor y el entorno de tareas para la evaluación cognitiva guiada por profesionales."
+  ],
+  "Review quantitative imaging": [
+    "复核定量影像",
+    "Revisar imágenes cuantitativas"
+  ],
+  "Explore regional MRI views. Image quality and individual clinical context require specialist review.": [
+    "浏览区域 MRI 视图。影像质量及个体临床背景需由专科医生复核。",
+    "Explore vistas regionales de RM. La calidad de imagen y el contexto clínico requieren revisión especializada."
+  ],
+  "Review the output": [
+    "查看输出报告",
+    "Revisar los resultados"
+  ],
+  "See a cognitive report example and discuss how results inform the next clinical step.": [
+    "查看认知报告示例，讨论如何用结果辅助下一步临床安排。",
+    "Vea un informe cognitivo de ejemplo y cómo puede orientar el siguiente paso clínico."
+  ],
+  "Review CT findings": [
+    "复核 CT 发现",
+    "Revisar hallazgos de TC"
+  ],
+  "See the original CT analysis interface. Applicable inputs and modules must be confirmed before use.": [
+    "查看原始 CT 分析界面，使用前需确认适用输入与模块。",
+    "Vea la interfaz original de análisis de TC. Confirme las entradas y módulos aplicables antes del uso."
+  ],
+  "Explore vascular views": [
+    "浏览血管视图",
+    "Explorar vistas vasculares"
+  ],
+  "Review the vascular reconstruction example alongside the source images and specialist interpretation.": [
+    "结合原始影像和专科医生解读，查看血管重建示例。",
+    "Revise la reconstrucción vascular junto con las imágenes fuente y la interpretación especializada."
+  ],
+  "Inspect perfusion outputs": [
+    "查看灌注输出",
+    "Examinar resultados de perfusión"
+  ],
+  "Explore perfusion maps and measurements. Outputs support, rather than replace, clinical decisions.": [
+    "浏览灌注图和测量值。输出用于辅助临床决策，不能替代医生判断。",
+    "Explore mapas y mediciones de perfusión. Los resultados apoyan las decisiones clínicas sin sustituirlas."
+  ],
+  "Previous step": [
+    "上一步",
+    "Paso anterior"
+  ],
+  "Next step": [
+    "下一步",
+    "Paso siguiente"
+  ],
+  "Plan your deployment": [
+    "规划部署",
+    "Planificar la implementación"
+  ],
+  "Use this checklist to scope a demonstration and technical evaluation with our team.": [
+    "使用以下清单，与团队明确演示和技术评估的范围。",
+    "Use esta lista para definir la demostración y evaluación técnica con nuestro equipo."
+  ],
+  "Before the demonstration": [
+    "演示之前",
+    "Antes de la demostración"
+  ],
+  "Share your country, care setting, intended users and preferred product modules.": [
+    "请提供国家或地区、临床场景、预期用户及关注的产品模块。",
+    "Indique país, entorno asistencial, usuarios previstos y módulos de interés."
+  ],
+  "During technical evaluation": [
+    "技术评估阶段",
+    "Durante la evaluación técnica"
+  ],
+  "Confirm required imaging sequences, image quality, output formats and any PACS or reporting interfaces.": [
+    "确认所需影像序列、影像质量、输出格式，以及 PACS 或报告系统接口需求。",
+    "Confirme secuencias, calidad de imagen, formatos de salida e interfaces con PACS o informes."
+  ],
+  "Confirm the supported headset or tablet, training environment, user supervision and reporting needs.": [
+    "确认适配的头显或平板、训练环境、使用监督及报告需求。",
+    "Confirme el visor o tableta compatible, entorno de entrenamiento, supervisión y necesidades de informes."
+  ],
+  "Before rollout": [
+    "正式部署之前",
+    "Antes de la puesta en marcha"
+  ],
+  "Agree on local availability, deployment configuration, data handling, training, support and acceptance criteria.": [
+    "共同确认当地供应、部署配置、数据处理、培训支持及验收标准。",
+    "Acuerde disponibilidad local, configuración, tratamiento de datos, formación, soporte y criterios de aceptación."
+  ],
+  "Integration, hosting location, response times and service terms are confirmed for each project. This page does not promise a specific interface or installation time.": [
+    "接口集成、托管位置、响应时间和服务条款需逐项目确认。本页不承诺特定接口或安装时间。",
+    "Integraciones, alojamiento, tiempos de respuesta y condiciones se confirman por proyecto. Esta página no garantiza una interfaz ni un plazo de instalación."
+  ],
+  "Discuss deployment requirements": [
+    "讨论部署需求",
+    "Consultar requisitos de implementación"
+  ],
+  "Deployment": [
+    "部署说明",
+    "Implementación"
+  ],
+  "Explore CT regional overlays from the product presentation. Source images and findings require specialist review.": [
+    "浏览产品演示中的 CT 区域叠加图。原始影像与发现需由专科医生复核。",
+    "Explore superposiciones regionales de TC de la presentación. Las imágenes y hallazgos requieren revisión especializada."
+  ],
+  "Review evidence and scope": [
+    "查看证据与适用范围",
+    "Revisar evidencia y alcance"
+  ],
+  "Open the product evidence page to review study findings, limitations and module-specific scope before planning an evaluation.": [
+    "在安排评估前，打开产品证据页查看研究发现、局限及模块适用范围。",
+    "Antes de planificar una evaluación, revise los resultados, limitaciones y alcance de cada módulo en la página de evidencia."
+  ],
+  "Open the sample Brain Health Report to review the reporting structure with your clinical team.": [
+    "打开脑健康报告示例，与临床团队一起查看报告结构。",
+    "Abra el informe de salud cerebral de ejemplo para revisar su estructura con el equipo clínico."
   ]
 }
