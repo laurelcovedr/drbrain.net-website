@@ -7,6 +7,7 @@ export function translate(text:string,locale:Locale):string{
  const translated=(catalog as Record<string,string[]>)[key]?.[locale==='zh'?0:1];
  if(translated)return text.replace(/\S[\s\S]*\S|\S/,translated);
  const patterns: [RegExp,(m:RegExpMatchArray)=>string][]=[
+ [/^(\d+) records\. Open a record for its registered scope and public summary\.$/,m=>locale==='zh'?`${m[1]} 条记录。打开记录查看适用范围与公开摘要。`:`${m[1]} registros. Abra uno para ver su alcance y resumen público.`],
  [/^(.+) \| (.+)$/,m=>`${translate(m[1],locale)} | ${translate(m[2],locale)}`],
  [/^(.+™) (Dementia Care|Stroke Imaging AI|Autism Support|ADHD Support|Clinical Evidence)$/,m=>`${m[1]} · ${translate(m[2],locale)}`],
  [/^(.+) Explore workflows, relevant solutions, and the scope of supporting research\.$/,m=>translate(m[1],locale)+(locale==='zh'?' 了解流程、相关方案及研究证据范围。':' Explore los flujos, las soluciones y el alcance de la investigación.')],

@@ -10,7 +10,7 @@ export const regulatoryRegions:RegulatoryRegion[]=[
     "id": "united-states",
     "name": "United States",
     "label": "FDA 510(k)",
-    "summary": "RealNow™ CT perfusion software received FDA 510(k) clearance under K213891."
+    "summary": "RealNow™ CT perfusion software received FDA 510(k) clearance for the documented module."
   },
   {
     "id": "europe",
@@ -34,7 +34,7 @@ export const regulatoryRegions:RegulatoryRegion[]=[
     "id": "hong-kong",
     "name": "Hong Kong",
     "label": "Department of Health · MDACS",
-    "summary": "Virtual Brain cognitive-assessment and training software is documented under MDACS listing 261055."
+    "summary": "Virtual Brain cognitive-assessment and training software is documented under the documented MDACS listing."
   },
   {
     "id": "brazil",
@@ -50,7 +50,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "china",
     "title": "DrBrain-AD",
     "registeredName": "MRI Image-Assisted Assessment Software · DrBrain-AD, release 1.0",
-    "number": "NMPA 20233211362",
+    "number": "••••••",
     "kind": "Medical device registration",
     "issuer": "National Medical Products Administration (NMPA)",
     "date": "19 September 2023; address amendment 23 December 2025",
@@ -60,16 +60,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "dr-brain"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Registration certificate",
-        "url": "/resources/registrations/drbrain-ad-cn.pdf"
-      },
-      {
-        "title": "2025 registration amendment",
-        "url": "/resources/registrations/drbrain-ad-cn-amendment.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -78,7 +69,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "china",
     "title": "Intracranial hemorrhage triage",
     "registeredName": "Intracranial Hemorrhage CT Image-Assisted Triage Software",
-    "number": "NMPA 20243210666",
+    "number": "••••••",
     "kind": "Registration amendment",
     "issuer": "National Medical Products Administration (NMPA)",
     "date": "4 January 2026",
@@ -88,12 +79,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "realnow"
     ],
-    "sourceDocuments": [
-      {
-        "title": "2026 registration amendment",
-        "url": "/resources/registrations/ich-cn-amendment.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -102,7 +88,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "china",
     "title": "TIHip MRI processing",
     "registeredName": "MRI Image Processing Software · TIHip association from the supplied file label",
-    "number": "Guangdong MPA 20212210359",
+    "number": "••••••",
     "kind": "Registration amendment",
     "issuer": "Guangdong Medical Products Administration",
     "date": "18 December 2025",
@@ -112,12 +98,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "dr-brain"
     ],
-    "sourceDocuments": [
-      {
-        "title": "2025 registration amendment",
-        "url": "/resources/registrations/tihip-cn-amendment.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -126,7 +107,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "china",
     "title": "RealNow™ perfusion imaging",
     "registeredName": "Medical Image Processing Software · RealNow, release V1.0",
-    "number": "Guangdong MPA 20222210075",
+    "number": "••••••",
     "kind": "Medical device registration",
     "issuer": "Guangdong Medical Products Administration",
     "date": "26 January 2022",
@@ -136,12 +117,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "realnow"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Registration certificate",
-        "url": "/resources/registrations/realnow-cn.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -150,7 +126,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "china",
     "title": "RealNow+ brain imaging",
     "registeredName": "Brain Medical Image Processing Software · RealNow+ association from the supplied file label",
-    "number": "Guangdong MPA 20232210283",
+    "number": "••••••",
     "kind": "Registration amendment",
     "issuer": "Guangdong Medical Products Administration",
     "date": "6 November 2024",
@@ -160,12 +136,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "realnow"
     ],
-    "sourceDocuments": [
-      {
-        "title": "2024 registration amendment",
-        "url": "/resources/registrations/realnow-plus-cn-amendment.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -174,7 +145,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "china",
     "title": "RealNow-iCTA",
     "registeredName": "Medical Image Processing Software · RealNow-iCTA association from the supplied file label",
-    "number": "Guangdong MPA 20232210162",
+    "number": "••••••",
     "kind": "Registration amendment",
     "issuer": "Guangdong Medical Products Administration",
     "date": "24 December 2025",
@@ -184,12 +155,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "realnow"
     ],
-    "sourceDocuments": [
-      {
-        "title": "2025 registration amendment",
-        "url": "/resources/registrations/realnow-icta-cn-amendment.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -198,7 +164,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "china",
     "title": "LIMPIO image infrastructure",
     "registeredName": "Medical Image Storage and Transmission Software · LIMPIO",
-    "number": "Guangdong MPA 20222210168",
+    "number": "••••••",
     "kind": "Medical device registration",
     "issuer": "Guangdong Medical Products Administration",
     "date": "30 January 2022",
@@ -206,12 +172,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "scope": "Storage, transmission, management and display of medical images.",
     "note": "The registered scope excludes automatic diagnosis. This is supporting company imaging infrastructure, rather than registration of one of the four solution lines.",
     "products": [],
-    "sourceDocuments": [
-      {
-        "title": "Registration certificate",
-        "url": "/resources/registrations/limpio-cn.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -220,7 +181,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "china",
     "title": "TIPACS image infrastructure",
     "registeredName": "Medical Image Transmission and Processing Software · TIPACS",
-    "number": "Guangdong MPA 20202210069",
+    "number": "••••••",
     "kind": "Medical device registration",
     "issuer": "Guangdong Medical Products Administration",
     "date": "8 January 2024; effective 15 January 2025",
@@ -228,12 +189,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "scope": "Reception, transmission, storage, display and management of medical images.",
     "note": "The registered scope excludes automatic diagnosis. The certificate is company infrastructure documentation and retains the original registration number.",
     "products": [],
-    "sourceDocuments": [
-      {
-        "title": "Registration certificate",
-        "url": "/resources/registrations/tipacs-cn.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -242,7 +198,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "united-states",
     "title": "RealNow™ · FDA 510(k) clearance",
     "registeredName": "RealNow · Medical image management and processing system",
-    "number": "K213891",
+    "number": "••••••",
     "kind": "FDA 510(k) clearance",
     "issuer": "U.S. Food and Drug Administration",
     "date": "24 February 2023",
@@ -252,26 +208,17 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "realnow"
     ],
-    "sourceDocuments": [
-      {
-        "title": "FDA clearance letter",
-        "url": "/resources/registrations/realnow-fda-k213891.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Matched to the published FDA clearance package",
     "identifierLabel": "Record number",
-    "classification": "Class II · 21 CFR 892.2050 · LLZ",
-    "officialSource": {
-      "title": "FDA clearance and indications for use",
-      "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213891.pdf"
-    }
+    "classification": "Class II · 21 CFR 892.2050 · LLZ"
   },
   {
     "id": "virtual-brain-third-party-us",
     "region": "united-states",
     "title": "Virtual Brain · third-party record",
     "registeredName": "Virtual Brain",
-    "number": "3029991455",
+    "number": "••••••",
     "kind": "Third-party registration statement",
     "issuer": "RCT Testing (not FDA)",
     "date": "8 May 2024",
@@ -279,18 +226,9 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "scope": "The third-party document reports an establishment registration and device-listing record for YIWEI and Virtual Brain.",
     "note": "This is a private third-party statement, not an FDA-issued certificate or device clearance. FDA registration and listing do not constitute approval or clearance. It is retained as supporting documentation and is not used as a product-approval badge.",
     "products": [],
-    "sourceDocuments": [
-      {
-        "title": "Third-party statement (non-official)",
-        "url": "/resources/registrations/virtual-brain-third-party-us.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Establishment number reported by the third party",
-    "officialSource": {
-      "title": "FDA explanation of registration and listing",
-      "url": "https://www.fda.gov/medical-devices/device-registration-and-listing/important-reminders-about-registration-and-listing"
-    },
     "supporting": true
   },
   {
@@ -298,7 +236,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "europe",
     "title": "Dr. Brain TIHip · CE-related record",
     "registeredName": "Dr. Brain · Medical Image Processing Software · TIHip Version 1",
-    "number": "DIMDI Anzeige 00303939",
+    "number": "••••••",
     "kind": "Historical CE compliance documentation",
     "issuer": "Supplied Verification of Compliance bearing DIMDI details",
     "date": "1 May 2020",
@@ -308,12 +246,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "dr-brain"
     ],
-    "sourceDocuments": [
-      {
-        "title": "2020 Verification of Compliance",
-        "url": "/resources/registrations/tihip-europe-2020.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number",
     "classification": "Class I as stated in the 2020 document"
@@ -323,7 +256,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "europe",
     "title": "Dr. Brain White Matter · CE-related record",
     "registeredName": "Dr. Brain White Matter · Medical Image Processing Software",
-    "number": "DIMDI Anzeige 00312717",
+    "number": "••••••",
     "kind": "Historical CE compliance documentation",
     "issuer": "Supplied Verification of Compliance bearing DIMDI details",
     "date": "31 July 2020",
@@ -333,12 +266,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "dr-brain"
     ],
-    "sourceDocuments": [
-      {
-        "title": "2020 Verification of Compliance",
-        "url": "/resources/registrations/white-matter-europe-2020.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number",
     "classification": "Class I as stated in the 2020 document"
@@ -348,7 +276,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "europe",
     "title": "Cognitive VR · German notification",
     "registeredName": "VR Cognitive Assessment and Rehab Training System",
-    "number": "DE/CA20/00215136",
+    "number": "••••••",
     "kind": "Class I notification documentation",
     "issuer": "Crealkraft GmbH / German Office of Suzhou Care-Real Medical Technology; authority named: Bezirksregierung Düsseldorf",
     "date": "Registration stated: 23 April 2026; certificate dated 15 May 2026",
@@ -358,12 +286,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "dr-brain"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Certificate of registration",
-        "url": "/resources/registrations/vr-cognitive-germany.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number",
     "classification": "Class I as stated in the certificate"
@@ -373,7 +296,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "europe",
     "title": "Attention VR · German notification",
     "registeredName": "VR Attention Assessment and Rehab Training System",
-    "number": "DE/CA20/00214749",
+    "number": "••••••",
     "kind": "Class I notification documentation",
     "issuer": "Crealkraft GmbH / German Office of Suzhou Care-Real Medical Technology; authority named: Bezirksregierung Düsseldorf",
     "date": "Registration stated: 23 April 2026; certificate dated 15 May 2026",
@@ -383,12 +306,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "forcus"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Certificate of registration",
-        "url": "/resources/registrations/vr-attention-germany.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number",
     "classification": "Class I as stated in the certificate"
@@ -398,7 +316,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "thailand",
     "title": "QuickMind VR · Thai FDA listing",
     "registeredName": "QuickMind VR Cognitive Assessment and Rehab Training System · identifier Virtual Brain · V1.0.1.02",
-    "number": "69-2-3-2-0005652",
+    "number": "••••••",
     "kind": "Listed medical device certificate",
     "issuer": "Thai Food and Drug Administration, Ministry of Public Health",
     "date": "10 June 2026",
@@ -408,12 +326,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "dr-brain"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Thai FDA certificate and attachments",
-        "url": "/resources/registrations/quickmind-thailand.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number",
     "classification": "Class 1 Non-IVD · FULL pathway"
@@ -423,7 +336,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "hong-kong",
     "title": "Virtual Brain · MDACS listing",
     "registeredName": "Cognitive Dysfunction Assessment and Training Software · Virtual Brain V1",
-    "number": "261055",
+    "number": "••••••",
     "kind": "MDACS certificate of listing",
     "issuer": "Medical Device Division, Department of Health, Hong Kong SAR",
     "date": "6 May 2026",
@@ -433,25 +346,16 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "dr-brain"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Certificate of listing",
-        "url": "/resources/registrations/virtual-brain-hong-kong.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
-    "identifierLabel": "MDACS listing number",
-    "officialSource": {
-      "title": "Hong Kong Medical Device Division listing search",
-      "url": "https://www.mdd.gov.hk/en/mdacs/search-database/index.html"
-    }
+    "identifierLabel": "MDACS listing number"
   },
   {
     "id": "realnow-thailand",
     "region": "thailand",
     "title": "RealNow™ · Thai FDA notification",
     "registeredName": "Medical Image Processing Software · RealNow · release 1.0, full version V1.0.0.02",
-    "number": "69-2-2-2-0006210",
+    "number": "••••••",
     "kind": "Notified medical device certificate",
     "issuer": "Thai Food and Drug Administration, Ministry of Public Health",
     "date": "25 June 2026",
@@ -461,12 +365,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "realnow"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Thai FDA certificate and attachments",
-        "url": "/resources/registrations/realnow-thailand.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number",
     "classification": "Class 2 Non-IVD · ABRIDGED pathway"
@@ -476,7 +375,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "brazil",
     "title": "VR-ASD · ICC compliance certification",
     "registeredName": "LumiBrain · VR-ASD · VR Assessment and Rehabilitation Training System for Autism",
-    "number": "MED 3728-01-26",
+    "number": "••••••",
     "kind": "ICC conformity certificate",
     "issuer": "ICC – Instituto de Certificações e Conformidades · OCP 0174",
     "date": "31 August 2026",
@@ -486,12 +385,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "autismshield"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Complete four-page ICC certificate",
-        "url": "/resources/registrations/vr-asd-brazil-icc.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Record number"
   },
@@ -500,7 +394,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "region": "europe",
     "title": "ASD system · European registration record",
     "registeredName": "ASD Assessment and Rehab Training System · VR-ASD, VR-ASD-A, VR-ASD-R, VR-ASD-H",
-    "number": "0697478241AssessmentPC",
+    "number": "••••••",
     "kind": "Class I / EUDAMED documentation",
     "issuer": "Crealkraft GmbH / German Office of Suzhou Care-Real Medical Technology; authority named: Bezirksregierung Düsseldorf",
     "date": "17 September 2026",
@@ -510,12 +404,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "products": [
       "autismshield"
     ],
-    "sourceDocuments": [
-      {
-        "title": "Certificate of registration",
-        "url": "/resources/registrations/vr-asd-europe.pdf"
-      }
-    ],
+    "sourceDocuments": [],
     "verification": "Supplied document reviewed",
     "identifierLabel": "Basic UDI-DI",
     "classification": "Class I as stated in the certificate"

@@ -186,5 +186,77 @@
   "Your enquiry": [
     "您的询盘",
     "Su consulta"
+  ],
+  "Advancing": [
+    "推动",
+    "Impulsamos"
+  ],
+  "Submit enquiry": [
+    "提交问询",
+    "Enviar consulta"
+  ],
+  "Submitting…": [
+    "正在提交…",
+    "Enviando…"
+  ],
+  "Submit directly on this website. No email app is needed.": [
+    "直接在网站提交，无需打开邮件应用。",
+    "Envíe la consulta en este sitio, sin aplicación de correo."
+  ],
+  "Your contact details are stored so our team can respond. Do not include patient records or other sensitive medical information.": [
+    "我们将保存您的联系方式，以便团队回复。请勿提交患者资料或其他敏感医疗信息。",
+    "Guardaremos sus datos de contacto para responder. No incluya historias clínicas ni información médica sensible."
+  ],
+  "Enquiry saved.": [
+    "问询已保存。",
+    "Consulta guardada."
+  ],
+  "Your enquiry is stored in our inquiry inbox. This confirmation does not mean an email was sent.": [
+    "您的问询已保存至网站收件箱。此确认不代表已发送邮件。",
+    "Su consulta está guardada en nuestro buzón web. Esta confirmación no significa que se haya enviado un correo."
+  ],
+  "Reference:": [
+    "问询编号：",
+    "Referencia:"
+  ],
+  "Submission failed. Please retry or copy your enquiry and email our team.": [
+    "提交失败，请重试，或复制问询后通过邮件联系我们。",
+    "No se pudo enviar. Reintente o copie la consulta y envíela por correo."
+  ],
+  "Product-specific scope · Public summaries only": [
+    "按产品明确范围 · 仅展示公开摘要",
+    "Alcance específico del producto · Solo resúmenes públicos"
+  ],
+  "source documents reviewed": [
+    "已审核来源文件",
+    "documentos fuente revisados"
+  ],
+  "Public summary only. Certificate identifiers and source files are withheld to protect signatures, addresses and other sensitive details. Contact our team for a controlled document review.": [
+    "仅展示公开摘要。证书编号及原文件不公开，以保护签名、地址等敏感信息。如需审阅资料，请联系团队安排受控查阅。",
+    "Solo resumen público. Los identificadores y archivos originales no se publican para proteger firmas, direcciones y otros datos sensibles. Contacte con el equipo para una revisión controlada."
+  ],
+  "records. Open a record for its registered scope and public summary.": [
+    "条记录。打开记录查看适用范围与公开摘要。",
+    "registros. Abra uno para ver su alcance y resumen público."
+  ],
+  "Website": [
+    "网站",
+    "Sitio web"
+  ],
+  "Start another enquiry": [
+    "提交另一条问询",
+    "Crear otra consulta"
+  ],
+  "CT perfusion · Identifier withheld": [
+    "CT 灌注 · 编号不公开",
+    "Perfusión por TC · Identificador reservado"
+  ],
+  "RealNow™ CT perfusion software received FDA 510(k) clearance for the documented module.": [
+    "RealNow™ CT 灌注软件取得文件所载模块的 FDA 510(k) 许可。",
+    "El software RealNow™ de perfusión por TC recibió autorización FDA 510(k) para el módulo documentado."
+  ],
+  "Virtual Brain cognitive-assessment and training software is documented under the documented MDACS listing.": [
+    "Virtual Brain 认知评估与训练软件已有文件所载 MDACS 列名。",
+    "El software de evaluación y entrenamiento cognitivo Virtual Brain consta en el listado MDACS documentado."
   ]
 }
