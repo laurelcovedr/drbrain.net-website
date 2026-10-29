@@ -5,5 +5,6 @@ import './globals.css';
 import './neuro-theme.css';
 import './global-engagement.css';
 import './company-about.css';
+import './review-refinements.css';
 export const metadata:Metadata={...metadataFor('home'),icons:{icon:'/favicon.svg',shortcut:'/favicon.svg'}};
 export default async function RootLayout({children}:{children:React.ReactNode}){const lang=(await headers()).get('x-yiwei-locale')||'en';return <html lang={lang}><body>{children}</body></html>}

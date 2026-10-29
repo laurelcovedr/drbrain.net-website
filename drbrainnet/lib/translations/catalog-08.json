@@ -162,5 +162,29 @@
   "Not specified": [
     "未指定",
     "Sin especificar"
+  ],
+  "Global website": [
+    "全球官网",
+    "Sitio web global"
+  ],
+  "Copy enquiry": [
+    "复制询盘",
+    "Copiar consulta"
+  ],
+  "No email app? Copy your enquiry and send it to the email address shown here.": [
+    "没有邮件应用？请复制询盘，并发送至此处显示的邮箱。",
+    "¿No tiene aplicación de correo? Copie la consulta y envíela a la dirección indicada aquí."
+  ],
+  "Enquiry copied. Paste it into your email and send it to our team.": [
+    "询盘已复制，请粘贴到邮件中并发送给我们。",
+    "Consulta copiada. Péguela en su correo y envíela a nuestro equipo."
+  ],
+  "Select and copy the enquiry below, then send it by email.": [
+    "请选择并复制下方询盘，然后通过邮件发送。",
+    "Seleccione y copie la consulta de abajo y envíela por correo."
+  ],
+  "Your enquiry": [
+    "您的询盘",
+    "Su consulta"
   ]
 }

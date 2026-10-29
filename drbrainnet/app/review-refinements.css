@@ -1,0 +1,15 @@
+/* October 2026 review: preserve brand and shared locale layout. */
+html{scroll-padding-top:calc(var(--header-height,88px) + 24px)}
+:where(a,button,input,textarea,select,summary){scroll-margin-top:calc(var(--header-height,88px) + 24px);touch-action:manipulation}
+h1,h2,h3{text-wrap:balance}
+.site-header :focus-visible{outline:2px solid #66e6ee;outline-offset:4px}
+.footer-directory a,.footer-contact-row>a{min-height:44px;display:flex;align-items:center;line-height:1.5}
+.publication-actions>a,.publication-actions>button,.card-bottom>a{min-height:44px;align-items:center;display:inline-flex}
+.contact-delivery-note,.contact-copy-result p{font-size:.9375rem;line-height:1.7;color:#496779;margin-top:16px}
+.contact-copy-result{margin-top:20px;border-top:1px solid #b7ccd9;padding-top:12px}
+.contact-copy-result label{display:block;margin:16px 0 8px;font-size:.9375rem}
+.contact-copy-result textarea{width:100%;background:#fff;border:1px solid #b7ccd9;border-radius:4px;padding:12px;color:#183d56;line-height:1.65;font:inherit;overflow-wrap:anywhere}
+.contact-copy-result textarea:focus-visible{outline:2px solid #1476e8;outline-offset:2px}
+[role=dialog]{overscroll-behavior:contain}
+@media(max-width:650px){.contact-form-send .button{width:100%;justify-content:center}.footer-directory{column-gap:20px}.footer-directory a{overflow-wrap:anywhere}.language-menu summary,.native-mobile-navigation summary{min-height:44px;min-width:44px;display:flex;align-items:center;justify-content:center}.contact-tabs{flex-wrap:wrap}}
+@media(max-width:480px){.site-header .header-contact{display:none}.header-inner{gap:14px}.language-menu{margin-left:auto}.contact-v3 .contact-intro h1{font-size:clamp(2rem,8.5vw,3rem);overflow-wrap:anywhere}}
