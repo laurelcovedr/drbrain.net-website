@@ -39,12 +39,13 @@ const imageViewports:Record<string,NonNullable<MediaImage['viewport']>>={
 };
 export const getMediaImage=(id:string):MediaImage=>({...mediaImages.find(m=>m.id===id)!,viewport:imageViewports[id]});
 export const productMedia:Record<string,string[]>={
- 'dr-brain':['drbrain-mri-views','quickmind-report','quickmind-vr-care'],
+ 'quickmind-vr':['quickmind-space-game','quickmind-training-scene'],
+ 'dr-brain':['drbrain-mri-views','bp-structural-mri'],
  'realnow':['bp-ct-analysis','realnow-aspects','realnow-vessels','bp-perfusion-analysis'],
- 'autismshield':['autismshield-care-illustration'],
+ 'autismshield':['brochure-asd-family','brochure-asd-device'],
  'forcus':['quickmind-space-game','quickmind-training-scene'],
 };
-export const productCover:Record<string,string>={'dr-brain':'drbrain-mri-views','realnow':'realnow-perfusion','autismshield':'brochure-asd-family','forcus':'brochure-adhd-headset'};
+export const productCover:Record<string,string>={'dr-brain':'drbrain-mri-views','realnow':'realnow-perfusion','autismshield':'brochure-asd-family','forcus':'brochure-adhd-care','quickmind-vr':'brochure-home-rehabilitation'};
 export const technologyMedia:Record<string,string[]>={
  'imaging-ai':['drbrain-mri-views','realnow-perfusion','realnow-vessels'],
  'eye-tracking':['brochure-portable-kit','brochure-portable-pro','brochure-clinical-workstation'],

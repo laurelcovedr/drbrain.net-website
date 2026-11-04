@@ -6,9 +6,11 @@ import {getMediaImage} from '@/lib/yiwei-media';
 import {ProductImage} from '@/components/product-image';
 
 const views=[
- {id:'mri',label:'MRI',image:'drbrain-mri-views',title:'Brain structure, in view.',caption:'Dr.Brain™ · Multiplanar MRI visualization',href:'/technology/imaging-ai'},
- {id:'perfusion',label:'Perfusion',image:'realnow-perfusion',title:'Blood flow, quantified.',caption:'RealNow™ · Original perfusion analysis interface',href:'/products/realnow'},
- {id:'vascular',label:'Vascular',image:'realnow-vessels',title:'A closer view of vessels.',caption:'RealNow™ · Original vascular imaging interface',href:'/products/realnow'},
+ {id:'mri',label:'MRI',image:'drbrain-mri-views',title:'Brain structure, in view.',caption:'QuickMind MRI',href:'/products/dr-brain'},
+ {id:'perfusion',label:'Stroke',image:'realnow-perfusion',title:'Blood flow, quantified.',caption:'RealNow™ · Original perfusion analysis interface',href:'/products/realnow'},
+ {id:'adult-vr',label:'Adult VR',image:'brochure-home-rehabilitation',title:'Adult Cognitive Assessment and Rehabilitation',caption:'QuickMind VR',href:'/products/quickmind-vr'},
+ {id:'asd',label:'ASD',image:'brochure-asd-family',title:'Autism Solution',caption:'AutismShield™',href:'/products/autismshield'},
+ {id:'adhd',label:'ADHD',image:'brochure-adhd-care',title:'ADHD Solution',caption:'ForcusGenius™',href:'/products/forcus'},
 ];
 
 export function NeuroImagingViewer(){

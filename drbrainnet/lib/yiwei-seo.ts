@@ -13,7 +13,7 @@ export const siteOrigin='https://yiwei-medical-global.lawrence-wan-0405.chatgpt.
 export const privateRobots:Metadata['robots']={index:false,follow:false};
 export type SeoPage={path:string;label:string;title:string;description:string;image?:string;legacy?:boolean};
 const page=(path:string,label:string,title:string,description:string,image?:string,legacy?:boolean):SeoPage=>({path,label,title,description,image,legacy});
-const productTopics:Record<string,string>={'dr-brain':'Dementia Care','realnow':'Stroke Imaging AI','autismshield':'Autism Support','forcus':'ADHD Support'};
+const productTopics:Record<string,string>={'dr-brain':'CNS Imaging','quickmind-vr':'Adult Cognitive Care','realnow':'Stroke Imaging AI','autismshield':'Autism Support','forcus':'ADHD Support'};
 const productDescriptions:Record<string,string>={
  'dr-brain':'Explore Dr.Brain™ dementia care: cognitive screening, quantitative MRI analysis, and guided rehabilitation, with component-specific clinical evidence.',
  'realnow':'Explore RealNow™ AI-assisted stroke imaging: CT, vascular, and perfusion analysis for clinical review. View studies and module-specific registrations.',
@@ -23,7 +23,7 @@ const productDescriptions:Record<string,string>={
 export const seoPages:SeoPage[]=[
  page('/','Home','YIWEI MEDICAL | Brain Health AI & Cognitive Care',brandMessaging.metadataDescription),
  page('/products','Products','Brain Health Solutions | YIWEI MEDICAL','Explore Dr.Brain™, RealNow™, AutismShield™, and ForcusGenius™ for dementia care, stroke imaging, autism support, and ADHD support.'),
- ...products.map(p=>page('/products/'+p.slug,p.name,p.name+' '+productTopics[p.slug]+' | YIWEI MEDICAL',productDescriptions[p.slug],getMediaImage(productCover[p.slug]).src)),
+ ...products.map(p=>page('/products/'+p.slug,p.name,p.name+' '+productTopics[p.slug]+' | YIWEI MEDICAL',p.description,getMediaImage(productCover[p.slug]).src)),
  page('/technology','Technology','Brain Imaging & Cognitive Technologies | YIWEI MEDICAL','Explore YIWEI MEDICAL’s quantitative imaging AI, eye-tracking assessment, and VR and tablet cognitive training technologies for brain health.'),
  ...technologies.map(t=>page('/technology/'+t.slug,t.label,({'imaging-ai':'AI Brain Imaging Analysis','eye-tracking':'Eye-Tracking Cognitive Assessment','digital-rehabilitation':'VR & Tablet Cognitive Training'}[t.slug]??t.label)+' | YIWEI MEDICAL',t.summary+' Explore workflows, relevant solutions, and the scope of supporting research.')),
  page('/evidence','Clinical evidence','Brain Health Clinical Evidence | YIWEI MEDICAL','Browse published studies and supplied research for YIWEI MEDICAL solutions. Review original sources, product connections, findings, and evidence scope.'),
@@ -34,7 +34,7 @@ export const seoPages:SeoPage[]=[
  page('/reports/brain-health','Brain Health Report','AI Brain Health & Longevity Report | YIWEI MEDICAL','Preview the 18-page English Brain Health Report for longevity and brain health clinics, with regional MRI findings and source notes for clinical review.','/media/brain-health-report/thumbnail-01.webp'),
  page('/reports/brain-doctor','Brain Doctor','Interactive Brain Doctor Report | YIWEI MEDICAL','Explore the legacy interactive Brain Doctor sample report, with MRI-derived measurements, reporting modules, and source checks for clinician review.',undefined,true),
  page('/about','About us','About YIWEI MEDICAL | Neuroscience & Brain Health AI','Meet YIWEI MEDICAL: a brain health technology company connecting neuroscience, AI imaging, cognitive assessment, and digital cognitive training.','/media/bp/digital-brain-profile.png'),
- page('/about/company','Company profile','YIWEI MEDICAL Team & Company Profile','Meet YIWEI MEDICAL’s leadership and advisors, and explore the company’s mission, brain health technologies, principles, and international field use.'),
+ page('/about/company','Company profile','YIWEI MEDICAL Company Profile','Explore the company’s mission, brain health technologies, principles, and international field use.'),
  page('/about/global-in-practice','Global in practice','Global Brain Health Field Use | YIWEI MEDICAL','Explore company-supplied photos of brain health assessment, VR demonstrations, and guided practice across nine international markets and regions.'),
  page('/about/global-registrations','Global registrations','Global Medical Device Registrations | YIWEI MEDICAL','Review YIWEI MEDICAL’s product-specific market documents, regulatory scope, and registration workstreams, including Malaysia, Singapore, and Indonesia.'),
  page('/contact','Contact','Contact YIWEI MEDICAL | Brain Health Collaboration','Contact YIWEI MEDICAL in Shenzhen about brain health solutions, research collaboration, and international distribution. Prepare an email enquiry online.'),

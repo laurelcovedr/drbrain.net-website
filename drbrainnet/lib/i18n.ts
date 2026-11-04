@@ -1,7 +1,10 @@
 import catalog from './translations/catalog';
+import editorial from './editorial-overrides.json';
 export type Locale='en'|'zh'|'es';
 export const localeNames={en:'English',zh:'中文',es:'Español'};
 export function translate(text:string,locale:Locale):string{
+ const replacement=(editorial as Record<string,string>)[text.trim()];
+ if(replacement)text=text.replace(text.trim(),replacement);
  if(locale==='en'||!text.trim())return text;
  const key=text.replace(/\s+/g,' ').trim();
  const translated=(catalog as Record<string,string[]>)[key]?.[locale==='zh'?0:1];

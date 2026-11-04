@@ -324,7 +324,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "scope": "Cognitive assessment and rehabilitation training for the populations stated in the attachment, including mild-to-moderate cognitive impairment and post-stroke cognitive impairment.",
     "note": "Thai Class 1 Non-IVD listing through the named importer and location. The attachment defines the system, software version and populations. Dates are converted from the Thai Buddhist calendar to Gregorian dates.",
     "products": [
-      "dr-brain"
+      "quickmind-vr"
     ],
     "sourceDocuments": [],
     "verification": "Supplied document reviewed",
@@ -344,7 +344,7 @@ export const regulatoryRecords:RegulatoryRecord[]=[
     "scope": "Listed as Software, Neuropsychological Therapeutic under Hong Kong’s Medical Device Administrative Control System.",
     "note": "Manufacturer named: Changsha YIWEI Medical Technology Co., Ltd. Local responsible person: Smart Idea Health Technology Limited. The listing applies to Virtual Brain V1; the document does not list the ForcusGenius™ or AutismShield™ trade names.",
     "products": [
-      "dr-brain"
+      "quickmind-vr"
     ],
     "sourceDocuments": [],
     "verification": "Supplied document reviewed",

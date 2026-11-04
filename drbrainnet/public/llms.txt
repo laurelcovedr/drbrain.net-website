@@ -2,21 +2,21 @@
 
 > Brain health technology spanning AI-powered brain imaging analysis, cognitive assessment and guided VR/tablet cognitive practice.
 
-This is a restricted-access review website. This file is a supplemental content index, not permission to bypass authentication or a guarantee of AI search inclusion. Public crawling remains disabled.
+This is a public review website. This file is a supplemental content index, not permission to bypass authentication or a guarantee of AI search inclusion. Public crawling remains disabled.
 
 ## Company and contact
-- [Company profile](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/about/company): Mission, team and company background.
+- [Company profile](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/about/company): Mission and company background.
 - [Contact](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/contact): Healthcare, research and distribution enquiries.
 
 ## Solutions and direct answers
-- [Dr.Brain](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/products/dr-brain): Cognitive screening, quantitative MRI and guided practice; component-specific evidence and questions.
+- [QuickMind MRI](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/products/dr-brain): Quantitative brain MRI with component-specific evidence and questions.
 - [RealNow](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/products/realnow): AI-assisted CT, vascular and perfusion imaging for clinical review.
 - [AutismShield](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/products/autismshield): Guided VR/tablet activities for social attention and developmental skills.
 - [ForcusGenius](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/products/forcus): Guided attention and executive-function practice.
 
 ## Evidence and interpretation
 - [Evidence library](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/evidence): Published sources, DOI references, study summaries and limitations.
-- [Dr.Brain evidence](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/evidence/dr-brain): Screening and structural MRI research.
+- [QuickMind MRI evidence](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/evidence/dr-brain): Structural MRI research.
 - [RealNow evidence](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/evidence/realnow): Stroke-imaging research.
 - [AutismShield context](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/evidence/autismshield): Independent research context; product-specific efficacy studies were not identified in supplied material.
 - [ForcusGenius context](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/evidence/forcus): Independent research context; product-specific efficacy studies were not identified in supplied material.
@@ -29,3 +29,6 @@ Research results apply to the studied components, populations and versions. Do n
 - [Digital rehabilitation](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/technology/digital-rehabilitation): Guided VR/tablet practice.
 - [Care settings](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/care-settings): Clinical workflow contexts.
 - [English sample report](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/reports/brain-health): Example reporting format for clinician-led consultations; not an individual diagnosis.
+
+- [QuickMind VR](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/products/quickmind-vr): Adult cognitive screening and rehabilitation.
+- [QuickMind VR evidence](https://yiwei-medical-global.lawrence-wan-0405.chatgpt.site/evidence/quickmind-vr): Adult VR and eye-tracking research, with independent rehabilitation literature.

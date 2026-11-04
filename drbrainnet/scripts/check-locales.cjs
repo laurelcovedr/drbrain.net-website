@@ -11,7 +11,7 @@ for(const p of seoPages.filter(p=>!p.legacy)){
  const english=render('en');for(const locale of ['zh','es']){const html=render(locale);assert.equal(signature(html),signature(english),'DOM structure changed: '+locale+p.path);const prefix='/'+locale;
  const content=html.replace(/<details class="language-menu"[\s\S]*?<\/details>/g,'');
  for(const m of content.matchAll(/href="(\/(?!\/)[^"?#]*)/g)){if(/^\/(products|technology|evidence|care-settings|reports|about|contact)(\/|$)/.test(m[1])){assert.fail('unlocalized internal link '+m[1]+' on '+locale+p.path);}}
- if(p.path==='/'){assert(html.includes(locale==='zh'?'推动脑健康':'Impulsamos la salud cerebral'));assert(html.includes(locale==='zh'?'四大聚焦方案':'Cuatro soluciones específicas'));}
+ if(p.path==='/'){assert(html.includes(locale==='zh'?'推动脑健康':'Impulsamos la salud cerebral'));assert(html.includes(locale==='zh'?'五大专业产品':'Cinco Productos Especializados'));}
  if(p.path==='/evidence'){assert(html.includes(locale==='zh'?'按方案筛选证据':'Filtrar evidencia por solución'));assert(!html.includes('aria-label="Filter evidence by solution"'));}
  if(p.path==='/contact')for(const attr of ['name="name"','name="email"','name="message"','required=""'])assert(html.includes(attr),'form contract changed');
  count++;}

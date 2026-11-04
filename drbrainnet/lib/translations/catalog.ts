@@ -6,5 +6,6 @@ import c5 from './catalog-05.json';
 import c6 from './catalog-06.json';
 import c7 from './catalog-07.json';
 import c8 from './catalog-08.json';
-const catalog={...c1,...c2,...c3,...c4,...c5,...c6,...c7,...c8};
+import c9 from './catalog-09.json';
+const catalog={...c1,...c2,...c3,...c4,...c5,...c6,...c7,...c8,...c9};
 export default catalog;

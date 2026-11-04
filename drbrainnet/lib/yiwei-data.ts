@@ -1,8 +1,26 @@
 import {brandMessaging} from './yiwei-brand';
 import {technologies} from './yiwei-technology';
 import {careSettings} from './yiwei-care-settings';
-export type Article = {id:string;title:string;authors:string;journal:string;year:string;kind:string;relation:string;products:string[];summary:string;limits:string;url:string;doi:string;component?:string;institutions?:string[];citation?:string;researchRole?:string;publicationNote?:string;suppliedPdf?:string;metrics?:{value:string;label:string}[]};
+export type Article = {id:string;title:string;authors:string;journal:string;year:string;kind:string;relation:string;products:string[];summary:string;limits:string;url:string;doi:string;component?:string;institutions?:string[];citation?:string;researchRole?:string;publicationNote?:string;suppliedPdf?:string;externalPdf?:string;fullText?:string;metrics?:{value:string;label:string}[]};
 export const articles:Article[]=[
+{
+  "id": "adult-vr-rehab",
+  "title": "Effects of fully immersive virtual reality training on cognitive function in patients with mild cognitive impairment: a systematic review and meta-analysis",
+  "authors": "Yu J, Song J, Shen Q",
+  "journal": "Frontiers in Human Neuroscience",
+  "year": "2024",
+  "kind": "Meta-analysis",
+  "relation": "Independent field evidence",
+  "products": [
+    "quickmind-vr"
+  ],
+  "component": "Adult VR · Rehabilitation Research",
+  "summary": "This review pooled 11 randomized trials involving 525 participants with mild cognitive impairment. It reported improvements in global cognition, attention and executive function, while memory effects were not statistically significant.",
+  "limits": "Independent research across different VR interventions, not a trial of QuickMind VR. Differences in study quality, interventions and populations limit generalization to a marketed device.",
+  "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1467697/full",
+  "doi": "10.3389/fnhum.2024.1467697",
+  "externalPdf": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1467697/pdf"
+},
   {
     "id": "veca",
     "component": "Screening · VR & eye tracking",
@@ -13,7 +31,7 @@ export const articles:Article[]=[
     "kind": "Clinical study",
     "relation": "YIWEI-coauthored screening research",
     "products": [
-      "dr-brain"
+      "quickmind-vr"
     ],
     "summary": "The VECA study evaluated eye tracking, VR and machine learning in 201 participants in Shenzhen. The model predicted MoCA scores and classified cognitive impairment across educational groups.",
     "limits": "Single-location study; performance is specific to the studied population and model. Correlation is not diagnostic accuracy. International validation and marketed-version equivalence require confirmation.",
@@ -56,7 +74,8 @@ export const articles:Article[]=[
     "kind": "Clinical study",
     "relation": "Study using Dr.Brain™ technology",
     "products": [
-      "dr-brain"
+      "dr-brain",
+      "quickmind-vr"
     ],
     "summary": "A study of 77 early-AD patients and 58 cognitively unimpaired participants combined Dr.Brain™ hippocampal measurements with VR eye-tracking assessment. The combined model had an AUC of 0.825, compared with 0.629 for hippocampal volume alone.",
     "limits": "Single-center, cross-sectional study with education imbalance. The combined model result is not a standalone product claim or proof of population-wide diagnostic performance.",
@@ -132,7 +151,8 @@ export const articles:Article[]=[
     "summary": "A review of MRI-based brain-age estimation and its potential as a research biomarker. It provides context for the brain-aging section of the English Brain Doctor report.",
     "limits": "Independent background literature. It does not validate the Dr.Brain™ brain-age model, provide a lifespan forecast, or supply an individual diagnostic threshold.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/29074032/",
-    "doi": "10.1016/j.tins.2017.10.001"
+    "doi": "10.1016/j.tins.2017.10.001",
+    "externalPdf": "https://kclpure.kcl.ac.uk/portal/files/102398327/Predicting_age_using_neuroimaging_COLE_Firstonline23October2017_GREEN_AAM.pdf"
   },
   {
     "id": "perfusion",
@@ -189,7 +209,8 @@ export const articles:Article[]=[
     "summary": "DEFUSE 3 studied thrombectomy in patients selected using perfusion imaging. It explains the clinical context for core, penumbra and mismatch measurements.",
     "limits": "An independent treatment trial using its specified imaging-selection workflow. It is not a RealNow™ regulatory approval or direct validation study.",
     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1713973",
-    "doi": "10.1056/NEJMoa1713973"
+    "doi": "10.1056/NEJMoa1713973",
+    "fullText": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6590673/"
   },
   {
     "id": "community",
@@ -201,7 +222,7 @@ export const articles:Article[]=[
     "kind": "Clinical study",
     "relation": "YIWEI-coauthored screening research",
     "products": [
-      "dr-brain"
+      "quickmind-vr"
     ],
     "summary": "Among 823 adults aged 65 or older in Shenzhen, machine-learning models combined AD8 responses with health characteristics to screen for cognitive impairment. The multilayer perceptron achieved an AUC of 0.83 ± 0.04, compared with 0.65 for the AD8 reference approach.",
     "limits": "Community data with cross-validation, without independent international validation. This AD8-based model does not directly establish VR hardware performance, rehabilitation efficacy or full-pathway dementia outcomes.",
@@ -241,7 +262,8 @@ export const articles:Article[]=[
     "summary": "A randomized controlled trial of the AKL-T01 digital intervention in children with ADHD. It provides a reference for attention-focused digital intervention design and clinical evaluation.",
     "limits": "This study evaluates AKL-T01, a different product. Its results and authorization cannot be transferred to ForcusGenius™.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/33334505/",
-    "doi": "10.1016/S2589-7500(20)30017-0"
+    "doi": "10.1016/S2589-7500(20)30017-0",
+    "externalPdf": "https://teams.semel.ucla.edu/sites/default/files/group_news/kollins2020_endeavorrx_adhd_tx.pdf"
   },
   {
     "id": "adhd-meta",
@@ -258,7 +280,8 @@ export const articles:Article[]=[
     "summary": "This meta-analysis found gains in targeted working-memory performance, with limited effects on ADHD symptoms in blinded ratings. It helps define appropriate outcome measures for cognitive training.",
     "limits": "Background evidence across other interventions. Improvements on trained tasks should not be equated with broad clinical benefit or a ForcusGenius™ treatment effect.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/25721181/",
-    "doi": "10.1016/j.jaac.2014.12.010"
+    "doi": "10.1016/j.jaac.2014.12.010",
+    "fullText": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4382075/"
   },
   {
     "id": "autism-gaze",
@@ -275,7 +298,8 @@ export const articles:Article[]=[
     "summary": "An eye-tracking study of facial-emotion recognition and visual attention in autistic and comparison participants. It provides background for social-attention tasks described in the supplied child-development material.",
     "limits": "Group-level research findings are not an individual diagnostic test. This is not a validation study of AutismShield™.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/29490486/",
-    "doi": "10.1177/1362361316667830"
+    "doi": "10.1177/1362361316667830",
+    "fullText": "https://journals.sagepub.com/doi/10.1177/1362361316667830"
   },
   {
     "id": "autism-vr",
@@ -292,7 +316,8 @@ export const articles:Article[]=[
     "summary": "A pilot study investigated virtual social-cognition training in 30 children aged 7–16, using ten sessions over five weeks. It provides context for VR social-skills practice.",
     "limits": "Small pilot study of a different intervention and selected population. It does not establish AutismShield™ efficacy or generalize to every autistic child.",
     "url": "https://www.sciencedirect.com/science/article/pii/S0747563216303089",
-    "doi": "10.1016/j.chb.2016.04.033"
+    "doi": "10.1016/j.chb.2016.04.033",
+    "externalPdf": "https://bpb-us-e2.wpmucdn.com/labs.utdallas.edu/dist/6/84/files/2020/07/krawczyklab_g00001f.pdf"
   },
   {
     "id": "ad-metabolites",
@@ -677,11 +702,196 @@ export const articles:Article[]=[
 ];
 export type Product={slug:string;name:string;subtitle:string;category:string;number:string;tag:string;description:string;features:{title:string;text:string}[];applications:string[];workflow:string[];resource:string;source:string;image?:string;relatedResources?:{title:string;description:string;url:string}[]};
 export const products:Product[]=[
- {slug:'dr-brain',name:'Dr.Brain™',subtitle:'Dementia care solution',category:'Dementia care',number:'01',tag:'Screening · Diagnosis · Rehabilitation',description:'Screening, quantitative brain imaging and guided rehabilitation for dementia care.',features:[{title:'Screening',text:'QuickMind eye-tracking and structured cognitive assessment support screening and referral.'},{title:'Diagnosis',text:'Quantitative MRI and Brain Doctor reports inform clinician-led diagnostic evaluation.'},{title:'Rehabilitation',text:'QuickMind cognitive and motor practice supports individualized plans in the clinic and at home.'}],applications:['Memory and brain health clinics','Community screening programs','Cognitive rehabilitation services','Senior care and clinician-guided home care'],workflow:['Screen: assess cognition and identify the need for further evaluation','Diagnose: combine clinical assessment with quantitative imaging and reviewed reports','Rehabilitate: set an individual plan, record practice and review progress'],resource:'/reports/brain-health',source:'https://www.drbrain.net/product-fw.aspx',image:'/media/quickmind-care.webp',relatedResources:[{title:'QuickMind overview',description:'Screening and rehabilitation module within the Dr.Brain™ solution.',url:'/resources/quickmind-brochure.pdf'},{title:'QuickMind home care',description:'Explore the supported home configuration.',url:'https://quickmindstore.com/'}]},
- {slug:'realnow',name:'RealNow™',subtitle:'Stroke care solution',category:'Stroke care',number:'02',tag:'CT · CTA · CTP · MRP',description:'AI-assisted brain imaging for stroke assessment and clinical review.',features:[{title:'Non-contrast CT',text:'Hemorrhage identification, volume analysis and module-specific ASPECTS assessment.'},{title:'Vascular analysis',text:'Vessel reconstruction and analysis of occlusion, stenosis and vascular findings.'},{title:'Perfusion assessment',text:'Core, penumbra and mismatch measurements from supported CT or MR imaging.'}],applications:['Stroke centers and emergency pathways','Radiology departments','Multidisciplinary stroke review','Perfusion-imaging research'],workflow:['Import supported CT or MR imaging','Generate module-specific measurements','Review images, maps and segmentation','Use verified results in the clinical pathway'],resource:'/resources/realnow-brochure.pdf',source:'https://www.drbrain.net/product-nb.aspx',image:'/media/realnow-clinical.webp'},
- {slug:'autismshield',name:'AutismShield™',subtitle:'Autism support solution',category:'Child development',number:'03',tag:'Autism · VR + tablet',description:'VR and tablet practice for social attention and developmental skills.',features:[{title:'Social-attention tasks',text:'Gaze activities examine social cues, where appropriate for the child.'},{title:'Structured skill practice',text:'VR and tablet activities support selected developmental goals.'},{title:'Family participation',text:'Caregivers and clinicians review training records and adapt the plan.'}],applications:['Developmental pediatrics','Autism rehabilitation services','Individualized family-supported practice','Social-attention research'],workflow:['Define individual developmental goals','Choose tolerable, age-appropriate activities','Monitor gaze, task responses and engagement','Review progress within the broader care plan'],resource:'/resources/virtualbrain-overview.pdf',source:'https://www.drbrain.net/product-nb2_en.aspx'},
- {slug:'forcus',name:'ForcusGenius™',subtitle:'ADHD support solution',category:'Child development',number:'04',tag:'ADHD · VR + tablet',description:'Guided VR and tablet practice for attention and executive function.',features:[{title:'Focused attention tasks',text:'Sustained-attention practice with controlled distractors.'},{title:'Adaptive practice',text:'Clinician-selected tasks with adjustable difficulty.'},{title:'Measurable sessions',text:'Responses, reaction times and errors support progress review.'}],applications:['Child development and rehabilitation clinics','Pediatric neurology services','Clinician-guided family training','Attention and learning-support programs'],workflow:['Review the child’s clinical assessment','Select appropriate tasks and difficulty','Record practice and tolerability','Review task performance with family and clinician'],resource:'/resources/virtualbrain-overview.pdf',source:'https://www.drbrain.net/product-nb2_en.aspx'}
+  {
+    "slug": "dr-brain",
+    "name": "QuickMind MRI",
+    "subtitle": "CNS Diseases Solution",
+    "category": "Dementia care",
+    "number": "01",
+    "tag": "MRI · Quantification · Reporting",
+    "description": "An AI-assisted imaging platform for the assessment of dementia, Alzheimer’s disease and cerebrovascular disease. Supported MRI sequences provide quantitative brain measurements and structured findings for specialist review.",
+    "features": [
+      {
+        "title": "Brain Structure Analysis",
+        "text": "Quantify regional brain volumes and review cognition-related structures on MRI."
+      },
+      {
+        "title": "White-Matter Review",
+        "text": "Review white-matter findings alongside source images and regional measurements."
+      },
+      {
+        "title": "English reporting",
+        "text": "Brain Doctor organizes source measurements, reference intervals and review notes in an English report."
+      }
+    ],
+    "applications": [
+      "Memory and brain health clinics",
+      "Radiology departments",
+      "Neurological imaging assessment"
+    ],
+    "workflow": [
+      "Check the required sequences and image quality.",
+      "Generate the supported module’s measurements and maps.",
+      "Review segmentation and findings with the original images.",
+      "Integrate verified results with the clinical assessment."
+    ],
+    "resource": "/reports/brain-health",
+    "source": "",
+    "image": "/media/quickmind-care.webp",
+    "relatedResources": []
+  },
+  {
+    "slug": "realnow",
+    "name": "RealNow™",
+    "subtitle": "Stroke Solution",
+    "category": "Stroke care",
+    "number": "02",
+    "tag": "CT · CTA · CTP · MRP",
+    "description": "An integrated AI-assisted imaging platform for acute stroke assessment, bringing CT, vascular reconstruction and perfusion analysis into one clinical review workflow.",
+    "features": [
+      {
+        "title": "Non-contrast CT",
+        "text": "Hemorrhage identification, volume analysis and module-specific ASPECTS assessment."
+      },
+      {
+        "title": "Vascular analysis",
+        "text": "Vessel reconstruction and analysis of occlusion, stenosis and vascular findings."
+      },
+      {
+        "title": "Perfusion assessment",
+        "text": "Core, penumbra and mismatch measurements from supported CT or MR imaging."
+      }
+    ],
+    "applications": [
+      "Stroke centers and emergency pathways",
+      "Radiology departments",
+      "Multidisciplinary stroke review",
+      "Perfusion-imaging research"
+    ],
+    "workflow": [
+      "Import supported CT or MR imaging",
+      "Generate module-specific measurements",
+      "Review images, maps and segmentation",
+      "Use verified results in the clinical pathway"
+    ],
+    "resource": "/resources/realnow-brochure.pdf",
+    "source": "",
+    "image": "/media/realnow-clinical.webp"
+  },
+  {
+    "slug": "quickmind-vr",
+    "name": "QuickMind VR",
+    "subtitle": "Adult Cognitive Assessment and Rehabilitation",
+    "category": "Adult Cognitive Care",
+    "number": "03",
+    "tag": "VR · Eye Tracking · Cognitive Training",
+    "description": "A dedicated VR and eye-tracking system for cognitive screening and rehabilitation in adults and older adults. Structured assessment tasks, personalized cognitive and motor training, and session records support care from the clinic to guided home practice.",
+    "features": [
+      {
+        "title": "Structured assessment",
+        "text": "QuickMind eye-tracking assessment sits within the screening stage of the Dr.Brain™ dementia-care solution."
+      },
+      {
+        "title": "Cognitive practice",
+        "text": "QuickMind supports cognitive and motor practice within Dr.Brain™’s rehabilitation pathway."
+      },
+      {
+        "title": "Progress Review",
+        "text": "Session records help clinicians and caregivers review participation, task performance and the next training plan."
+      }
+    ],
+    "applications": [
+      "Memory and brain health clinics",
+      "Community screening programs",
+      "Cognitive rehabilitation services",
+      "Senior care and clinician-guided home care"
+    ],
+    "workflow": [
+      "Prepare a suitable task environment.",
+      "Complete the structured cognitive activities.",
+      "Review task performance and measurement quality.",
+      "Define goals with the clinician and family.",
+      "Review progress and adapt the individual plan."
+    ],
+    "resource": "/resources/quickmind-brochure.pdf",
+    "source": "",
+    "relatedResources": []
+  },
+  {
+    "slug": "autismshield",
+    "name": "AutismShield™",
+    "subtitle": "Autism Solution",
+    "category": "Child development",
+    "number": "04",
+    "tag": "Autism · VR + tablet",
+    "description": "A VR-based system combining immersive scenarios, eye-tracking tasks and AI-assisted analysis to support autism assessment and individualized rehabilitation training. Clinicians select activities and interpret task results within the care plan.",
+    "features": [
+      {
+        "title": "Social-attention tasks",
+        "text": "Gaze activities examine social cues, where appropriate for the child."
+      },
+      {
+        "title": "Structured skill practice",
+        "text": "VR and tablet activities support selected developmental goals."
+      },
+      {
+        "title": "Family participation",
+        "text": "Caregivers and clinicians review training records and adapt the plan."
+      }
+    ],
+    "applications": [
+      "Developmental pediatrics",
+      "Autism rehabilitation services",
+      "Individualized family-supported practice",
+      "Social-attention research"
+    ],
+    "workflow": [
+      "Define individual developmental goals",
+      "Choose tolerable, age-appropriate activities",
+      "Monitor gaze, task responses and engagement",
+      "Review progress within the broader care plan"
+    ],
+    "resource": "/resources/virtualbrain-overview.pdf",
+    "source": ""
+  },
+  {
+    "slug": "forcus",
+    "name": "ForcusGenius™",
+    "subtitle": "ADHD Solution",
+    "category": "Child development",
+    "number": "05",
+    "tag": "ADHD · VR + tablet",
+    "description": "A VR-based system combining immersive scenarios, eye-tracking tasks and AI-assisted analysis to support ADHD assessment and individualized rehabilitation training. Clinicians select activities and interpret task results within the care plan.",
+    "features": [
+      {
+        "title": "Focused attention tasks",
+        "text": "Sustained-attention practice with controlled distractors."
+      },
+      {
+        "title": "Adaptive practice",
+        "text": "Clinician-selected tasks with adjustable difficulty."
+      },
+      {
+        "title": "Measurable sessions",
+        "text": "Responses, reaction times and errors support progress review."
+      }
+    ],
+    "applications": [
+      "Child development and rehabilitation clinics",
+      "Pediatric neurology services",
+      "Clinician-guided family training",
+      "Attention and learning-support programs"
+    ],
+    "workflow": [
+      "Review the child’s clinical assessment",
+      "Select appropriate tasks and difficulty",
+      "Record practice and tolerability",
+      "Review task performance with family and clinician"
+    ],
+    "resource": "/resources/virtualbrain-overview.pdf",
+    "source": ""
+  }
 ];
-export const productAliases:Record<string,string>={'quickmind':'dr-brain','virtualbrain-asd':'autismshield','virtualbrain-adhd':'forcus'};
+export const productAliases:Record<string,string>={'quickmind':'quickmind-vr','virtualbrain-asd':'autismshield','virtualbrain-adhd':'forcus'};
 export const sections=['products','technology','evidence','care-settings','reports','about','contact'];
 export const titleFor=(section:string,slug?:string)=>section==='reports'&&slug==='brain-health'?'Brain Health Report':section==='care-settings'?(slug?careSettings.find(s=>s.slug===slug)?.label??'Care settings':'Care settings'):section==='technology'&&slug?(technologies.find(t=>t.slug===slug)?.label??'Brain science & technology'):section==='about'&&slug==='company'?'Company profile':section==='about'&&slug==='global-in-practice'?'Global in practice':section==='about'&&slug==='global-registrations'?'Global registrations & compliance':slug?(section==='evidence'?'Clinical evidence: ':'')+(products.find(p=>p.slug===(productAliases[slug]??slug))?.name??'Brain Doctor Report'):({products:'Our solutions',technology:'Brain science & technology',evidence:'Clinical evidence',reports:'Brain Doctor reports',about:'About YIWEI MEDICAL',contact:'Connect with YIWEI MEDICAL'}[section]??brandMessaging.slogan);
