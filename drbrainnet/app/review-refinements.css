@@ -84,3 +84,10 @@ body,button,input,select,textarea,h1,h2,h3,h4,.media-dialog [data-slot=dialog-ti
 @media(max-width:650px){.product-card{grid-template-columns:1fr;padding:20px}.product-card .card-number{display:none}.product-card .card-visual{width:100%;height:230px;grid-column:1;grid-row:auto}.product-card .card-identity,.product-card>p,.product-card .card-bottom{grid-column:1;grid-row:auto}.product-hero-art.scene-frame{min-height:260px}.product-hero-art.scene-frame>img{height:290px}.platform-review{grid-template-columns:1fr}.setting-panel>figure>img{height:280px}.product-page-anchors{gap:22px}.neuro-view-tabs [data-slot=tabs-trigger]{flex-basis:25%}}
 
 .product-hero.forcus .product-hero-art.scene-frame > img { object-fit: cover; }
+
+/* Brand lockup: keep the approved English slogan beside the header logo. */
+.header-brand-lockup{display:flex;align-items:center;gap:16px;flex-shrink:0}
+.header-brand-slogan{display:block;max-width:112px;padding-left:16px;border-left:1px solid #ffffff50;color:#e8f5fa;font-size:14px;font-weight:500;line-height:1.5;letter-spacing:0;white-space:normal}
+@media(min-width:1051px){.header-inner{gap:20px}.native-desktop-navigation{gap:16px}}
+@media(min-width:1051px) and (max-width:1250px){.header-inner{flex-wrap:wrap}.native-desktop-navigation{order:5;width:100%;justify-content:flex-end}.header-inner>.language-menu{margin-left:auto}}
+@media(max-width:650px){.header-inner{flex-wrap:wrap}.header-brand-lockup{margin-right:auto;gap:10px}.header-brand-slogan{max-width:103px;padding-left:10px;font-size:12px}.header-inner>.header-contact{display:none}.header-inner>.language-menu{margin-left:auto}}

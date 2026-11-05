@@ -23,7 +23,7 @@ export function Header({section,detail}:{section:string;detail?:string}){
     document.addEventListener('click',closeAll);document.addEventListener('keydown',closeAll);
     return ()=>{document.removeEventListener('click',closeAll);document.removeEventListener('keydown',closeAll)};
   },[]);
-  return <header className="site-header" ref={header}><div className="header-inner"><Brand/>
+  return <header className="site-header" ref={header}><div className="header-inner"><div className="header-brand-lockup"><Brand/><span className="header-brand-slogan" lang="en">Brain Science. Better Lives.</span></div>
     <nav className="native-desktop-navigation" aria-label="Main navigation">{navigation.map(n=><div className="native-nav-item" key={n.slug}>
       <Link href={'/'+n.slug} className={'native-primary-link '+(section===n.slug?'active':'')} aria-current={section===n.slug&&!detail?'page':undefined}>{n.label}</Link>
       <details className="native-nav-disclosure" name="desktop-submenu"><summary aria-label={'Show '+n.label+' pages'}><ChevronDown size={15}/></summary><div className="native-submenu"><span className="eyebrow">{n.label}</span><Link href={'/'+n.slug} className="nav-overview">{n.overview}</Link>{n.children.map(c=><Link href={'/'+n.slug+'/'+c.slug} key={c.slug} aria-current={section===n.slug&&detail===c.slug?'page':undefined}><b>{c.label}</b><span>{c.description}</span></Link>)}</div></details>
